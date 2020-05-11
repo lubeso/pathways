@@ -1,0 +1,2168 @@
+NAME,Total,Male (Public),Male (Private),Female (Public),Female (Private),state,county,tract
+"Census Tract 1, New York County, New York",0,0,0,0,0,36,061,1000100
+"Census Tract 2.01, New York County, New York",141,23,0,118,0,36,061,1000201
+"Census Tract 2.02, New York County, New York",287,172,0,83,32,36,061,1000202
+"Census Tract 5, New York County, New York",0,0,0,0,0,36,061,1000500
+"Census Tract 6, New York County, New York",462,277,0,185,0,36,061,1000600
+"Census Tract 7, New York County, New York",118,118,0,0,0,36,061,1000700
+"Census Tract 8, New York County, New York",407,222,0,152,33,36,061,1000800
+"Census Tract 9, New York County, New York",24,13,0,11,0,36,061,1000900
+"Census Tract 10.01, New York County, New York",29,5,6,18,0,36,061,1001001
+"Census Tract 10.02, New York County, New York",313,243,0,70,0,36,061,1001002
+"Census Tract 12, New York County, New York",81,46,8,18,9,36,061,1001200
+"Census Tract 13, New York County, New York",73,25,12,36,0,36,061,1001300
+"Census Tract 14.01, New York County, New York",89,9,0,73,7,36,061,1001401
+"Census Tract 14.02, New York County, New York",94,0,38,56,0,36,061,1001402
+"Census Tract 15.01, New York County, New York",40,22,18,0,0,36,061,1001501
+"Census Tract 15.02, New York County, New York",104,68,0,24,12,36,061,1001502
+"Census Tract 16, New York County, New York",145,40,17,88,0,36,061,1001600
+"Census Tract 18, New York County, New York",113,69,0,44,0,36,061,1001800
+"Census Tract 20, New York County, New York",242,126,15,101,0,36,061,1002000
+"Census Tract 21, New York County, New York",201,53,65,28,55,36,061,1002100
+"Census Tract 22.01, New York County, New York",287,95,0,192,0,36,061,1002201
+"Census Tract 22.02, New York County, New York",72,13,32,27,0,36,061,1002202
+"Census Tract 24, New York County, New York",160,113,18,19,10,36,061,1002400
+"Census Tract 25, New York County, New York",260,128,7,125,0,36,061,1002500
+"Census Tract 26.01, New York County, New York",223,75,35,97,16,36,061,1002601
+"Census Tract 26.02, New York County, New York",52,37,15,0,0,36,061,1002602
+"Census Tract 27, New York County, New York",97,42,0,55,0,36,061,1002700
+"Census Tract 28, New York County, New York",337,173,0,124,40,36,061,1002800
+"Census Tract 29, New York County, New York",136,110,14,12,0,36,061,1002900
+"Census Tract 30.01, New York County, New York",90,16,0,74,0,36,061,1003001
+"Census Tract 30.02, New York County, New York",43,7,0,36,0,36,061,1003002
+"Census Tract 31, New York County, New York",20,20,0,0,0,36,061,1003100
+"Census Tract 32, New York County, New York",55,17,23,15,0,36,061,1003200
+"Census Tract 33, New York County, New York",169,41,90,0,38,36,061,1003300
+"Census Tract 34, New York County, New York",56,21,0,26,9,36,061,1003400
+"Census Tract 36.01, New York County, New York",143,90,14,28,11,36,061,1003601
+"Census Tract 36.02, New York County, New York",0,0,0,0,0,36,061,1003602
+"Census Tract 37, New York County, New York",35,19,0,16,0,36,061,1003700
+"Census Tract 38, New York County, New York",86,28,0,55,3,36,061,1003800
+"Census Tract 39, New York County, New York",237,22,81,72,62,36,061,1003900
+"Census Tract 40, New York County, New York",19,0,0,0,19,36,061,1004000
+"Census Tract 41, New York County, New York",287,128,0,137,22,36,061,1004100
+"Census Tract 42, New York County, New York",45,36,0,9,0,36,061,1004200
+"Census Tract 43, New York County, New York",17,0,17,0,0,36,061,1004300
+"Census Tract 44, New York County, New York",416,112,0,174,130,36,061,1004400
+"Census Tract 45, New York County, New York",57,37,0,7,13,36,061,1004500
+"Census Tract 47, New York County, New York",47,28,0,0,19,36,061,1004700
+"Census Tract 48, New York County, New York",92,0,33,27,32,36,061,1004800
+"Census Tract 49, New York County, New York",74,58,0,4,12,36,061,1004900
+"Census Tract 50, New York County, New York",119,20,20,13,66,36,061,1005000
+"Census Tract 52, New York County, New York",23,0,18,0,5,36,061,1005200
+"Census Tract 54, New York County, New York",98,36,13,14,35,36,061,1005400
+"Census Tract 55.01, New York County, New York",146,36,29,66,15,36,061,1005501
+"Census Tract 55.02, New York County, New York",43,11,30,2,0,36,061,1005502
+"Census Tract 56, New York County, New York",0,0,0,0,0,36,061,1005600
+"Census Tract 57, New York County, New York",37,17,10,0,10,36,061,1005700
+"Census Tract 58, New York County, New York",36,36,0,0,0,36,061,1005800
+"Census Tract 59, New York County, New York",45,0,45,0,0,36,061,1005900
+"Census Tract 60, New York County, New York",30,0,17,13,0,36,061,1006000
+"Census Tract 61, New York County, New York",86,16,0,0,70,36,061,1006100
+"Census Tract 62, New York County, New York",64,29,9,0,26,36,061,1006200
+"Census Tract 63, New York County, New York",81,24,29,0,28,36,061,1006300
+"Census Tract 64, New York County, New York",8,4,0,4,0,36,061,1006400
+"Census Tract 65, New York County, New York",35,35,0,0,0,36,061,1006500
+"Census Tract 66, New York County, New York",381,100,0,35,246,36,061,1006600
+"Census Tract 67, New York County, New York",19,0,13,6,0,36,061,1006700
+"Census Tract 68, New York County, New York",0,0,0,0,0,36,061,1006800
+"Census Tract 69, New York County, New York",20,10,7,3,0,36,061,1006900
+"Census Tract 70, New York County, New York",49,0,28,21,0,36,061,1007000
+"Census Tract 71, New York County, New York",56,27,13,16,0,36,061,1007100
+"Census Tract 72, New York County, New York",57,29,28,0,0,36,061,1007200
+"Census Tract 73, New York County, New York",20,0,0,0,20,36,061,1007300
+"Census Tract 74, New York County, New York",48,36,0,12,0,36,061,1007400
+"Census Tract 75, New York County, New York",66,0,0,39,27,36,061,1007500
+"Census Tract 76, New York County, New York",6,0,0,1,5,36,061,1007600
+"Census Tract 77, New York County, New York",5,0,0,5,0,36,061,1007700
+"Census Tract 78, New York County, New York",36,0,0,0,36,36,061,1007800
+"Census Tract 79, New York County, New York",34,0,22,12,0,36,061,1007900
+"Census Tract 80, New York County, New York",59,0,0,59,0,36,061,1008000
+"Census Tract 81, New York County, New York",136,38,0,0,98,36,061,1008100
+"Census Tract 82, New York County, New York",56,0,0,43,13,36,061,1008200
+"Census Tract 83, New York County, New York",81,18,0,49,14,36,061,1008300
+"Census Tract 84, New York County, New York",7,7,0,0,0,36,061,1008400
+"Census Tract 86.01, New York County, New York",45,0,9,26,10,36,061,1008601
+"Census Tract 86.02, New York County, New York",0,0,0,0,0,36,061,1008602
+"Census Tract 86.03, New York County, New York",41,0,31,0,10,36,061,1008603
+"Census Tract 87, New York County, New York",64,17,21,26,0,36,061,1008700
+"Census Tract 88, New York County, New York",146,122,0,24,0,36,061,1008800
+"Census Tract 89, New York County, New York",96,25,18,18,35,36,061,1008900
+"Census Tract 90, New York County, New York",5,0,0,5,0,36,061,1009000
+"Census Tract 91, New York County, New York",214,81,8,125,0,36,061,1009100
+"Census Tract 92, New York County, New York",37,0,9,8,20,36,061,1009200
+"Census Tract 93, New York County, New York",216,0,0,216,0,36,061,1009300
+"Census Tract 94, New York County, New York",0,0,0,0,0,36,061,1009400
+"Census Tract 95, New York County, New York",53,0,22,9,22,36,061,1009500
+"Census Tract 96, New York County, New York",0,0,0,0,0,36,061,1009600
+"Census Tract 97, New York County, New York",71,0,32,22,17,36,061,1009700
+"Census Tract 98, New York County, New York",63,0,0,63,0,36,061,1009800
+"Census Tract 99, New York County, New York",70,0,47,15,8,36,061,1009900
+"Census Tract 100, New York County, New York",2,0,0,2,0,36,061,1010000
+"Census Tract 101, New York County, New York",20,15,0,5,0,36,061,1010100
+"Census Tract 102, New York County, New York",0,0,0,0,0,36,061,1010200
+"Census Tract 103, New York County, New York",10,0,0,10,0,36,061,1010300
+"Census Tract 104, New York County, New York",4,0,0,4,0,36,061,1010400
+"Census Tract 106.01, New York County, New York",64,0,25,20,19,36,061,1010601
+"Census Tract 106.02, New York County, New York",79,40,27,12,0,36,061,1010602
+"Census Tract 108, New York County, New York",67,27,40,0,0,36,061,1010800
+"Census Tract 109, New York County, New York",0,0,0,0,0,36,061,1010900
+"Census Tract 110, New York County, New York",178,7,150,21,0,36,061,1011000
+"Census Tract 111, New York County, New York",73,61,0,12,0,36,061,1011100
+"Census Tract 112.01, New York County, New York",14,0,9,0,5,36,061,1011201
+"Census Tract 112.02, New York County, New York",12,0,5,0,7,36,061,1011202
+"Census Tract 112.03, New York County, New York",29,12,13,0,4,36,061,1011203
+"Census Tract 113, New York County, New York",0,0,0,0,0,36,061,1011300
+"Census Tract 114.01, New York County, New York",25,3,10,0,12,36,061,1011401
+"Census Tract 114.02, New York County, New York",25,0,5,7,13,36,061,1011402
+"Census Tract 115, New York County, New York",37,23,0,14,0,36,061,1011500
+"Census Tract 116, New York County, New York",33,0,15,18,0,36,061,1011600
+"Census Tract 117, New York County, New York",36,24,0,0,12,36,061,1011700
+"Census Tract 118, New York County, New York",132,0,63,24,45,36,061,1011800
+"Census Tract 119, New York County, New York",0,0,0,0,0,36,061,1011900
+"Census Tract 120, New York County, New York",46,13,19,0,14,36,061,1012000
+"Census Tract 121, New York County, New York",98,0,0,21,77,36,061,1012100
+"Census Tract 122, New York County, New York",102,44,0,26,32,36,061,1012200
+"Census Tract 124, New York County, New York",219,91,0,57,71,36,061,1012400
+"Census Tract 125, New York County, New York",10,0,10,0,0,36,061,1012500
+"Census Tract 126, New York County, New York",157,84,73,0,0,36,061,1012600
+"Census Tract 127, New York County, New York",66,38,0,28,0,36,061,1012700
+"Census Tract 128, New York County, New York",112,6,86,6,14,36,061,1012800
+"Census Tract 129, New York County, New York",78,62,0,16,0,36,061,1012900
+"Census Tract 130, New York County, New York",90,0,50,10,30,36,061,1013000
+"Census Tract 131, New York County, New York",12,0,0,7,5,36,061,1013100
+"Census Tract 132, New York County, New York",273,220,0,53,0,36,061,1013200
+"Census Tract 133, New York County, New York",40,13,0,27,0,36,061,1013300
+"Census Tract 134, New York County, New York",519,4,319,145,51,36,061,1013400
+"Census Tract 135, New York County, New York",92,15,27,50,0,36,061,1013500
+"Census Tract 136, New York County, New York",163,0,0,128,35,36,061,1013600
+"Census Tract 137, New York County, New York",90,0,0,0,90,36,061,1013700
+"Census Tract 138, New York County, New York",131,128,0,0,3,36,061,1013800
+"Census Tract 139, New York County, New York",120,32,0,0,88,36,061,1013900
+"Census Tract 140, New York County, New York",236,86,35,41,74,36,061,1014000
+"Census Tract 142, New York County, New York",201,0,98,0,103,36,061,1014200
+"Census Tract 143, New York County, New York",0,0,0,0,0,36,061,1014300
+"Census Tract 144.01, New York County, New York",236,48,58,30,100,36,061,1014401
+"Census Tract 144.02, New York County, New York",34,0,21,0,13,36,061,1014402
+"Census Tract 145, New York County, New York",34,0,34,0,0,36,061,1014500
+"Census Tract 146.01, New York County, New York",27,27,0,0,0,36,061,1014601
+"Census Tract 146.02, New York County, New York",215,0,106,86,23,36,061,1014602
+"Census Tract 147, New York County, New York",61,5,20,30,6,36,061,1014700
+"Census Tract 148.01, New York County, New York",49,13,29,0,7,36,061,1014801
+"Census Tract 148.02, New York County, New York",225,41,77,34,73,36,061,1014802
+"Census Tract 149, New York County, New York",62,0,22,0,40,36,061,1014900
+"Census Tract 150.01, New York County, New York",115,14,53,13,35,36,061,1015001
+"Census Tract 150.02, New York County, New York",269,29,69,52,119,36,061,1015002
+"Census Tract 151, New York County, New York",155,67,19,49,20,36,061,1015100
+"Census Tract 152, New York County, New York",191,138,31,0,22,36,061,1015200
+"Census Tract 153, New York County, New York",95,0,70,25,0,36,061,1015300
+"Census Tract 154, New York County, New York",610,142,83,339,46,36,061,1015400
+"Census Tract 155, New York County, New York",118,12,0,30,76,36,061,1015500
+"Census Tract 156.01, New York County, New York",10,0,0,10,0,36,061,1015601
+"Census Tract 156.02, New York County, New York",74,20,12,27,15,36,061,1015602
+"Census Tract 157, New York County, New York",134,0,119,0,15,36,061,1015700
+"Census Tract 158.01, New York County, New York",107,17,36,15,39,36,061,1015801
+"Census Tract 158.02, New York County, New York",17,0,0,0,17,36,061,1015802
+"Census Tract 159, New York County, New York",82,25,36,0,21,36,061,1015900
+"Census Tract 160.01, New York County, New York",188,7,52,25,104,36,061,1016001
+"Census Tract 160.02, New York County, New York",70,0,11,0,59,36,061,1016002
+"Census Tract 161, New York County, New York",98,14,0,13,71,36,061,1016100
+"Census Tract 162, New York County, New York",527,369,17,125,16,36,061,1016200
+"Census Tract 163, New York County, New York",30,0,0,0,30,36,061,1016300
+"Census Tract 164, New York County, New York",497,204,60,233,0,36,061,1016400
+"Census Tract 165, New York County, New York",116,17,99,0,0,36,061,1016500
+"Census Tract 166, New York County, New York",392,209,0,120,63,36,061,1016600
+"Census Tract 167, New York County, New York",140,0,66,15,59,36,061,1016700
+"Census Tract 168, New York County, New York",393,82,50,254,7,36,061,1016800
+"Census Tract 169, New York County, New York",212,3,188,0,21,36,061,1016900
+"Census Tract 170, New York County, New York",213,47,23,125,18,36,061,1017000
+"Census Tract 171, New York County, New York",401,44,197,40,120,36,061,1017100
+"Census Tract 172, New York County, New York",248,146,0,102,0,36,061,1017200
+"Census Tract 173, New York County, New York",229,0,97,0,132,36,061,1017300
+"Census Tract 174.01, New York County, New York",484,216,12,242,14,36,061,1017401
+"Census Tract 174.02, New York County, New York",88,56,17,15,0,36,061,1017402
+"Census Tract 175, New York County, New York",314,0,177,62,75,36,061,1017500
+"Census Tract 177, New York County, New York",396,0,123,232,41,36,061,1017700
+"Census Tract 178, New York County, New York",169,60,12,73,24,36,061,1017800
+"Census Tract 179, New York County, New York",502,86,180,29,207,36,061,1017900
+"Census Tract 180, New York County, New York",544,259,31,254,0,36,061,1018000
+"Census Tract 181, New York County, New York",275,26,124,58,67,36,061,1018100
+"Census Tract 182, New York County, New York",616,121,39,456,0,36,061,1018200
+"Census Tract 183, New York County, New York",129,0,7,0,122,36,061,1018300
+"Census Tract 184, New York County, New York",373,239,0,125,9,36,061,1018400
+"Census Tract 185, New York County, New York",60,0,31,29,0,36,061,1018500
+"Census Tract 186, New York County, New York",453,146,0,307,0,36,061,1018600
+"Census Tract 187, New York County, New York",150,2,36,21,91,36,061,1018700
+"Census Tract 188, New York County, New York",176,59,0,117,0,36,061,1018800
+"Census Tract 189, New York County, New York",831,322,0,448,61,36,061,1018900
+"Census Tract 190, New York County, New York",102,62,11,29,0,36,061,1019000
+"Census Tract 191, New York County, New York",320,59,98,139,24,36,061,1019100
+"Census Tract 192, New York County, New York",304,220,0,84,0,36,061,1019200
+"Census Tract 193, New York County, New York",322,93,126,103,0,36,061,1019300
+"Census Tract 194, New York County, New York",321,129,24,140,28,36,061,1019400
+"Census Tract 195, New York County, New York",171,45,57,45,24,36,061,1019500
+"Census Tract 196, New York County, New York",249,101,0,136,12,36,061,1019600
+"Census Tract 197.01, New York County, New York",0,0,0,0,0,36,061,1019701
+"Census Tract 197.02, New York County, New York",120,22,0,98,0,36,061,1019702
+"Census Tract 198, New York County, New York",90,90,0,0,0,36,061,1019800
+"Census Tract 199, New York County, New York",78,20,21,19,18,36,061,1019900
+"Census Tract 200, New York County, New York",109,7,74,14,14,36,061,1020000
+"Census Tract 201.01, New York County, New York",12,0,0,8,4,36,061,1020101
+"Census Tract 201.02, New York County, New York",108,58,14,4,32,36,061,1020102
+"Census Tract 203, New York County, New York",0,0,0,0,0,36,061,1020300
+"Census Tract 205, New York County, New York",75,15,9,43,8,36,061,1020500
+"Census Tract 206, New York County, New York",116,68,2,46,0,36,061,1020600
+"Census Tract 207.01, New York County, New York",0,0,0,0,0,36,061,1020701
+"Census Tract 208, New York County, New York",144,75,21,31,17,36,061,1020800
+"Census Tract 209.01, New York County, New York",228,129,17,82,0,36,061,1020901
+"Census Tract 210, New York County, New York",644,303,16,325,0,36,061,1021000
+"Census Tract 211, New York County, New York",347,153,0,194,0,36,061,1021100
+"Census Tract 212, New York County, New York",35,0,0,35,0,36,061,1021200
+"Census Tract 213.03, New York County, New York",261,134,0,127,0,36,061,1021303
+"Census Tract 214, New York County, New York",53,31,0,22,0,36,061,1021400
+"Census Tract 215, New York County, New York",279,123,15,103,38,36,061,1021500
+"Census Tract 216, New York County, New York",317,137,14,126,40,36,061,1021600
+"Census Tract 217.03, New York County, New York",0,0,0,0,0,36,061,1021703
+"Census Tract 218, New York County, New York",248,98,0,133,17,36,061,1021800
+"Census Tract 219, New York County, New York",405,242,0,163,0,36,061,1021900
+"Census Tract 220, New York County, New York",298,198,0,100,0,36,061,1022000
+"Census Tract 221.02, New York County, New York",87,36,33,18,0,36,061,1022102
+"Census Tract 222, New York County, New York",177,126,6,45,0,36,061,1022200
+"Census Tract 223.01, New York County, New York",552,356,15,181,0,36,061,1022301
+"Census Tract 223.02, New York County, New York",96,35,0,52,9,36,061,1022302
+"Census Tract 224, New York County, New York",327,128,14,170,15,36,061,1022400
+"Census Tract 225, New York County, New York",620,361,18,180,61,36,061,1022500
+"Census Tract 226, New York County, New York",150,75,9,39,27,36,061,1022600
+"Census Tract 227, New York County, New York",194,144,0,37,13,36,061,1022700
+"Census Tract 228, New York County, New York",125,52,0,73,0,36,061,1022800
+"Census Tract 229, New York County, New York",252,125,0,127,0,36,061,1022900
+"Census Tract 230, New York County, New York",515,316,0,199,0,36,061,1023000
+"Census Tract 231, New York County, New York",165,38,35,39,53,36,061,1023100
+"Census Tract 232, New York County, New York",479,142,23,314,0,36,061,1023200
+"Census Tract 233, New York County, New York",266,177,0,71,18,36,061,1023300
+"Census Tract 234, New York County, New York",358,78,0,275,5,36,061,1023400
+"Census Tract 235.01, New York County, New York",260,184,0,76,0,36,061,1023501
+"Census Tract 235.02, New York County, New York",118,32,15,71,0,36,061,1023502
+"Census Tract 236, New York County, New York",189,131,8,50,0,36,061,1023600
+"Census Tract 237, New York County, New York",498,268,57,173,0,36,061,1023700
+"Census Tract 238.01, New York County, New York",332,27,42,263,0,36,061,1023801
+"Census Tract 238.02, New York County, New York",43,0,11,23,9,36,061,1023802
+"Census Tract 239, New York County, New York",158,68,0,90,0,36,061,1023900
+"Census Tract 240, New York County, New York",33,26,7,0,0,36,061,1024000
+"Census Tract 241, New York County, New York",261,130,0,131,0,36,061,1024100
+"Census Tract 242, New York County, New York",281,144,0,129,8,36,061,1024200
+"Census Tract 243.01, New York County, New York",194,58,0,136,0,36,061,1024301
+"Census Tract 243.02, New York County, New York",735,278,7,435,15,36,061,1024302
+"Census Tract 245, New York County, New York",689,381,0,293,15,36,061,1024500
+"Census Tract 247, New York County, New York",317,221,0,96,0,36,061,1024700
+"Census Tract 249, New York County, New York",79,54,0,19,6,36,061,1024900
+"Census Tract 251, New York County, New York",111,75,0,36,0,36,061,1025100
+"Census Tract 253, New York County, New York",662,261,8,375,18,36,061,1025300
+"Census Tract 255, New York County, New York",216,19,0,197,0,36,061,1025500
+"Census Tract 257, New York County, New York",220,65,47,108,0,36,061,1025700
+"Census Tract 259, New York County, New York",184,64,0,82,38,36,061,1025900
+"Census Tract 261, New York County, New York",641,308,0,313,20,36,061,1026100
+"Census Tract 263, New York County, New York",530,261,0,269,0,36,061,1026300
+"Census Tract 265, New York County, New York",274,116,0,150,8,36,061,1026500
+"Census Tract 267, New York County, New York",55,11,0,36,8,36,061,1026700
+"Census Tract 269, New York County, New York",404,277,0,127,0,36,061,1026900
+"Census Tract 271, New York County, New York",480,280,49,138,13,36,061,1027100
+"Census Tract 273, New York County, New York",131,0,44,24,63,36,061,1027300
+"Census Tract 275, New York County, New York",128,76,32,20,0,36,061,1027500
+"Census Tract 277, New York County, New York",304,91,0,169,44,36,061,1027700
+"Census Tract 279, New York County, New York",472,220,0,252,0,36,061,1027900
+"Census Tract 281, New York County, New York",63,63,0,0,0,36,061,1028100
+"Census Tract 283, New York County, New York",361,259,0,67,35,36,061,1028300
+"Census Tract 285, New York County, New York",348,200,0,130,18,36,061,1028500
+"Census Tract 287, New York County, New York",122,35,11,76,0,36,061,1028700
+"Census Tract 291, New York County, New York",638,331,0,287,20,36,061,1029100
+"Census Tract 293, New York County, New York",542,169,0,341,32,36,061,1029300
+"Census Tract 295, New York County, New York",178,67,0,79,32,36,061,1029500
+"Census Tract 297, New York County, New York",0,0,0,0,0,36,061,1029700
+"Census Tract 299, New York County, New York",378,151,11,193,23,36,061,1029900
+"Census Tract 303, New York County, New York",148,56,0,92,0,36,061,1030300
+"Census Tract 307, New York County, New York",112,33,18,39,22,36,061,1030700
+"Census Tract 309, New York County, New York",648,276,0,361,11,36,061,1030900
+"Census Tract 311, New York County, New York",0,0,0,0,0,36,061,1031100
+"Census Tract 317.03, New York County, New York",251,47,97,107,0,36,061,1031703
+"Census Tract 317.04, New York County, New York",148,15,0,90,43,36,061,1031704
+"Census Tract 319, New York County, New York",0,0,0,0,0,36,061,1031900
+"Census Tract 1, Bronx County, New York",0,0,0,0,0,36,005,2000100
+"Census Tract 2, Bronx County, New York",434,181,19,224,10,36,005,2000200
+"Census Tract 4, Bronx County, New York",293,135,16,142,0,36,005,2000400
+"Census Tract 16, Bronx County, New York",406,217,0,158,31,36,005,2001600
+"Census Tract 19, Bronx County, New York",92,51,0,41,0,36,005,2001900
+"Census Tract 20, Bronx County, New York",877,404,0,473,0,36,005,2002000
+"Census Tract 23, Bronx County, New York",356,187,0,169,0,36,005,2002300
+"Census Tract 24, Bronx County, New York",0,0,0,0,0,36,005,2002400
+"Census Tract 25, Bronx County, New York",387,134,0,253,0,36,005,2002500
+"Census Tract 27.01, Bronx County, New York",188,115,10,63,0,36,005,2002701
+"Census Tract 27.02, Bronx County, New York",570,300,0,270,0,36,005,2002702
+"Census Tract 28, Bronx County, New York",144,73,0,71,0,36,005,2002800
+"Census Tract 31, Bronx County, New York",94,37,10,47,0,36,005,2003100
+"Census Tract 33, Bronx County, New York",472,142,66,243,21,36,005,2003300
+"Census Tract 35, Bronx County, New York",231,96,16,119,0,36,005,2003500
+"Census Tract 37, Bronx County, New York",15,0,0,15,0,36,005,2003700
+"Census Tract 38, Bronx County, New York",17,5,0,12,0,36,005,2003800
+"Census Tract 39, Bronx County, New York",397,134,29,202,32,36,005,2003900
+"Census Tract 40.01, Bronx County, New York",67,29,7,31,0,36,005,2004001
+"Census Tract 41, Bronx County, New York",560,338,0,222,0,36,005,2004100
+"Census Tract 42, Bronx County, New York",493,239,0,204,50,36,005,2004200
+"Census Tract 43, Bronx County, New York",338,187,16,135,0,36,005,2004300
+"Census Tract 44, Bronx County, New York",419,198,11,210,0,36,005,2004400
+"Census Tract 46, Bronx County, New York",124,51,0,73,0,36,005,2004600
+"Census Tract 48, Bronx County, New York",337,208,0,107,22,36,005,2004800
+"Census Tract 50.01, Bronx County, New York",315,64,31,220,0,36,005,2005001
+"Census Tract 50.02, Bronx County, New York",379,136,10,233,0,36,005,2005002
+"Census Tract 51, Bronx County, New York",689,316,0,351,22,36,005,2005100
+"Census Tract 52, Bronx County, New York",229,127,4,86,12,36,005,2005200
+"Census Tract 53, Bronx County, New York",293,131,10,152,0,36,005,2005300
+"Census Tract 54, Bronx County, New York",228,99,0,129,0,36,005,2005400
+"Census Tract 56, Bronx County, New York",167,54,0,97,16,36,005,2005600
+"Census Tract 59.02, Bronx County, New York",224,126,0,98,0,36,005,2005902
+"Census Tract 60, Bronx County, New York",62,29,0,33,0,36,005,2006000
+"Census Tract 61, Bronx County, New York",162,131,15,16,0,36,005,2006100
+"Census Tract 62, Bronx County, New York",532,252,0,268,12,36,005,2006200
+"Census Tract 63, Bronx County, New York",186,74,8,101,3,36,005,2006300
+"Census Tract 64, Bronx County, New York",148,91,0,31,26,36,005,2006400
+"Census Tract 65, Bronx County, New York",374,135,0,239,0,36,005,2006500
+"Census Tract 67, Bronx County, New York",492,129,0,363,0,36,005,2006700
+"Census Tract 68, Bronx County, New York",157,66,8,83,0,36,005,2006800
+"Census Tract 69, Bronx County, New York",749,421,35,261,32,36,005,2006900
+"Census Tract 70, Bronx County, New York",337,145,12,165,15,36,005,2007000
+"Census Tract 71, Bronx County, New York",151,65,0,86,0,36,005,2007100
+"Census Tract 72, Bronx County, New York",343,207,0,136,0,36,005,2007200
+"Census Tract 73, Bronx County, New York",193,96,0,89,8,36,005,2007300
+"Census Tract 74, Bronx County, New York",278,126,0,152,0,36,005,2007400
+"Census Tract 75, Bronx County, New York",371,143,9,174,45,36,005,2007500
+"Census Tract 76, Bronx County, New York",209,83,7,119,0,36,005,2007600
+"Census Tract 77, Bronx County, New York",159,33,0,121,5,36,005,2007700
+"Census Tract 78, Bronx County, New York",379,282,23,47,27,36,005,2007800
+"Census Tract 79, Bronx County, New York",549,209,17,323,0,36,005,2007900
+"Census Tract 83, Bronx County, New York",349,148,21,180,0,36,005,2008300
+"Census Tract 84, Bronx County, New York",102,46,8,28,20,36,005,2008400
+"Census Tract 85, Bronx County, New York",354,176,16,136,26,36,005,2008500
+"Census Tract 86, Bronx County, New York",347,146,53,148,0,36,005,2008600
+"Census Tract 87, Bronx County, New York",570,210,43,286,31,36,005,2008700
+"Census Tract 89, Bronx County, New York",366,179,0,110,77,36,005,2008900
+"Census Tract 90, Bronx County, New York",277,123,10,97,47,36,005,2009000
+"Census Tract 92, Bronx County, New York",453,200,37,216,0,36,005,2009200
+"Census Tract 93, Bronx County, New York",411,238,10,142,21,36,005,2009300
+"Census Tract 96, Bronx County, New York",158,44,48,56,10,36,005,2009600
+"Census Tract 98, Bronx County, New York",315,150,34,85,46,36,005,2009800
+"Census Tract 110, Bronx County, New York",0,0,0,0,0,36,005,2011000
+"Census Tract 115.02, Bronx County, New York",347,193,0,154,0,36,005,2011502
+"Census Tract 117, Bronx County, New York",166,60,7,89,10,36,005,2011700
+"Census Tract 118, Bronx County, New York",48,0,7,12,29,36,005,2011800
+"Census Tract 119, Bronx County, New York",216,76,17,123,0,36,005,2011900
+"Census Tract 121.01, Bronx County, New York",202,85,16,96,5,36,005,2012101
+"Census Tract 121.02, Bronx County, New York",198,95,12,91,0,36,005,2012102
+"Census Tract 123, Bronx County, New York",253,115,9,109,20,36,005,2012300
+"Census Tract 125, Bronx County, New York",301,188,16,97,0,36,005,2012500
+"Census Tract 127.01, Bronx County, New York",179,66,0,113,0,36,005,2012701
+"Census Tract 129.01, Bronx County, New York",304,101,30,160,13,36,005,2012901
+"Census Tract 130, Bronx County, New York",71,5,4,26,36,36,005,2013000
+"Census Tract 131, Bronx County, New York",359,177,0,182,0,36,005,2013100
+"Census Tract 132, Bronx County, New York",316,138,53,33,92,36,005,2013200
+"Census Tract 133, Bronx County, New York",660,261,0,366,33,36,005,2013300
+"Census Tract 135, Bronx County, New York",373,201,11,139,22,36,005,2013500
+"Census Tract 138, Bronx County, New York",106,18,0,61,27,36,005,2013800
+"Census Tract 141, Bronx County, New York",354,144,21,181,8,36,005,2014100
+"Census Tract 143, Bronx County, New York",49,25,3,17,4,36,005,2014300
+"Census Tract 144, Bronx County, New York",599,254,61,187,97,36,005,2014400
+"Census Tract 145, Bronx County, New York",506,203,0,260,43,36,005,2014500
+"Census Tract 147.01, Bronx County, New York",935,427,28,480,0,36,005,2014701
+"Census Tract 147.02, Bronx County, New York",421,205,0,158,58,36,005,2014702
+"Census Tract 149, Bronx County, New York",268,97,21,132,18,36,005,2014900
+"Census Tract 151, Bronx County, New York",435,278,25,132,0,36,005,2015100
+"Census Tract 152, Bronx County, New York",129,88,0,24,17,36,005,2015200
+"Census Tract 153, Bronx County, New York",345,73,21,221,30,36,005,2015300
+"Census Tract 155, Bronx County, New York",162,45,23,94,0,36,005,2015500
+"Census Tract 157, Bronx County, New York",157,18,0,103,36,36,005,2015700
+"Census Tract 158, Bronx County, New York",54,2,0,20,32,36,005,2015800
+"Census Tract 159, Bronx County, New York",115,20,14,18,63,36,005,2015900
+"Census Tract 160, Bronx County, New York",193,85,0,97,11,36,005,2016000
+"Census Tract 161, Bronx County, New York",146,62,7,77,0,36,005,2016100
+"Census Tract 162, Bronx County, New York",114,41,42,27,4,36,005,2016200
+"Census Tract 163, Bronx County, New York",0,0,0,0,0,36,005,2016300
+"Census Tract 164, Bronx County, New York",28,8,10,0,10,36,005,2016400
+"Census Tract 165, Bronx County, New York",74,41,20,13,0,36,005,2016500
+"Census Tract 166, Bronx County, New York",97,36,14,24,23,36,005,2016600
+"Census Tract 167, Bronx County, New York",192,97,6,89,0,36,005,2016700
+"Census Tract 169, Bronx County, New York",89,38,0,51,0,36,005,2016900
+"Census Tract 171, Bronx County, New York",0,0,0,0,0,36,005,2017100
+"Census Tract 173, Bronx County, New York",477,248,1,227,1,36,005,2017300
+"Census Tract 175, Bronx County, New York",396,180,0,206,10,36,005,2017500
+"Census Tract 177.01, Bronx County, New York",338,125,34,161,18,36,005,2017701
+"Census Tract 177.02, Bronx County, New York",411,123,0,288,0,36,005,2017702
+"Census Tract 179.01, Bronx County, New York",386,159,11,216,0,36,005,2017901
+"Census Tract 179.02, Bronx County, New York",192,69,0,100,23,36,005,2017902
+"Census Tract 181.01, Bronx County, New York",249,125,0,124,0,36,005,2018101
+"Census Tract 181.02, Bronx County, New York",355,226,19,110,0,36,005,2018102
+"Census Tract 183.01, Bronx County, New York",193,24,34,102,33,36,005,2018301
+"Census Tract 183.02, Bronx County, New York",305,186,41,78,0,36,005,2018302
+"Census Tract 184, Bronx County, New York",125,50,37,38,0,36,005,2018400
+"Census Tract 185, Bronx County, New York",506,268,6,232,0,36,005,2018500
+"Census Tract 189, Bronx County, New York",751,378,69,292,12,36,005,2018900
+"Census Tract 193, Bronx County, New York",371,158,0,192,21,36,005,2019300
+"Census Tract 194, Bronx County, New York",154,78,39,23,14,36,005,2019400
+"Census Tract 195, Bronx County, New York",419,244,9,127,39,36,005,2019500
+"Census Tract 197, Bronx County, New York",520,157,66,297,0,36,005,2019700
+"Census Tract 199, Bronx County, New York",475,168,0,307,0,36,005,2019900
+"Census Tract 200, Bronx County, New York",334,55,0,229,50,36,005,2020000
+"Census Tract 201, Bronx County, New York",367,152,25,190,0,36,005,2020100
+"Census Tract 202, Bronx County, New York",121,69,15,37,0,36,005,2020200
+"Census Tract 204, Bronx County, New York",264,131,48,69,16,36,005,2020400
+"Census Tract 205.01, Bronx County, New York",698,228,45,380,45,36,005,2020501
+"Census Tract 205.02, Bronx County, New York",245,94,0,151,0,36,005,2020502
+"Census Tract 206.01, Bronx County, New York",209,53,16,140,0,36,005,2020601
+"Census Tract 209, Bronx County, New York",213,87,21,105,0,36,005,2020900
+"Census Tract 210.01, Bronx County, New York",315,111,15,168,21,36,005,2021001
+"Census Tract 210.02, Bronx County, New York",193,48,16,116,13,36,005,2021002
+"Census Tract 211, Bronx County, New York",451,217,0,226,8,36,005,2021100
+"Census Tract 212, Bronx County, New York",217,119,0,98,0,36,005,2021200
+"Census Tract 213.01, Bronx County, New York",91,42,0,49,0,36,005,2021301
+"Census Tract 213.02, Bronx County, New York",316,100,0,148,68,36,005,2021302
+"Census Tract 215.01, Bronx County, New York",210,67,0,129,14,36,005,2021501
+"Census Tract 215.02, Bronx County, New York",455,287,0,152,16,36,005,2021502
+"Census Tract 216.01, Bronx County, New York",273,77,16,153,27,36,005,2021601
+"Census Tract 216.02, Bronx County, New York",369,41,20,287,21,36,005,2021602
+"Census Tract 217, Bronx County, New York",408,231,0,168,9,36,005,2021700
+"Census Tract 218, Bronx County, New York",478,170,49,204,55,36,005,2021800
+"Census Tract 219, Bronx County, New York",77,44,0,33,0,36,005,2021900
+"Census Tract 220, Bronx County, New York",156,104,0,44,8,36,005,2022000
+"Census Tract 221.01, Bronx County, New York",311,60,7,244,0,36,005,2022101
+"Census Tract 221.02, Bronx County, New York",431,194,0,237,0,36,005,2022102
+"Census Tract 222, Bronx County, New York",176,85,9,82,0,36,005,2022200
+"Census Tract 223, Bronx County, New York",201,150,0,51,0,36,005,2022300
+"Census Tract 224.01, Bronx County, New York",112,16,20,45,31,36,005,2022401
+"Census Tract 224.03, Bronx County, New York",197,29,15,118,35,36,005,2022403
+"Census Tract 224.04, Bronx County, New York",298,103,13,171,11,36,005,2022404
+"Census Tract 225, Bronx County, New York",839,363,0,429,47,36,005,2022500
+"Census Tract 227.01, Bronx County, New York",256,159,19,74,4,36,005,2022701
+"Census Tract 227.02, Bronx County, New York",122,60,0,62,0,36,005,2022702
+"Census Tract 227.03, Bronx County, New York",197,110,18,69,0,36,005,2022703
+"Census Tract 228, Bronx County, New York",246,169,28,49,0,36,005,2022800
+"Census Tract 229.01, Bronx County, New York",509,198,0,309,2,36,005,2022901
+"Census Tract 229.02, Bronx County, New York",241,0,0,241,0,36,005,2022902
+"Census Tract 230, Bronx County, New York",146,64,0,82,0,36,005,2023000
+"Census Tract 231, Bronx County, New York",222,110,0,112,0,36,005,2023100
+"Census Tract 232, Bronx County, New York",176,94,36,44,2,36,005,2023200
+"Census Tract 233.01, Bronx County, New York",294,148,0,146,0,36,005,2023301
+"Census Tract 233.02, Bronx County, New York",243,136,0,107,0,36,005,2023302
+"Census Tract 235.01, Bronx County, New York",172,66,0,95,11,36,005,2023501
+"Census Tract 235.02, Bronx County, New York",315,124,14,177,0,36,005,2023502
+"Census Tract 236, Bronx County, New York",136,68,7,61,0,36,005,2023600
+"Census Tract 237.02, Bronx County, New York",105,56,3,46,0,36,005,2023702
+"Census Tract 237.03, Bronx County, New York",501,282,0,219,0,36,005,2023703
+"Census Tract 237.04, Bronx County, New York",148,111,0,37,0,36,005,2023704
+"Census Tract 238, Bronx County, New York",238,142,17,79,0,36,005,2023800
+"Census Tract 239, Bronx County, New York",656,428,28,170,30,36,005,2023900
+"Census Tract 240, Bronx County, New York",313,195,21,90,7,36,005,2024000
+"Census Tract 241, Bronx County, New York",393,138,46,174,35,36,005,2024100
+"Census Tract 243, Bronx County, New York",494,219,14,261,0,36,005,2024300
+"Census Tract 244, Bronx County, New York",160,39,30,39,52,36,005,2024400
+"Census Tract 245.01, Bronx County, New York",333,133,14,186,0,36,005,2024501
+"Census Tract 245.02, Bronx County, New York",276,80,0,196,0,36,005,2024502
+"Census Tract 246, Bronx County, New York",164,28,5,86,45,36,005,2024600
+"Census Tract 247, Bronx County, New York",179,39,0,123,17,36,005,2024700
+"Census Tract 248, Bronx County, New York",117,72,11,5,29,36,005,2024800
+"Census Tract 249, Bronx County, New York",0,0,0,0,0,36,005,2024900
+"Census Tract 250, Bronx County, New York",116,0,18,38,60,36,005,2025000
+"Census Tract 251, Bronx County, New York",291,43,0,235,13,36,005,2025100
+"Census Tract 252, Bronx County, New York",91,10,64,12,5,36,005,2025200
+"Census Tract 253, Bronx County, New York",353,192,12,135,14,36,005,2025300
+"Census Tract 254, Bronx County, New York",74,34,19,14,7,36,005,2025400
+"Census Tract 255, Bronx County, New York",401,296,0,82,23,36,005,2025500
+"Census Tract 256, Bronx County, New York",80,49,0,31,0,36,005,2025600
+"Census Tract 257, Bronx County, New York",66,66,0,0,0,36,005,2025700
+"Census Tract 261, Bronx County, New York",47,0,14,20,13,36,005,2026100
+"Census Tract 263, Bronx County, New York",211,122,0,89,0,36,005,2026300
+"Census Tract 264, Bronx County, New York",163,33,31,99,0,36,005,2026400
+"Census Tract 265, Bronx County, New York",575,329,0,246,0,36,005,2026500
+"Census Tract 266.01, Bronx County, New York",129,83,7,0,39,36,005,2026601
+"Census Tract 266.02, Bronx County, New York",194,17,42,97,38,36,005,2026602
+"Census Tract 267.01, Bronx County, New York",203,103,11,89,0,36,005,2026701
+"Census Tract 267.02, Bronx County, New York",493,230,0,184,79,36,005,2026702
+"Census Tract 269, Bronx County, New York",186,132,0,54,0,36,005,2026900
+"Census Tract 273, Bronx County, New York",453,255,29,148,21,36,005,2027300
+"Census Tract 274.01, Bronx County, New York",139,58,33,9,39,36,005,2027401
+"Census Tract 274.02, Bronx County, New York",102,28,8,20,46,36,005,2027402
+"Census Tract 276, Bronx County, New York",8,4,0,4,0,36,005,2027600
+"Census Tract 277, Bronx County, New York",343,207,31,105,0,36,005,2027700
+"Census Tract 279, Bronx County, New York",280,163,17,100,0,36,005,2027900
+"Census Tract 281, Bronx County, New York",93,44,23,12,14,36,005,2028100
+"Census Tract 283, Bronx County, New York",151,48,6,70,27,36,005,2028300
+"Census Tract 284, Bronx County, New York",0,0,0,0,0,36,005,2028400
+"Census Tract 285, Bronx County, New York",112,78,0,15,19,36,005,2028500
+"Census Tract 286, Bronx County, New York",59,8,18,27,6,36,005,2028600
+"Census Tract 287, Bronx County, New York",122,11,22,79,10,36,005,2028700
+"Census Tract 288, Bronx County, New York",166,60,37,53,16,36,005,2028800
+"Census Tract 289, Bronx County, New York",160,40,22,65,33,36,005,2028900
+"Census Tract 293.01, Bronx County, New York",82,28,11,17,26,36,005,2029301
+"Census Tract 293.02, Bronx County, New York",129,15,26,68,20,36,005,2029302
+"Census Tract 295, Bronx County, New York",196,64,44,45,43,36,005,2029500
+"Census Tract 296, Bronx County, New York",33,12,0,16,5,36,005,2029600
+"Census Tract 297, Bronx County, New York",99,69,13,17,0,36,005,2029700
+"Census Tract 300, Bronx County, New York",174,15,74,70,15,36,005,2030000
+"Census Tract 301, Bronx County, New York",23,5,15,3,0,36,005,2030100
+"Census Tract 302, Bronx County, New York",718,376,21,321,0,36,005,2030200
+"Census Tract 307.01, Bronx County, New York",142,104,27,0,11,36,005,2030701
+"Census Tract 309, Bronx County, New York",86,45,0,19,22,36,005,2030900
+"Census Tract 310, Bronx County, New York",216,14,101,101,0,36,005,2031000
+"Census Tract 312, Bronx County, New York",79,20,48,5,6,36,005,2031200
+"Census Tract 314, Bronx County, New York",102,44,0,46,12,36,005,2031400
+"Census Tract 316, Bronx County, New York",119,58,21,15,25,36,005,2031600
+"Census Tract 318, Bronx County, New York",49,15,5,29,0,36,005,2031800
+"Census Tract 319, Bronx County, New York",0,0,0,0,0,36,005,2031900
+"Census Tract 323, Bronx County, New York",123,38,60,0,25,36,005,2032300
+"Census Tract 324, Bronx County, New York",258,122,41,68,27,36,005,2032400
+"Census Tract 326, Bronx County, New York",90,46,9,9,26,36,005,2032600
+"Census Tract 328, Bronx County, New York",230,102,0,104,24,36,005,2032800
+"Census Tract 330, Bronx County, New York",180,76,27,56,21,36,005,2033000
+"Census Tract 332.01, Bronx County, New York",193,110,11,72,0,36,005,2033201
+"Census Tract 332.02, Bronx County, New York",237,113,10,114,0,36,005,2033202
+"Census Tract 334, Bronx County, New York",43,26,0,17,0,36,005,2033400
+"Census Tract 335, Bronx County, New York",53,13,17,0,23,36,005,2033500
+"Census Tract 336, Bronx County, New York",442,296,34,112,0,36,005,2033600
+"Census Tract 337, Bronx County, New York",136,11,45,28,52,36,005,2033700
+"Census Tract 338, Bronx County, New York",279,175,19,62,23,36,005,2033800
+"Census Tract 340, Bronx County, New York",321,145,23,100,53,36,005,2034000
+"Census Tract 342, Bronx County, New York",169,79,16,69,5,36,005,2034200
+"Census Tract 343, Bronx County, New York",74,10,24,27,13,36,005,2034300
+"Census Tract 344, Bronx County, New York",229,103,7,71,48,36,005,2034400
+"Census Tract 345, Bronx County, New York",102,54,0,26,22,36,005,2034500
+"Census Tract 348, Bronx County, New York",621,287,30,256,48,36,005,2034800
+"Census Tract 350, Bronx County, New York",132,71,5,41,15,36,005,2035000
+"Census Tract 351, Bronx County, New York",66,0,0,63,3,36,005,2035100
+"Census Tract 356, Bronx County, New York",136,50,37,33,16,36,005,2035600
+"Census Tract 358, Bronx County, New York",417,150,19,218,30,36,005,2035800
+"Census Tract 359, Bronx County, New York",167,118,4,38,7,36,005,2035900
+"Census Tract 360, Bronx County, New York",146,96,13,31,6,36,005,2036000
+"Census Tract 361, Bronx County, New York",450,236,72,128,14,36,005,2036100
+"Census Tract 363, Bronx County, New York",600,305,0,277,18,36,005,2036300
+"Census Tract 364, Bronx County, New York",248,120,5,108,15,36,005,2036400
+"Census Tract 365.01, Bronx County, New York",303,171,0,122,10,36,005,2036501
+"Census Tract 365.02, Bronx County, New York",183,135,0,42,6,36,005,2036502
+"Census Tract 367, Bronx County, New York",188,128,0,44,16,36,005,2036700
+"Census Tract 368, Bronx County, New York",181,72,0,104,5,36,005,2036800
+"Census Tract 369.01, Bronx County, New York",189,128,0,61,0,36,005,2036901
+"Census Tract 369.02, Bronx County, New York",212,149,0,63,0,36,005,2036902
+"Census Tract 370, Bronx County, New York",99,34,12,45,8,36,005,2037000
+"Census Tract 371, Bronx County, New York",319,147,0,172,0,36,005,2037100
+"Census Tract 372, Bronx County, New York",99,17,7,70,5,36,005,2037200
+"Census Tract 373, Bronx County, New York",410,214,39,143,14,36,005,2037300
+"Census Tract 374, Bronx County, New York",355,219,0,127,9,36,005,2037400
+"Census Tract 375.04, Bronx County, New York",238,85,16,137,0,36,005,2037504
+"Census Tract 376, Bronx County, New York",233,110,38,60,25,36,005,2037600
+"Census Tract 378, Bronx County, New York",143,28,16,97,2,36,005,2037800
+"Census Tract 379, Bronx County, New York",371,207,16,148,0,36,005,2037900
+"Census Tract 380, Bronx County, New York",307,119,0,176,12,36,005,2038000
+"Census Tract 381, Bronx County, New York",585,216,0,325,44,36,005,2038100
+"Census Tract 382, Bronx County, New York",229,121,6,93,9,36,005,2038200
+"Census Tract 383.01, Bronx County, New York",289,154,0,123,12,36,005,2038301
+"Census Tract 383.02, Bronx County, New York",494,277,17,200,0,36,005,2038302
+"Census Tract 385, Bronx County, New York",453,219,26,194,14,36,005,2038500
+"Census Tract 386, Bronx County, New York",313,139,0,132,42,36,005,2038600
+"Census Tract 387, Bronx County, New York",211,89,0,122,0,36,005,2038700
+"Census Tract 388, Bronx County, New York",110,21,0,89,0,36,005,2038800
+"Census Tract 389, Bronx County, New York",373,141,11,221,0,36,005,2038900
+"Census Tract 390, Bronx County, New York",76,4,0,72,0,36,005,2039000
+"Census Tract 391, Bronx County, New York",430,242,0,122,66,36,005,2039100
+"Census Tract 392, Bronx County, New York",261,120,7,108,26,36,005,2039200
+"Census Tract 393, Bronx County, New York",836,301,0,529,6,36,005,2039300
+"Census Tract 394, Bronx County, New York",205,113,17,68,7,36,005,2039400
+"Census Tract 395, Bronx County, New York",293,153,0,140,0,36,005,2039500
+"Census Tract 396, Bronx County, New York",286,161,11,92,22,36,005,2039600
+"Census Tract 397, Bronx County, New York",90,49,0,14,27,36,005,2039700
+"Census Tract 398, Bronx County, New York",152,75,0,63,14,36,005,2039800
+"Census Tract 399.01, Bronx County, New York",577,329,0,248,0,36,005,2039901
+"Census Tract 399.02, Bronx County, New York",285,92,34,159,0,36,005,2039902
+"Census Tract 401, Bronx County, New York",235,158,0,77,0,36,005,2040100
+"Census Tract 403.02, Bronx County, New York",253,94,0,159,0,36,005,2040302
+"Census Tract 403.03, Bronx County, New York",204,137,0,67,0,36,005,2040303
+"Census Tract 403.04, Bronx County, New York",121,62,15,44,0,36,005,2040304
+"Census Tract 404, Bronx County, New York",150,40,0,89,21,36,005,2040400
+"Census Tract 405.01, Bronx County, New York",298,139,0,151,8,36,005,2040501
+"Census Tract 405.02, Bronx County, New York",310,140,0,119,51,36,005,2040502
+"Census Tract 406, Bronx County, New York",204,118,0,86,0,36,005,2040600
+"Census Tract 407.01, Bronx County, New York",223,100,11,112,0,36,005,2040701
+"Census Tract 407.02, Bronx County, New York",246,167,0,79,0,36,005,2040702
+"Census Tract 408, Bronx County, New York",268,145,33,90,0,36,005,2040800
+"Census Tract 409, Bronx County, New York",191,47,19,116,9,36,005,2040900
+"Census Tract 411, Bronx County, New York",231,31,9,161,30,36,005,2041100
+"Census Tract 413, Bronx County, New York",473,226,30,194,23,36,005,2041300
+"Census Tract 414, Bronx County, New York",228,28,67,131,2,36,005,2041400
+"Census Tract 415, Bronx County, New York",186,107,18,61,0,36,005,2041500
+"Census Tract 418, Bronx County, New York",290,100,41,149,0,36,005,2041800
+"Census Tract 419, Bronx County, New York",346,180,28,138,0,36,005,2041900
+"Census Tract 420, Bronx County, New York",299,172,10,107,10,36,005,2042000
+"Census Tract 421, Bronx County, New York",234,157,0,77,0,36,005,2042100
+"Census Tract 422, Bronx County, New York",204,138,18,9,39,36,005,2042200
+"Census Tract 423, Bronx County, New York",202,124,16,52,10,36,005,2042300
+"Census Tract 424, Bronx County, New York",121,50,0,64,7,36,005,2042400
+"Census Tract 425, Bronx County, New York",285,147,53,85,0,36,005,2042500
+"Census Tract 426, Bronx County, New York",442,179,60,127,76,36,005,2042600
+"Census Tract 428, Bronx County, New York",87,19,18,28,22,36,005,2042800
+"Census Tract 429.01, Bronx County, New York",222,113,0,102,7,36,005,2042901
+"Census Tract 429.02, Bronx County, New York",262,86,47,71,58,36,005,2042902
+"Census Tract 430, Bronx County, New York",257,61,0,187,9,36,005,2043000
+"Census Tract 431, Bronx County, New York",552,202,18,291,41,36,005,2043100
+"Census Tract 434, Bronx County, New York",283,136,28,119,0,36,005,2043400
+"Census Tract 435, Bronx County, New York",8,4,0,4,0,36,005,2043500
+"Census Tract 436, Bronx County, New York",134,66,0,60,8,36,005,2043600
+"Census Tract 442, Bronx County, New York",158,123,0,35,0,36,005,2044200
+"Census Tract 444, Bronx County, New York",241,132,8,73,28,36,005,2044400
+"Census Tract 448, Bronx County, New York",77,7,43,27,0,36,005,2044800
+"Census Tract 449.01, Bronx County, New York",41,18,5,6,12,36,005,2044901
+"Census Tract 449.02, Bronx County, New York",56,27,13,8,8,36,005,2044902
+"Census Tract 451.01, Bronx County, New York",9,8,0,0,1,36,005,2045101
+"Census Tract 451.02, Bronx County, New York",29,9,18,2,0,36,005,2045102
+"Census Tract 456, Bronx County, New York",196,33,55,81,27,36,005,2045600
+"Census Tract 458, Bronx County, New York",466,162,0,296,8,36,005,2045800
+"Census Tract 460, Bronx County, New York",180,58,8,109,5,36,005,2046000
+"Census Tract 462.01, Bronx County, New York",797,210,70,436,81,36,005,2046201
+"Census Tract 462.02, Bronx County, New York",804,322,61,390,31,36,005,2046202
+"Census Tract 484, Bronx County, New York",394,137,25,197,35,36,005,2048400
+"Census Tract 504, Bronx County, New York",0,0,0,0,0,36,005,2050400
+"Census Tract 516, Bronx County, New York",201,81,19,48,53,36,005,2051600
+"Census Tract 167, Kings County, New York",174,55,79,40,0,36,047,3016700
+"Census Tract 168, Kings County, New York",191,29,25,131,6,36,047,3016800
+"Census Tract 169, Kings County, New York",86,60,11,9,6,36,047,3016900
+"Census Tract 170, Kings County, New York",200,105,8,80,7,36,047,3017000
+"Census Tract 171, Kings County, New York",116,54,10,52,0,36,047,3017100
+"Census Tract 172, Kings County, New York",126,65,0,53,8,36,047,3017200
+"Census Tract 174, Kings County, New York",87,38,13,27,9,36,047,3017400
+"Census Tract 175, Kings County, New York",0,0,0,0,0,36,047,3017500
+"Census Tract 176, Kings County, New York",73,40,4,29,0,36,047,3017600
+"Census Tract 177, Kings County, New York",0,0,0,0,0,36,047,3017700
+"Census Tract 178, Kings County, New York",177,46,16,103,12,36,047,3017800
+"Census Tract 179, Kings County, New York",155,31,0,113,11,36,047,3017900
+"Census Tract 180, Kings County, New York",278,232,0,46,0,36,047,3018000
+"Census Tract 181, Kings County, New York",85,0,21,52,12,36,047,3018100
+"Census Tract 182, Kings County, New York",135,79,0,49,7,36,047,3018200
+"Census Tract 183, Kings County, New York",107,53,0,54,0,36,047,3018300
+"Census Tract 184, Kings County, New York",169,72,9,83,5,36,047,3018400
+"Census Tract 185.01, Kings County, New York",334,102,27,190,15,36,047,3018501
+"Census Tract 186, Kings County, New York",159,68,20,34,37,36,047,3018600
+"Census Tract 187, Kings County, New York",45,12,0,27,6,36,047,3018700
+"Census Tract 188, Kings County, New York",91,21,10,52,8,36,047,3018800
+"Census Tract 190, Kings County, New York",337,188,0,142,7,36,047,3019000
+"Census Tract 191, Kings County, New York",80,22,3,44,11,36,047,3019100
+"Census Tract 192, Kings County, New York",226,25,72,41,88,36,047,3019200
+"Census Tract 193, Kings County, New York",234,92,58,23,61,36,047,3019300
+"Census Tract 194, Kings County, New York",216,104,0,105,7,36,047,3019400
+"Census Tract 195, Kings County, New York",88,54,0,25,9,36,047,3019500
+"Census Tract 196, Kings County, New York",238,145,0,93,0,36,047,3019600
+"Census Tract 197, Kings County, New York",69,10,18,19,22,36,047,3019700
+"Census Tract 198, Kings County, New York",96,50,0,25,21,36,047,3019800
+"Census Tract 199, Kings County, New York",60,0,16,44,0,36,047,3019900
+"Census Tract 200, Kings County, New York",137,63,0,63,11,36,047,3020000
+"Census Tract 201, Kings County, New York",57,0,0,46,11,36,047,3020100
+"Census Tract 202, Kings County, New York",84,32,12,40,0,36,047,3020200
+"Census Tract 203, Kings County, New York",64,28,10,26,0,36,047,3020300
+"Census Tract 204, Kings County, New York",115,35,18,50,12,36,047,3020400
+"Census Tract 205, Kings County, New York",11,11,0,0,0,36,047,3020500
+"Census Tract 206, Kings County, New York",156,111,0,35,10,36,047,3020600
+"Census Tract 207, Kings County, New York",90,44,13,19,14,36,047,3020700
+"Census Tract 208, Kings County, New York",217,68,42,67,40,36,047,3020800
+"Census Tract 210, Kings County, New York",211,58,0,153,0,36,047,3021000
+"Census Tract 211, Kings County, New York",24,11,0,13,0,36,047,3021100
+"Census Tract 212, Kings County, New York",390,189,0,201,0,36,047,3021200
+"Census Tract 213, Kings County, New York",150,32,0,118,0,36,047,3021300
+"Census Tract 214, Kings County, New York",109,23,29,22,35,36,047,3021400
+"Census Tract 215, Kings County, New York",203,129,27,47,0,36,047,3021500
+"Census Tract 216, Kings County, New York",384,59,153,80,92,36,047,3021600
+"Census Tract 217, Kings County, New York",116,59,6,32,19,36,047,3021700
+"Census Tract 218, Kings County, New York",410,62,160,10,178,36,047,3021800
+"Census Tract 219, Kings County, New York",149,54,0,86,9,36,047,3021900
+"Census Tract 220, Kings County, New York",358,0,178,33,147,36,047,3022000
+"Census Tract 221, Kings County, New York",293,164,0,129,0,36,047,3022100
+"Census Tract 222, Kings County, New York",364,29,160,15,160,36,047,3022200
+"Census Tract 224, Kings County, New York",564,53,227,38,246,36,047,3022400
+"Census Tract 226, Kings County, New York",78,4,22,43,9,36,047,3022600
+"Census Tract 227, Kings County, New York",86,48,0,38,0,36,047,3022700
+"Census Tract 228, Kings County, New York",286,44,115,20,107,36,047,3022800
+"Census Tract 229, Kings County, New York",150,74,9,35,32,36,047,3022900
+"Census Tract 230, Kings County, New York",250,22,81,25,122,36,047,3023000
+"Census Tract 231, Kings County, New York",88,46,19,0,23,36,047,3023100
+"Census Tract 232, Kings County, New York",424,32,252,62,78,36,047,3023200
+"Census Tract 233, Kings County, New York",231,57,25,149,0,36,047,3023300
+"Census Tract 234, Kings County, New York",295,0,194,0,101,36,047,3023400
+"Census Tract 235, Kings County, New York",212,19,105,39,49,36,047,3023500
+"Census Tract 236, Kings County, New York",235,23,67,15,130,36,047,3023600
+"Census Tract 238, Kings County, New York",219,47,68,37,67,36,047,3023800
+"Census Tract 240, Kings County, New York",271,34,74,0,163,36,047,3024000
+"Census Tract 241, Kings County, New York",105,38,0,67,0,36,047,3024100
+"Census Tract 242, Kings County, New York",287,11,123,4,149,36,047,3024200
+"Census Tract 243, Kings County, New York",112,37,23,52,0,36,047,3024300
+"Census Tract 244, Kings County, New York",356,10,153,26,167,36,047,3024400
+"Census Tract 245, Kings County, New York",163,60,0,93,10,36,047,3024500
+"Census Tract 246, Kings County, New York",186,62,9,49,66,36,047,3024600
+"Census Tract 247, Kings County, New York",105,70,12,23,0,36,047,3024700
+"Census Tract 248, Kings County, New York",147,29,22,74,22,36,047,3024800
+"Census Tract 249, Kings County, New York",142,61,24,57,0,36,047,3024900
+"Census Tract 250, Kings County, New York",49,37,0,12,0,36,047,3025000
+"Census Tract 251, Kings County, New York",243,150,0,93,0,36,047,3025100
+"Census Tract 252, Kings County, New York",266,155,9,102,0,36,047,3025200
+"Census Tract 253, Kings County, New York",111,32,17,48,14,36,047,3025300
+"Census Tract 254, Kings County, New York",159,0,0,143,16,36,047,3025400
+"Census Tract 255, Kings County, New York",458,256,0,176,26,36,047,3025500
+"Census Tract 256, Kings County, New York",154,96,0,58,0,36,047,3025600
+"Census Tract 257, Kings County, New York",140,77,12,45,6,36,047,3025700
+"Census Tract 258, Kings County, New York",138,95,0,27,16,36,047,3025800
+"Census Tract 259.01, Kings County, New York",106,76,0,30,0,36,047,3025901
+"Census Tract 259.02, Kings County, New York",301,183,0,118,0,36,047,3025902
+"Census Tract 260, Kings County, New York",155,81,0,74,0,36,047,3026000
+"Census Tract 261, Kings County, New York",222,80,18,104,20,36,047,3026100
+"Census Tract 262, Kings County, New York",150,56,0,89,5,36,047,3026200
+"Census Tract 263, Kings County, New York",69,30,0,39,0,36,047,3026300
+"Census Tract 264, Kings County, New York",255,134,7,71,43,36,047,3026400
+"Census Tract 265, Kings County, New York",126,76,0,50,0,36,047,3026500
+"Census Tract 266, Kings County, New York",86,23,0,63,0,36,047,3026600
+"Census Tract 267, Kings County, New York",144,58,8,60,18,36,047,3026700
+"Census Tract 268, Kings County, New York",211,99,0,112,0,36,047,3026800
+"Census Tract 269, Kings County, New York",50,33,0,17,0,36,047,3026900
+"Census Tract 270, Kings County, New York",123,45,14,41,23,36,047,3027000
+"Census Tract 271, Kings County, New York",131,79,0,29,23,36,047,3027100
+"Census Tract 272, Kings County, New York",348,122,0,207,19,36,047,3027200
+"Census Tract 273, Kings County, New York",168,56,16,96,0,36,047,3027300
+"Census Tract 274, Kings County, New York",193,108,0,65,20,36,047,3027400
+"Census Tract 275, Kings County, New York",224,110,0,90,24,36,047,3027500
+"Census Tract 276, Kings County, New York",309,160,17,132,0,36,047,3027600
+"Census Tract 277, Kings County, New York",364,208,0,147,9,36,047,3027700
+"Census Tract 278, Kings County, New York",129,49,0,80,0,36,047,3027800
+"Census Tract 279, Kings County, New York",243,172,10,41,20,36,047,3027900
+"Census Tract 280, Kings County, New York",35,21,0,14,0,36,047,3028000
+"Census Tract 281, Kings County, New York",382,223,0,159,0,36,047,3028100
+"Census Tract 282, Kings County, New York",220,87,14,103,16,36,047,3028200
+"Census Tract 283, Kings County, New York",259,147,0,112,0,36,047,3028300
+"Census Tract 284, Kings County, New York",147,101,25,21,0,36,047,3028400
+"Census Tract 285.01, Kings County, New York",23,10,0,13,0,36,047,3028501
+"Census Tract 285.02, Kings County, New York",141,86,0,44,11,36,047,3028502
+"Census Tract 286, Kings County, New York",98,76,0,22,0,36,047,3028600
+"Census Tract 287, Kings County, New York",136,75,0,61,0,36,047,3028700
+"Census Tract 288, Kings County, New York",115,57,12,46,0,36,047,3028800
+"Census Tract 289, Kings County, New York",281,86,0,195,0,36,047,3028900
+"Census Tract 290, Kings County, New York",74,7,7,33,27,36,047,3029000
+"Census Tract 291, Kings County, New York",171,95,0,66,10,36,047,3029100
+"Census Tract 292, Kings County, New York",171,131,0,40,0,36,047,3029200
+"Census Tract 293, Kings County, New York",105,29,0,52,24,36,047,3029300
+"Census Tract 294, Kings County, New York",83,8,0,65,10,36,047,3029400
+"Census Tract 295, Kings County, New York",134,48,36,50,0,36,047,3029500
+"Census Tract 296, Kings County, New York",220,108,0,112,0,36,047,3029600
+"Census Tract 297, Kings County, New York",298,136,0,162,0,36,047,3029700
+"Census Tract 298, Kings County, New York",180,40,0,125,15,36,047,3029800
+"Census Tract 299, Kings County, New York",209,125,18,66,0,36,047,3029900
+"Census Tract 300, Kings County, New York",296,154,0,142,0,36,047,3030000
+"Census Tract 301, Kings County, New York",118,37,10,71,0,36,047,3030100
+"Census Tract 302, Kings County, New York",266,112,0,142,12,36,047,3030200
+"Census Tract 303, Kings County, New York",408,133,9,266,0,36,047,3030300
+"Census Tract 304, Kings County, New York",171,114,0,57,0,36,047,3030400
+"Census Tract 305, Kings County, New York",48,36,0,12,0,36,047,3030500
+"Census Tract 306, Kings County, New York",76,35,11,19,11,36,047,3030600
+"Census Tract 307, Kings County, New York",349,152,1,196,0,36,047,3030700
+"Census Tract 308, Kings County, New York",88,74,5,0,9,36,047,3030800
+"Census Tract 309, Kings County, New York",116,73,0,43,0,36,047,3030900
+"Census Tract 311, Kings County, New York",169,58,16,95,0,36,047,3031100
+"Census Tract 313, Kings County, New York",119,76,15,0,28,36,047,3031300
+"Census Tract 314, Kings County, New York",139,89,12,30,8,36,047,3031400
+"Census Tract 315, Kings County, New York",270,119,0,113,38,36,047,3031500
+"Census Tract 317.01, Kings County, New York",91,64,9,18,0,36,047,3031701
+"Census Tract 317.02, Kings County, New York",178,84,0,94,0,36,047,3031702
+"Census Tract 910, Kings County, New York",233,64,0,145,24,36,047,3091000
+"Census Tract 912, Kings County, New York",495,259,35,201,0,36,047,3091200
+"Census Tract 916, Kings County, New York",273,152,0,121,0,36,047,3091600
+"Census Tract 918, Kings County, New York",89,39,0,43,7,36,047,3091800
+"Census Tract 920, Kings County, New York",191,69,20,102,0,36,047,3092000
+"Census Tract 922, Kings County, New York",219,107,0,112,0,36,047,3092200
+"Census Tract 924, Kings County, New York",216,81,0,99,36,36,047,3092400
+"Census Tract 928, Kings County, New York",201,110,0,91,0,36,047,3092800
+"Census Tract 930, Kings County, New York",131,69,4,58,0,36,047,3093000
+"Census Tract 932, Kings County, New York",39,13,6,20,0,36,047,3093200
+"Census Tract 934, Kings County, New York",103,75,0,28,0,36,047,3093400
+"Census Tract 936, Kings County, New York",70,52,0,18,0,36,047,3093600
+"Census Tract 938, Kings County, New York",88,54,0,34,0,36,047,3093800
+"Census Tract 944.01, Kings County, New York",172,46,20,97,9,36,047,3094401
+"Census Tract 944.02, Kings County, New York",294,142,0,130,22,36,047,3094402
+"Census Tract 946, Kings County, New York",81,30,0,44,7,36,047,3094600
+"Census Tract 950, Kings County, New York",147,35,22,56,34,36,047,3095000
+"Census Tract 954, Kings County, New York",156,96,8,52,0,36,047,3095400
+"Census Tract 956, Kings County, New York",205,81,11,102,11,36,047,3095600
+"Census Tract 958, Kings County, New York",310,164,0,125,21,36,047,3095800
+"Census Tract 960, Kings County, New York",0,0,0,0,0,36,047,3096000
+"Census Tract 962, Kings County, New York",87,20,14,48,5,36,047,3096200
+"Census Tract 964, Kings County, New York",139,103,8,28,0,36,047,3096400
+"Census Tract 966, Kings County, New York",162,78,19,54,11,36,047,3096600
+"Census Tract 968, Kings County, New York",66,6,0,50,10,36,047,3096800
+"Census Tract 970, Kings County, New York",124,71,0,53,0,36,047,3097000
+"Census Tract 974, Kings County, New York",194,72,19,103,0,36,047,3097400
+"Census Tract 982, Kings County, New York",364,177,0,178,9,36,047,3098200
+"Census Tract 984, Kings County, New York",80,38,0,19,23,36,047,3098400
+"Census Tract 986, Kings County, New York",120,50,15,55,0,36,047,3098600
+"Census Tract 988, Kings County, New York",138,72,10,56,0,36,047,3098800
+"Census Tract 990, Kings County, New York",126,59,3,48,16,36,047,3099000
+"Census Tract 992, Kings County, New York",117,77,17,11,12,36,047,3099200
+"Census Tract 994, Kings County, New York",141,62,6,67,6,36,047,3099400
+"Census Tract 996, Kings County, New York",295,174,0,74,47,36,047,3099600
+"Census Tract 998, Kings County, New York",159,63,10,86,0,36,047,3099800
+"Census Tract 1004, Kings County, New York",197,139,20,38,0,36,047,3100400
+"Census Tract 1006, Kings County, New York",212,100,13,84,15,36,047,3100600
+"Census Tract 1008, Kings County, New York",166,98,0,63,5,36,047,3100800
+"Census Tract 1010, Kings County, New York",173,85,0,88,0,36,047,3101000
+"Census Tract 1012, Kings County, New York",164,60,13,91,0,36,047,3101200
+"Census Tract 1014, Kings County, New York",118,48,0,70,0,36,047,3101400
+"Census Tract 1016, Kings County, New York",78,41,17,4,16,36,047,3101600
+"Census Tract 1018, Kings County, New York",71,0,0,71,0,36,047,3101800
+"Census Tract 1020, Kings County, New York",183,70,0,113,0,36,047,3102000
+"Census Tract 1022, Kings County, New York",139,67,0,61,11,36,047,3102200
+"Census Tract 1024, Kings County, New York",96,44,0,46,6,36,047,3102400
+"Census Tract 1026, Kings County, New York",135,46,0,89,0,36,047,3102600
+"Census Tract 319, Kings County, New York",353,90,154,109,0,36,047,3031900
+"Census Tract 321, Kings County, New York",259,83,0,176,0,36,047,3032100
+"Census Tract 323, Kings County, New York",190,101,0,89,0,36,047,3032300
+"Census Tract 325, Kings County, New York",244,134,0,110,0,36,047,3032500
+"Census Tract 326, Kings County, New York",715,324,0,378,13,36,047,3032600
+"Census Tract 327, Kings County, New York",129,11,19,99,0,36,047,3032700
+"Census Tract 328, Kings County, New York",122,14,0,108,0,36,047,3032800
+"Census Tract 329, Kings County, New York",366,96,81,177,12,36,047,3032900
+"Census Tract 330, Kings County, New York",381,172,0,209,0,36,047,3033000
+"Census Tract 331, Kings County, New York",246,35,97,22,92,36,047,3033100
+"Census Tract 333, Kings County, New York",257,51,107,47,52,36,047,3033300
+"Census Tract 335, Kings County, New York",265,57,46,70,92,36,047,3033500
+"Census Tract 336, Kings County, New York",193,66,41,26,60,36,047,3033600
+"Census Tract 337, Kings County, New York",264,130,0,127,7,36,047,3033700
+"Census Tract 339, Kings County, New York",113,67,7,39,0,36,047,3033900
+"Census Tract 340, Kings County, New York",66,25,8,33,0,36,047,3034000
+"Census Tract 341, Kings County, New York",130,53,7,70,0,36,047,3034100
+"Census Tract 342, Kings County, New York",358,129,14,182,33,36,047,3034200
+"Census Tract 343, Kings County, New York",283,139,25,119,0,36,047,3034300
+"Census Tract 345, Kings County, New York",125,71,8,46,0,36,047,3034500
+"Census Tract 347, Kings County, New York",185,41,0,144,0,36,047,3034700
+"Census Tract 348, Kings County, New York",51,51,0,0,0,36,047,3034800
+"Census Tract 349, Kings County, New York",422,243,0,171,8,36,047,3034900
+"Census Tract 350, Kings County, New York",71,20,0,51,0,36,047,3035000
+"Census Tract 351, Kings County, New York",414,185,25,194,10,36,047,3035100
+"Census Tract 352, Kings County, New York",0,0,0,0,0,36,047,3035200
+"Census Tract 353, Kings County, New York",209,91,22,96,0,36,047,3035300
+"Census Tract 354, Kings County, New York",156,69,20,67,0,36,047,3035400
+"Census Tract 355, Kings County, New York",368,125,25,218,0,36,047,3035500
+"Census Tract 356.01, Kings County, New York",23,16,0,7,0,36,047,3035601
+"Census Tract 356.02, Kings County, New York",25,0,0,25,0,36,047,3035602
+"Census Tract 357, Kings County, New York",188,64,3,118,3,36,047,3035700
+"Census Tract 359, Kings County, New York",258,117,13,128,0,36,047,3035900
+"Census Tract 360.01, Kings County, New York",29,17,0,12,0,36,047,3036001
+"Census Tract 360.02, Kings County, New York",92,13,0,73,6,36,047,3036002
+"Census Tract 361, Kings County, New York",63,12,11,40,0,36,047,3036100
+"Census Tract 362, Kings County, New York",162,74,10,62,16,36,047,3036200
+"Census Tract 363, Kings County, New York",262,87,0,175,0,36,047,3036300
+"Census Tract 364, Kings County, New York",101,54,0,43,4,36,047,3036400
+"Census Tract 365.01, Kings County, New York",150,50,0,93,7,36,047,3036501
+"Census Tract 365.02, Kings County, New York",64,30,0,19,15,36,047,3036502
+"Census Tract 366, Kings County, New York",251,110,0,127,14,36,047,3036600
+"Census Tract 367, Kings County, New York",71,13,0,58,0,36,047,3036700
+"Census Tract 369, Kings County, New York",328,186,0,130,12,36,047,3036900
+"Census Tract 370, Kings County, New York",287,166,10,111,0,36,047,3037000
+"Census Tract 371, Kings County, New York",342,228,0,102,12,36,047,3037100
+"Census Tract 373, Kings County, New York",210,143,0,58,9,36,047,3037300
+"Census Tract 374.01, Kings County, New York",257,124,35,98,0,36,047,3037401
+"Census Tract 374.02, Kings County, New York",397,153,14,217,13,36,047,3037402
+"Census Tract 375, Kings County, New York",212,54,23,117,18,36,047,3037500
+"Census Tract 377, Kings County, New York",168,108,0,60,0,36,047,3037700
+"Census Tract 379, Kings County, New York",229,113,32,84,0,36,047,3037900
+"Census Tract 381, Kings County, New York",280,140,0,140,0,36,047,3038100
+"Census Tract 382, Kings County, New York",518,243,19,256,0,36,047,3038200
+"Census Tract 383, Kings County, New York",169,51,0,107,11,36,047,3038300
+"Census Tract 385, Kings County, New York",237,102,0,122,13,36,047,3038500
+"Census Tract 386, Kings County, New York",144,32,0,90,22,36,047,3038600
+"Census Tract 387, Kings County, New York",305,162,2,141,0,36,047,3038700
+"Census Tract 388, Kings County, New York",153,44,16,75,18,36,047,3038800
+"Census Tract 389, Kings County, New York",100,69,0,31,0,36,047,3038900
+"Census Tract 390, Kings County, New York",177,48,49,22,58,36,047,3039000
+"Census Tract 391, Kings County, New York",94,50,4,40,0,36,047,3039100
+"Census Tract 392, Kings County, New York",128,18,30,10,70,36,047,3039200
+"Census Tract 393, Kings County, New York",116,88,0,28,0,36,047,3039300
+"Census Tract 394, Kings County, New York",176,36,51,22,67,36,047,3039400
+"Census Tract 395, Kings County, New York",167,105,0,62,0,36,047,3039500
+"Census Tract 396, Kings County, New York",82,11,14,31,26,36,047,3039600
+"Census Tract 397, Kings County, New York",130,46,0,84,0,36,047,3039700
+"Census Tract 398, Kings County, New York",176,56,36,84,0,36,047,3039800
+"Census Tract 399, Kings County, New York",196,146,0,50,0,36,047,3039900
+"Census Tract 400, Kings County, New York",135,59,15,40,21,36,047,3040000
+"Census Tract 401, Kings County, New York",158,117,0,41,0,36,047,3040100
+"Census Tract 402, Kings County, New York",72,28,5,31,8,36,047,3040200
+"Census Tract 403, Kings County, New York",73,15,0,58,0,36,047,3040300
+"Census Tract 404, Kings County, New York",89,45,0,44,0,36,047,3040400
+"Census Tract 405, Kings County, New York",31,15,11,5,0,36,047,3040500
+"Census Tract 406, Kings County, New York",144,81,7,56,0,36,047,3040600
+"Census Tract 407, Kings County, New York",0,0,0,0,0,36,047,3040700
+"Census Tract 408, Kings County, New York",118,73,11,34,0,36,047,3040800
+"Census Tract 409, Kings County, New York",200,56,0,144,0,36,047,3040900
+"Census Tract 410, Kings County, New York",114,28,13,55,18,36,047,3041000
+"Census Tract 411, Kings County, New York",125,24,0,101,0,36,047,3041100
+"Census Tract 412, Kings County, New York",221,99,0,100,22,36,047,3041200
+"Census Tract 413, Kings County, New York",240,95,15,122,8,36,047,3041300
+"Census Tract 414.01, Kings County, New York",32,4,6,10,12,36,047,3041401
+"Census Tract 414.02, Kings County, New York",81,0,58,0,23,36,047,3041402
+"Census Tract 415, Kings County, New York",224,129,0,95,0,36,047,3041500
+"Census Tract 416, Kings County, New York",199,99,31,37,32,36,047,3041600
+"Census Tract 417, Kings County, New York",189,32,0,157,0,36,047,3041700
+"Census Tract 418, Kings County, New York",151,21,39,19,72,36,047,3041800
+"Census Tract 419, Kings County, New York",308,199,0,97,12,36,047,3041900
+"Census Tract 420, Kings County, New York",176,40,46,39,51,36,047,3042000
+"Census Tract 421, Kings County, New York",116,109,0,7,0,36,047,3042100
+"Census Tract 422, Kings County, New York",273,12,169,7,85,36,047,3042200
+"Census Tract 423, Kings County, New York",225,96,0,121,8,36,047,3042300
+"Census Tract 424, Kings County, New York",279,93,7,179,0,36,047,3042400
+"Census Tract 425, Kings County, New York",136,99,0,34,3,36,047,3042500
+"Census Tract 426, Kings County, New York",253,144,0,103,6,36,047,3042600
+"Census Tract 427, Kings County, New York",269,152,0,117,0,36,047,3042700
+"Census Tract 428, Kings County, New York",102,77,0,25,0,36,047,3042800
+"Census Tract 429, Kings County, New York",367,149,0,218,0,36,047,3042900
+"Census Tract 430, Kings County, New York",142,76,16,50,0,36,047,3043000
+"Census Tract 431, Kings County, New York",224,105,0,119,0,36,047,3043100
+"Census Tract 432, Kings County, New York",180,117,0,63,0,36,047,3043200
+"Census Tract 433, Kings County, New York",320,226,0,94,0,36,047,3043300
+"Census Tract 434, Kings County, New York",167,130,0,37,0,36,047,3043400
+"Census Tract 435, Kings County, New York",423,192,12,219,0,36,047,3043500
+"Census Tract 436, Kings County, New York",138,109,0,29,0,36,047,3043600
+"Census Tract 437, Kings County, New York",221,99,0,122,0,36,047,3043700
+"Census Tract 438, Kings County, New York",133,33,35,40,25,36,047,3043800
+"Census Tract 439, Kings County, New York",254,145,16,93,0,36,047,3043900
+"Census Tract 440, Kings County, New York",188,29,53,42,64,36,047,3044000
+"Census Tract 441, Kings County, New York",227,90,0,134,3,36,047,3044100
+"Census Tract 442, Kings County, New York",185,16,63,29,77,36,047,3044200
+"Census Tract 443, Kings County, New York",286,134,0,152,0,36,047,3044300
+"Census Tract 444, Kings County, New York",247,144,56,0,47,36,047,3044400
+"Census Tract 445, Kings County, New York",219,122,0,97,0,36,047,3044500
+"Census Tract 446, Kings County, New York",154,34,11,85,24,36,047,3044600
+"Census Tract 447, Kings County, New York",185,92,0,80,13,36,047,3044700
+"Census Tract 448, Kings County, New York",102,37,38,10,17,36,047,3044800
+"Census Tract 449, Kings County, New York",151,74,0,49,28,36,047,3044900
+"Census Tract 450, Kings County, New York",53,15,12,0,26,36,047,3045000
+"Census Tract 452, Kings County, New York",122,21,19,22,60,36,047,3045200
+"Census Tract 453, Kings County, New York",70,20,24,26,0,36,047,3045300
+"Census Tract 454, Kings County, New York",166,43,21,14,88,36,047,3045400
+"Census Tract 456, Kings County, New York",116,22,22,60,12,36,047,3045600
+"Census Tract 458, Kings County, New York",117,6,64,8,39,36,047,3045800
+"Census Tract 460, Kings County, New York",257,114,48,77,18,36,047,3046000
+"Census Tract 462.01, Kings County, New York",90,29,6,0,55,36,047,3046201
+"Census Tract 462.02, Kings County, New York",201,28,111,7,55,36,047,3046202
+"Census Tract 464, Kings County, New York",316,48,141,25,102,36,047,3046400
+"Census Tract 468, Kings County, New York",224,13,61,17,133,36,047,3046800
+"Census Tract 470, Kings County, New York",200,19,108,21,52,36,047,3047000
+"Census Tract 472, Kings County, New York",226,13,92,0,121,36,047,3047200
+"Census Tract 474, Kings County, New York",209,46,82,0,81,36,047,3047400
+"Census Tract 476, Kings County, New York",203,0,110,0,93,36,047,3047600
+"Census Tract 477, Kings County, New York",15,0,15,0,0,36,047,3047700
+"Census Tract 478, Kings County, New York",356,39,169,66,82,36,047,3047800
+"Census Tract 480, Kings County, New York",266,66,73,35,92,36,047,3048000
+"Census Tract 481, Kings County, New York",159,82,25,27,25,36,047,3048100
+"Census Tract 482, Kings County, New York",156,77,0,64,15,36,047,3048200
+"Census Tract 484, Kings County, New York",506,42,242,61,161,36,047,3048400
+"Census Tract 485, Kings County, New York",37,13,0,24,0,36,047,3048500
+"Census Tract 486, Kings County, New York",169,32,32,64,41,36,047,3048600
+"Census Tract 488, Kings County, New York",361,94,55,135,77,36,047,3048800
+"Census Tract 489, Kings County, New York",130,84,0,36,10,36,047,3048900
+"Census Tract 490, Kings County, New York",313,73,52,156,32,36,047,3049000
+"Census Tract 491, Kings County, New York",293,212,32,42,7,36,047,3049100
+"Census Tract 492, Kings County, New York",157,64,24,37,32,36,047,3049200
+"Census Tract 493, Kings County, New York",449,292,13,104,40,36,047,3049300
+"Census Tract 494, Kings County, New York",260,130,16,91,23,36,047,3049400
+"Census Tract 495, Kings County, New York",96,0,11,85,0,36,047,3049500
+"Census Tract 496, Kings County, New York",193,41,61,85,6,36,047,3049600
+"Census Tract 497, Kings County, New York",8,0,0,0,8,36,047,3049700
+"Census Tract 498, Kings County, New York",186,121,0,65,0,36,047,3049800
+"Census Tract 499, Kings County, New York",21,21,0,0,0,36,047,3049900
+"Census Tract 500, Kings County, New York",176,86,7,68,15,36,047,3050000
+"Census Tract 501, Kings County, New York",34,9,0,25,0,36,047,3050100
+"Census Tract 502.02, Kings County, New York",39,0,0,28,11,36,047,3050202
+"Census Tract 503, Kings County, New York",22,0,9,13,0,36,047,3050300
+"Census Tract 504, Kings County, New York",152,17,8,105,22,36,047,3050400
+"Census Tract 505, Kings County, New York",203,141,20,42,0,36,047,3050500
+"Census Tract 506, Kings County, New York",248,69,0,178,1,36,047,3050600
+"Census Tract 507, Kings County, New York",303,42,142,11,108,36,047,3050700
+"Census Tract 508.01, Kings County, New York",296,173,0,113,10,36,047,3050801
+"Census Tract 508.03, Kings County, New York",32,22,0,4,6,36,047,3050803
+"Census Tract 508.04, Kings County, New York",303,196,0,107,0,36,047,3050804
+"Census Tract 509, Kings County, New York",466,38,283,0,145,36,047,3050900
+"Census Tract 510.01, Kings County, New York",267,131,20,107,9,36,047,3051001
+"Census Tract 510.02, Kings County, New York",162,97,0,57,8,36,047,3051002
+"Census Tract 511, Kings County, New York",146,114,7,25,0,36,047,3051100
+"Census Tract 512, Kings County, New York",415,216,31,123,45,36,047,3051200
+"Census Tract 513, Kings County, New York",80,70,2,8,0,36,047,3051300
+"Census Tract 514, Kings County, New York",431,300,11,109,11,36,047,3051400
+"Census Tract 515, Kings County, New York",43,28,7,8,0,36,047,3051500
+"Census Tract 516.01, Kings County, New York",308,182,0,100,26,36,047,3051601
+"Census Tract 516.02, Kings County, New York",124,87,0,37,0,36,047,3051602
+"Census Tract 517, Kings County, New York",16,16,0,0,0,36,047,3051700
+"Census Tract 518, Kings County, New York",101,0,0,101,0,36,047,3051800
+"Census Tract 519, Kings County, New York",13,7,0,6,0,36,047,3051900
+"Census Tract 520, Kings County, New York",196,100,0,91,5,36,047,3052000
+"Census Tract 523, Kings County, New York",163,163,0,0,0,36,047,3052300
+"Census Tract 525, Kings County, New York",149,34,58,52,5,36,047,3052500
+"Census Tract 526, Kings County, New York",340,99,0,238,3,36,047,3052600
+"Census Tract 527, Kings County, New York",314,198,0,116,0,36,047,3052700
+"Census Tract 528, Kings County, New York",108,63,11,34,0,36,047,3052800
+"Census Tract 529, Kings County, New York",241,51,7,35,148,36,047,3052900
+"Census Tract 530, Kings County, New York",225,52,68,53,52,36,047,3053000
+"Census Tract 531, Kings County, New York",764,41,358,34,331,36,047,3053100
+"Census Tract 532, Kings County, New York",88,27,13,14,34,36,047,3053200
+"Census Tract 533, Kings County, New York",436,0,209,30,197,36,047,3053300
+"Census Tract 534, Kings County, New York",290,50,69,126,45,36,047,3053400
+"Census Tract 535, Kings County, New York",207,0,114,0,93,36,047,3053500
+"Census Tract 537, Kings County, New York",438,17,275,23,123,36,047,3053700
+"Census Tract 538, Kings County, New York",90,16,0,57,17,36,047,3053800
+"Census Tract 539, Kings County, New York",136,3,61,17,55,36,047,3053900
+"Census Tract 542, Kings County, New York",270,132,46,68,24,36,047,3054200
+"Census Tract 543, Kings County, New York",0,0,0,0,0,36,047,3054300
+"Census Tract 544, Kings County, New York",95,34,0,20,41,36,047,3054400
+"Census Tract 545, Kings County, New York",729,82,292,54,301,36,047,3054500
+"Census Tract 546, Kings County, New York",242,69,53,79,41,36,047,3054600
+"Census Tract 547, Kings County, New York",258,38,97,32,91,36,047,3054700
+"Census Tract 548, Kings County, New York",154,7,50,68,29,36,047,3054800
+"Census Tract 549, Kings County, New York",148,9,75,11,53,36,047,3054900
+"Census Tract 550, Kings County, New York",90,36,9,36,9,36,047,3055000
+"Census Tract 551, Kings County, New York",228,141,36,51,0,36,047,3055100
+"Census Tract 552, Kings County, New York",120,33,7,80,0,36,047,3055200
+"Census Tract 553, Kings County, New York",32,25,0,7,0,36,047,3055300
+"Census Tract 554, Kings County, New York",198,24,43,82,49,36,047,3055400
+"Census Tract 555, Kings County, New York",179,83,18,78,0,36,047,3055500
+"Census Tract 556, Kings County, New York",218,41,107,47,23,36,047,3055600
+"Census Tract 557, Kings County, New York",48,17,0,31,0,36,047,3055700
+"Census Tract 558, Kings County, New York",141,43,10,48,40,36,047,3055800
+"Census Tract 560, Kings County, New York",119,14,47,21,37,36,047,3056000
+"Census Tract 561, Kings County, New York",47,34,7,6,0,36,047,3056100
+"Census Tract 562, Kings County, New York",96,16,15,38,27,36,047,3056200
+"Census Tract 563, Kings County, New York",131,63,0,68,0,36,047,3056300
+"Census Tract 564, Kings County, New York",167,78,48,36,5,36,047,3056400
+"Census Tract 565, Kings County, New York",9,0,0,9,0,36,047,3056500
+"Census Tract 566, Kings County, New York",40,11,0,24,5,36,047,3056600
+"Census Tract 568, Kings County, New York",73,37,5,31,0,36,047,3056800
+"Census Tract 569, Kings County, New York",41,16,16,9,0,36,047,3056900
+"Census Tract 570, Kings County, New York",126,41,0,77,8,36,047,3057000
+"Census Tract 571, Kings County, New York",91,31,13,47,0,36,047,3057100
+"Census Tract 572, Kings County, New York",287,109,0,178,0,36,047,3057200
+"Census Tract 573, Kings County, New York",21,21,0,0,0,36,047,3057300
+"Census Tract 574, Kings County, New York",165,37,12,92,24,36,047,3057400
+"Census Tract 575, Kings County, New York",119,25,0,66,28,36,047,3057500
+"Census Tract 576, Kings County, New York",181,103,10,68,0,36,047,3057600
+"Census Tract 578, Kings County, New York",144,64,16,54,10,36,047,3057800
+"Census Tract 579, Kings County, New York",73,16,0,57,0,36,047,3057900
+"Census Tract 580, Kings County, New York",276,134,0,119,23,36,047,3058000
+"Census Tract 582, Kings County, New York",260,117,0,73,70,36,047,3058200
+"Census Tract 584, Kings County, New York",92,26,9,16,41,36,047,3058400
+"Census Tract 586, Kings County, New York",165,69,17,59,20,36,047,3058600
+"Census Tract 588, Kings County, New York",52,52,0,0,0,36,047,3058800
+"Census Tract 589, Kings County, New York",18,0,5,13,0,36,047,3058900
+"Census Tract 590, Kings County, New York",116,51,0,65,0,36,047,3059000
+"Census Tract 591, Kings County, New York",52,31,13,8,0,36,047,3059100
+"Census Tract 592, Kings County, New York",164,100,0,64,0,36,047,3059200
+"Census Tract 593, Kings County, New York",50,6,5,39,0,36,047,3059300
+"Census Tract 594.01, Kings County, New York",321,202,0,119,0,36,047,3059401
+"Census Tract 594.02, Kings County, New York",184,114,0,56,14,36,047,3059402
+"Census Tract 596, Kings County, New York",50,28,0,22,0,36,047,3059600
+"Census Tract 598, Kings County, New York",170,86,0,77,7,36,047,3059800
+"Census Tract 600, Kings County, New York",131,90,0,41,0,36,047,3060000
+"Census Tract 606, Kings County, New York",87,34,0,53,0,36,047,3060600
+"Census Tract 608, Kings County, New York",123,54,0,69,0,36,047,3060800
+"Census Tract 610.02, Kings County, New York",83,0,43,25,15,36,047,3061002
+"Census Tract 610.03, Kings County, New York",115,43,5,67,0,36,047,3061003
+"Census Tract 610.04, Kings County, New York",92,62,0,30,0,36,047,3061004
+"Census Tract 612, Kings County, New York",33,8,0,17,8,36,047,3061200
+"Census Tract 616, Kings County, New York",49,39,10,0,0,36,047,3061600
+"Census Tract 620, Kings County, New York",43,18,0,20,5,36,047,3062000
+"Census Tract 622, Kings County, New York",114,11,0,103,0,36,047,3062200
+"Census Tract 626, Kings County, New York",215,85,0,121,9,36,047,3062600
+"Census Tract 628, Kings County, New York",226,105,9,59,53,36,047,3062800
+"Census Tract 632, Kings County, New York",45,11,0,29,5,36,047,3063200
+"Census Tract 636, Kings County, New York",45,15,7,17,6,36,047,3063600
+"Census Tract 638, Kings County, New York",57,18,4,27,8,36,047,3063800
+"Census Tract 640, Kings County, New York",70,12,27,29,2,36,047,3064000
+"Census Tract 642, Kings County, New York",99,19,37,13,30,36,047,3064200
+"Census Tract 644, Kings County, New York",119,15,58,17,29,36,047,3064400
+"Census Tract 646, Kings County, New York",126,35,32,12,47,36,047,3064600
+"Census Tract 648, Kings County, New York",149,76,21,30,22,36,047,3064800
+"Census Tract 650, Kings County, New York",99,36,0,55,8,36,047,3065000
+"Census Tract 652, Kings County, New York",48,23,0,10,15,36,047,3065200
+"Census Tract 654, Kings County, New York",109,85,0,17,7,36,047,3065400
+"Census Tract 656, Kings County, New York",156,86,23,28,19,36,047,3065600
+"Census Tract 658, Kings County, New York",65,9,0,52,4,36,047,3065800
+"Census Tract 660, Kings County, New York",67,14,10,34,9,36,047,3066000
+"Census Tract 662, Kings County, New York",120,42,0,68,10,36,047,3066200
+"Census Tract 666, Kings County, New York",0,0,0,0,0,36,047,3066600
+"Census Tract 670, Kings County, New York",245,97,9,124,15,36,047,3067000
+"Census Tract 672, Kings County, New York",152,56,0,96,0,36,047,3067200
+"Census Tract 674, Kings County, New York",119,47,0,72,0,36,047,3067400
+"Census Tract 676, Kings County, New York",40,20,0,20,0,36,047,3067600
+"Census Tract 678, Kings County, New York",83,34,29,14,6,36,047,3067800
+"Census Tract 680, Kings County, New York",143,58,0,67,18,36,047,3068000
+"Census Tract 682, Kings County, New York",110,25,6,52,27,36,047,3068200
+"Census Tract 686, Kings County, New York",76,26,0,50,0,36,047,3068600
+"Census Tract 688, Kings County, New York",101,46,30,25,0,36,047,3068800
+"Census Tract 690, Kings County, New York",206,103,0,97,6,36,047,3069000
+"Census Tract 692, Kings County, New York",191,108,0,50,33,36,047,3069200
+"Census Tract 696.01, Kings County, New York",322,166,52,94,10,36,047,3069601
+"Census Tract 696.02, Kings County, New York",143,46,47,50,0,36,047,3069602
+"Census Tract 698, Kings County, New York",50,22,0,23,5,36,047,3069800
+"Census Tract 700, Kings County, New York",118,52,28,33,5,36,047,3070000
+"Census Tract 702.01, Kings County, New York",295,69,60,138,28,36,047,3070201
+"Census Tract 702.02, Kings County, New York",0,0,0,0,0,36,047,3070202
+"Census Tract 702.03, Kings County, New York",0,0,0,0,0,36,047,3070203
+"Census Tract 706, Kings County, New York",181,73,0,43,65,36,047,3070600
+"Census Tract 720, Kings County, New York",196,26,36,127,7,36,047,3072000
+"Census Tract 722, Kings County, New York",200,95,13,92,0,36,047,3072200
+"Census Tract 724, Kings County, New York",53,25,0,18,10,36,047,3072400
+"Census Tract 726, Kings County, New York",100,52,0,48,0,36,047,3072600
+"Census Tract 728, Kings County, New York",218,88,0,130,0,36,047,3072800
+"Census Tract 730, Kings County, New York",90,35,12,40,3,36,047,3073000
+"Census Tract 732, Kings County, New York",152,39,0,107,6,36,047,3073200
+"Census Tract 734, Kings County, New York",133,51,9,53,20,36,047,3073400
+"Census Tract 736, Kings County, New York",250,148,7,95,0,36,047,3073600
+"Census Tract 738, Kings County, New York",190,113,15,36,26,36,047,3073800
+"Census Tract 740, Kings County, New York",330,159,0,142,29,36,047,3074000
+"Census Tract 742, Kings County, New York",312,59,65,105,83,36,047,3074200
+"Census Tract 744, Kings County, New York",189,31,84,26,48,36,047,3074400
+"Census Tract 746, Kings County, New York",192,51,83,5,53,36,047,3074600
+"Census Tract 748, Kings County, New York",184,4,114,15,51,36,047,3074800
+"Census Tract 750, Kings County, New York",202,10,97,12,83,36,047,3075000
+"Census Tract 752, Kings County, New York",80,9,51,0,20,36,047,3075200
+"Census Tract 754, Kings County, New York",121,0,72,0,49,36,047,3075400
+"Census Tract 756, Kings County, New York",168,19,25,25,99,36,047,3075600
+"Census Tract 758, Kings County, New York",126,29,57,17,23,36,047,3075800
+"Census Tract 760, Kings County, New York",210,35,95,4,76,36,047,3076000
+"Census Tract 762, Kings County, New York",154,63,30,43,18,36,047,3076200
+"Census Tract 764, Kings County, New York",155,69,0,67,19,36,047,3076400
+"Census Tract 766, Kings County, New York",146,49,3,94,0,36,047,3076600
+"Census Tract 768, Kings County, New York",164,10,64,22,68,36,047,3076800
+"Census Tract 770, Kings County, New York",187,75,0,112,0,36,047,3077000
+"Census Tract 772, Kings County, New York",134,15,33,51,35,36,047,3077200
+"Census Tract 774, Kings County, New York",215,54,0,161,0,36,047,3077400
+"Census Tract 776, Kings County, New York",119,85,0,34,0,36,047,3077600
+"Census Tract 780, Kings County, New York",86,59,0,23,4,36,047,3078000
+"Census Tract 782, Kings County, New York",457,160,41,247,9,36,047,3078200
+"Census Tract 784, Kings County, New York",123,49,0,57,17,36,047,3078400
+"Census Tract 786, Kings County, New York",287,104,0,163,20,36,047,3078600
+"Census Tract 788, Kings County, New York",200,27,9,164,0,36,047,3078800
+"Census Tract 790, Kings County, New York",435,192,10,210,23,36,047,3079000
+"Census Tract 792, Kings County, New York",170,34,0,136,0,36,047,3079200
+"Census Tract 794, Kings County, New York",140,98,0,42,0,36,047,3079400
+"Census Tract 796.01, Kings County, New York",183,46,0,137,0,36,047,3079601
+"Census Tract 796.02, Kings County, New York",352,146,9,176,21,36,047,3079602
+"Census Tract 798.01, Kings County, New York",119,63,20,36,0,36,047,3079801
+"Census Tract 798.02, Kings County, New York",273,95,9,169,0,36,047,3079802
+"Census Tract 800, Kings County, New York",77,6,13,29,29,36,047,3080000
+"Census Tract 802, Kings County, New York",96,31,0,65,0,36,047,3080200
+"Census Tract 804, Kings County, New York",77,53,0,24,0,36,047,3080400
+"Census Tract 806, Kings County, New York",188,45,47,59,37,36,047,3080600
+"Census Tract 808, Kings County, New York",19,5,9,5,0,36,047,3080800
+"Census Tract 810, Kings County, New York",122,84,10,28,0,36,047,3081000
+"Census Tract 814, Kings County, New York",114,91,0,23,0,36,047,3081400
+"Census Tract 816, Kings County, New York",209,137,0,72,0,36,047,3081600
+"Census Tract 818, Kings County, New York",173,89,0,84,0,36,047,3081800
+"Census Tract 820, Kings County, New York",298,113,0,183,2,36,047,3082000
+"Census Tract 822, Kings County, New York",273,127,0,146,0,36,047,3082200
+"Census Tract 824, Kings County, New York",342,145,0,197,0,36,047,3082400
+"Census Tract 826, Kings County, New York",267,125,0,142,0,36,047,3082600
+"Census Tract 828, Kings County, New York",202,86,0,116,0,36,047,3082800
+"Census Tract 830, Kings County, New York",374,180,0,194,0,36,047,3083000
+"Census Tract 832, Kings County, New York",162,69,0,93,0,36,047,3083200
+"Census Tract 834, Kings County, New York",60,21,0,39,0,36,047,3083400
+"Census Tract 836, Kings County, New York",134,72,6,51,5,36,047,3083600
+"Census Tract 838, Kings County, New York",194,59,8,119,8,36,047,3083800
+"Census Tract 840, Kings County, New York",127,51,5,65,6,36,047,3084000
+"Census Tract 846, Kings County, New York",52,27,1,24,0,36,047,3084600
+"Census Tract 848, Kings County, New York",66,28,0,38,0,36,047,3084800
+"Census Tract 850, Kings County, New York",87,55,0,29,3,36,047,3085000
+"Census Tract 852, Kings County, New York",0,0,0,0,0,36,047,3085200
+"Census Tract 854, Kings County, New York",156,84,0,58,14,36,047,3085400
+"Census Tract 856, Kings County, New York",185,101,0,84,0,36,047,3085600
+"Census Tract 858, Kings County, New York",114,66,0,48,0,36,047,3085800
+"Census Tract 860, Kings County, New York",156,97,12,47,0,36,047,3086000
+"Census Tract 862, Kings County, New York",177,105,0,72,0,36,047,3086200
+"Census Tract 864, Kings County, New York",129,56,6,67,0,36,047,3086400
+"Census Tract 866, Kings County, New York",218,84,0,118,16,36,047,3086600
+"Census Tract 868, Kings County, New York",114,74,0,40,0,36,047,3086800
+"Census Tract 870, Kings County, New York",187,87,2,98,0,36,047,3087000
+"Census Tract 872, Kings County, New York",256,155,9,92,0,36,047,3087200
+"Census Tract 874.01, Kings County, New York",159,26,6,111,16,36,047,3087401
+"Census Tract 876, Kings County, New York",58,31,7,20,0,36,047,3087600
+"Census Tract 878, Kings County, New York",89,54,0,35,0,36,047,3087800
+"Census Tract 880, Kings County, New York",130,68,17,45,0,36,047,3088000
+"Census Tract 882, Kings County, New York",322,149,0,173,0,36,047,3088200
+"Census Tract 884, Kings County, New York",316,88,0,228,0,36,047,3088400
+"Census Tract 886, Kings County, New York",258,98,0,160,0,36,047,3088600
+"Census Tract 888, Kings County, New York",291,179,0,93,19,36,047,3088800
+"Census Tract 890, Kings County, New York",502,292,0,210,0,36,047,3089000
+"Census Tract 892, Kings County, New York",275,104,0,171,0,36,047,3089200
+"Census Tract 894, Kings County, New York",187,86,0,86,15,36,047,3089400
+"Census Tract 896, Kings County, New York",98,45,20,33,0,36,047,3089600
+"Census Tract 898, Kings County, New York",116,41,0,61,14,36,047,3089800
+"Census Tract 900, Kings County, New York",348,77,0,264,7,36,047,3090000
+"Census Tract 902, Kings County, New York",208,83,0,125,0,36,047,3090200
+"Census Tract 906, Kings County, New York",313,168,0,145,0,36,047,3090600
+"Census Tract 908, Kings County, New York",443,247,0,196,0,36,047,3090800
+"Census Tract 1, Kings County, New York",32,18,0,0,14,36,047,3000100
+"Census Tract 2, Kings County, New York",130,55,0,75,0,36,047,3000200
+"Census Tract 3.01, Kings County, New York",84,18,16,35,15,36,047,3000301
+"Census Tract 5.01, Kings County, New York",124,35,51,10,28,36,047,3000501
+"Census Tract 5.02, Kings County, New York",32,0,32,0,0,36,047,3000502
+"Census Tract 7, Kings County, New York",90,9,55,17,9,36,047,3000700
+"Census Tract 9, Kings County, New York",15,0,15,0,0,36,047,3000900
+"Census Tract 11, Kings County, New York",0,0,0,0,0,36,047,3001100
+"Census Tract 13, Kings County, New York",17,0,0,12,5,36,047,3001300
+"Census Tract 15, Kings County, New York",191,78,6,107,0,36,047,3001500
+"Census Tract 18, Kings County, New York",47,47,0,0,0,36,047,3001800
+"Census Tract 20, Kings County, New York",75,23,0,52,0,36,047,3002000
+"Census Tract 21, Kings County, New York",41,25,16,0,0,36,047,3002100
+"Census Tract 22, Kings County, New York",211,93,0,118,0,36,047,3002200
+"Census Tract 23, Kings County, New York",286,88,17,162,19,36,047,3002300
+"Census Tract 29.01, Kings County, New York",302,156,0,146,0,36,047,3002901
+"Census Tract 30, Kings County, New York",97,52,11,30,4,36,047,3003000
+"Census Tract 31, Kings County, New York",35,20,0,15,0,36,047,3003100
+"Census Tract 33, Kings County, New York",33,11,0,14,8,36,047,3003300
+"Census Tract 34, Kings County, New York",98,0,49,14,35,36,047,3003400
+"Census Tract 35, Kings County, New York",23,2,0,14,7,36,047,3003500
+"Census Tract 36, Kings County, New York",88,42,7,39,0,36,047,3003600
+"Census Tract 37, Kings County, New York",12,0,0,12,0,36,047,3003700
+"Census Tract 38, Kings County, New York",26,10,12,4,0,36,047,3003800
+"Census Tract 39, Kings County, New York",80,23,43,0,14,36,047,3003900
+"Census Tract 41, Kings County, New York",186,43,46,60,37,36,047,3004100
+"Census Tract 43, Kings County, New York",21,0,8,13,0,36,047,3004300
+"Census Tract 44, Kings County, New York",74,10,21,25,18,36,047,3004400
+"Census Tract 45, Kings County, New York",49,20,0,11,18,36,047,3004500
+"Census Tract 46, Kings County, New York",84,7,40,12,25,36,047,3004600
+"Census Tract 47, Kings County, New York",24,6,0,8,10,36,047,3004700
+"Census Tract 49, Kings County, New York",26,17,0,9,0,36,047,3004900
+"Census Tract 50, Kings County, New York",88,21,37,4,26,36,047,3005000
+"Census Tract 51, Kings County, New York",31,31,0,0,0,36,047,3005100
+"Census Tract 52.01, Kings County, New York",0,0,0,0,0,36,047,3005201
+"Census Tract 52.02, Kings County, New York",71,37,0,13,21,36,047,3005202
+"Census Tract 53, Kings County, New York",60,41,9,10,0,36,047,3005300
+"Census Tract 54, Kings County, New York",77,51,0,26,0,36,047,3005400
+"Census Tract 56.01, Kings County, New York",34,23,0,11,0,36,047,3005601
+"Census Tract 56.02, Kings County, New York",28,17,5,6,0,36,047,3005602
+"Census Tract 58, Kings County, New York",161,115,0,28,18,36,047,3005800
+"Census Tract 59, Kings County, New York",72,19,6,47,0,36,047,3005900
+"Census Tract 60, Kings County, New York",126,16,0,91,19,36,047,3006000
+"Census Tract 62, Kings County, New York",122,22,1,99,0,36,047,3006200
+"Census Tract 63, Kings County, New York",15,8,0,7,0,36,047,3006300
+"Census Tract 64, Kings County, New York",252,29,72,71,80,36,047,3006400
+"Census Tract 65, Kings County, New York",285,94,75,57,59,36,047,3006500
+"Census Tract 66, Kings County, New York",76,44,0,32,0,36,047,3006600
+"Census Tract 67, Kings County, New York",81,0,33,14,34,36,047,3006700
+"Census Tract 68, Kings County, New York",204,43,12,149,0,36,047,3006800
+"Census Tract 69, Kings County, New York",85,19,28,0,38,36,047,3006900
+"Census Tract 70, Kings County, New York",159,38,0,78,43,36,047,3007000
+"Census Tract 71, Kings County, New York",357,167,0,190,0,36,047,3007100
+"Census Tract 72, Kings County, New York",187,77,0,110,0,36,047,3007200
+"Census Tract 74, Kings County, New York",539,269,0,270,0,36,047,3007400
+"Census Tract 75, Kings County, New York",219,92,15,90,22,36,047,3007500
+"Census Tract 76, Kings County, New York",207,113,17,77,0,36,047,3007600
+"Census Tract 77, Kings County, New York",73,12,0,39,22,36,047,3007700
+"Census Tract 78, Kings County, New York",229,119,0,66,44,36,047,3007800
+"Census Tract 80, Kings County, New York",151,116,0,10,25,36,047,3008000
+"Census Tract 82, Kings County, New York",246,92,18,136,0,36,047,3008200
+"Census Tract 84, Kings County, New York",156,121,0,35,0,36,047,3008400
+"Census Tract 85, Kings County, New York",587,231,18,338,0,36,047,3008500
+"Census Tract 86, Kings County, New York",0,0,0,0,0,36,047,3008600
+"Census Tract 88, Kings County, New York",163,96,15,52,0,36,047,3008800
+"Census Tract 90, Kings County, New York",155,73,0,82,0,36,047,3009000
+"Census Tract 92, Kings County, New York",400,180,0,213,7,36,047,3009200
+"Census Tract 94, Kings County, New York",304,94,17,174,19,36,047,3009400
+"Census Tract 96, Kings County, New York",179,62,0,117,0,36,047,3009600
+"Census Tract 98, Kings County, New York",385,181,16,188,0,36,047,3009800
+"Census Tract 100, Kings County, New York",269,100,8,161,0,36,047,3010000
+"Census Tract 101, Kings County, New York",167,61,10,77,19,36,047,3010100
+"Census Tract 102, Kings County, New York",198,62,9,127,0,36,047,3010200
+"Census Tract 104, Kings County, New York",244,144,7,93,0,36,047,3010400
+"Census Tract 106, Kings County, New York",349,145,0,204,0,36,047,3010600
+"Census Tract 108, Kings County, New York",178,48,0,111,19,36,047,3010800
+"Census Tract 110, Kings County, New York",213,107,32,58,16,36,047,3011000
+"Census Tract 112, Kings County, New York",512,221,115,130,46,36,047,3011200
+"Census Tract 114, Kings County, New York",245,30,119,96,0,36,047,3011400
+"Census Tract 116, Kings County, New York",187,83,0,104,0,36,047,3011600
+"Census Tract 117, Kings County, New York",128,22,1,92,13,36,047,3011700
+"Census Tract 118, Kings County, New York",101,28,0,73,0,36,047,3011800
+"Census Tract 119, Kings County, New York",44,29,0,15,0,36,047,3011900
+"Census Tract 120, Kings County, New York",42,22,4,12,4,36,047,3012000
+"Census Tract 121, Kings County, New York",46,10,0,36,0,36,047,3012100
+"Census Tract 122, Kings County, New York",185,116,0,69,0,36,047,3012200
+"Census Tract 126, Kings County, New York",124,25,0,87,12,36,047,3012600
+"Census Tract 127, Kings County, New York",82,29,0,53,0,36,047,3012700
+"Census Tract 128.01, Kings County, New York",80,56,0,24,0,36,047,3012801
+"Census Tract 129.01, Kings County, New York",48,43,5,0,0,36,047,3012901
+"Census Tract 129.02, Kings County, New York",34,11,0,12,11,36,047,3012902
+"Census Tract 130, Kings County, New York",255,50,0,186,19,36,047,3013000
+"Census Tract 131, Kings County, New York",156,30,9,66,51,36,047,3013100
+"Census Tract 132, Kings County, New York",113,60,1,50,2,36,047,3013200
+"Census Tract 133, Kings County, New York",138,47,20,48,23,36,047,3013300
+"Census Tract 134, Kings County, New York",139,67,20,30,22,36,047,3013400
+"Census Tract 135, Kings County, New York",122,43,26,24,29,36,047,3013500
+"Census Tract 136, Kings County, New York",130,49,4,63,14,36,047,3013600
+"Census Tract 137, Kings County, New York",175,47,9,114,5,36,047,3013700
+"Census Tract 138, Kings County, New York",47,16,0,7,24,36,047,3013800
+"Census Tract 139, Kings County, New York",170,30,49,84,7,36,047,3013900
+"Census Tract 140, Kings County, New York",59,28,11,12,8,36,047,3014000
+"Census Tract 141, Kings County, New York",88,50,0,38,0,36,047,3014100
+"Census Tract 142, Kings County, New York",56,17,0,39,0,36,047,3014200
+"Census Tract 143, Kings County, New York",202,107,0,95,0,36,047,3014300
+"Census Tract 145, Kings County, New York",92,30,0,42,20,36,047,3014500
+"Census Tract 147, Kings County, New York",59,13,4,32,10,36,047,3014700
+"Census Tract 148, Kings County, New York",59,27,0,24,8,36,047,3014800
+"Census Tract 149, Kings County, New York",148,67,0,72,9,36,047,3014900
+"Census Tract 150, Kings County, New York",63,27,4,16,16,36,047,3015000
+"Census Tract 151, Kings County, New York",173,90,0,50,33,36,047,3015100
+"Census Tract 152, Kings County, New York",93,22,17,40,14,36,047,3015200
+"Census Tract 153, Kings County, New York",106,59,0,40,7,36,047,3015300
+"Census Tract 154, Kings County, New York",0,0,0,0,0,36,047,3015400
+"Census Tract 155, Kings County, New York",147,29,16,42,60,36,047,3015500
+"Census Tract 157, Kings County, New York",77,45,32,0,0,36,047,3015700
+"Census Tract 159, Kings County, New York",121,62,42,5,12,36,047,3015900
+"Census Tract 160, Kings County, New York",131,61,7,13,50,36,047,3016000
+"Census Tract 161, Kings County, New York",63,43,11,9,0,36,047,3016100
+"Census Tract 162, Kings County, New York",129,71,0,49,9,36,047,3016200
+"Census Tract 163, Kings County, New York",50,9,9,24,8,36,047,3016300
+"Census Tract 164, Kings County, New York",30,19,0,7,4,36,047,3016400
+"Census Tract 165, Kings County, New York",118,53,28,1,36,36,047,3016500
+"Census Tract 166, Kings County, New York",74,18,5,24,27,36,047,3016600
+"Census Tract 1028, Kings County, New York",81,25,12,33,11,36,047,3102800
+"Census Tract 1034, Kings County, New York",216,106,12,86,12,36,047,3103400
+"Census Tract 1058.01, Kings County, New York",156,38,8,110,0,36,047,3105801
+"Census Tract 1058.04, Kings County, New York",516,296,0,148,72,36,047,3105804
+"Census Tract 1070, Kings County, New York",31,11,0,20,0,36,047,3107000
+"Census Tract 1078, Kings County, New York",165,88,0,64,13,36,047,3107800
+"Census Tract 1098, Kings County, New York",114,36,18,60,0,36,047,3109800
+"Census Tract 1104, Kings County, New York",385,205,0,143,37,36,047,3110400
+"Census Tract 1106, Kings County, New York",360,135,0,206,19,36,047,3110600
+"Census Tract 1110, Kings County, New York",161,82,0,79,0,36,047,3111000
+"Census Tract 1116, Kings County, New York",402,180,0,194,28,36,047,3111600
+"Census Tract 1118, Kings County, New York",145,108,0,37,0,36,047,3111800
+"Census Tract 1120, Kings County, New York",227,159,0,68,0,36,047,3112000
+"Census Tract 1122, Kings County, New York",195,109,0,86,0,36,047,3112200
+"Census Tract 1124, Kings County, New York",232,81,0,151,0,36,047,3112400
+"Census Tract 1126, Kings County, New York",291,130,0,142,19,36,047,3112600
+"Census Tract 1128, Kings County, New York",149,27,0,105,17,36,047,3112800
+"Census Tract 1130, Kings County, New York",252,96,0,156,0,36,047,3113000
+"Census Tract 1132, Kings County, New York",109,58,4,47,0,36,047,3113200
+"Census Tract 1134, Kings County, New York",259,102,0,146,11,36,047,3113400
+"Census Tract 1142.01, Kings County, New York",97,49,0,44,4,36,047,3114201
+"Census Tract 1142.02, Kings County, New York",155,47,0,103,5,36,047,3114202
+"Census Tract 1144, Kings County, New York",109,38,0,71,0,36,047,3114400
+"Census Tract 1146, Kings County, New York",197,80,0,117,0,36,047,3114600
+"Census Tract 1150, Kings County, New York",222,144,13,65,0,36,047,3115000
+"Census Tract 1152, Kings County, New York",211,146,0,58,7,36,047,3115200
+"Census Tract 1156, Kings County, New York",375,169,0,206,0,36,047,3115600
+"Census Tract 1158, Kings County, New York",216,96,14,93,13,36,047,3115800
+"Census Tract 1160, Kings County, New York",124,39,0,85,0,36,047,3116000
+"Census Tract 1162, Kings County, New York",163,91,12,54,6,36,047,3116200
+"Census Tract 1164, Kings County, New York",119,49,3,67,0,36,047,3116400
+"Census Tract 1166, Kings County, New York",234,119,0,115,0,36,047,3116600
+"Census Tract 1168, Kings County, New York",90,47,6,28,9,36,047,3116800
+"Census Tract 1170, Kings County, New York",143,59,0,84,0,36,047,3117000
+"Census Tract 1172.01, Kings County, New York",78,43,0,29,6,36,047,3117201
+"Census Tract 1172.02, Kings County, New York",332,153,0,179,0,36,047,3117202
+"Census Tract 1174, Kings County, New York",204,77,0,125,2,36,047,3117400
+"Census Tract 1176.01, Kings County, New York",251,89,10,127,25,36,047,3117601
+"Census Tract 1176.02, Kings County, New York",238,47,0,191,0,36,047,3117602
+"Census Tract 1178, Kings County, New York",122,54,0,65,3,36,047,3117800
+"Census Tract 1180, Kings County, New York",0,0,0,0,0,36,047,3118000
+"Census Tract 1182.01, Kings County, New York",172,103,0,69,0,36,047,3118201
+"Census Tract 1182.02, Kings County, New York",239,117,0,122,0,36,047,3118202
+"Census Tract 1184, Kings County, New York",428,268,0,160,0,36,047,3118400
+"Census Tract 1186, Kings County, New York",110,46,0,64,0,36,047,3118600
+"Census Tract 1188, Kings County, New York",258,116,0,142,0,36,047,3118800
+"Census Tract 1190, Kings County, New York",217,78,15,124,0,36,047,3119000
+"Census Tract 1192, Kings County, New York",204,82,0,122,0,36,047,3119200
+"Census Tract 1194, Kings County, New York",256,109,9,128,10,36,047,3119400
+"Census Tract 1196, Kings County, New York",278,197,0,72,9,36,047,3119600
+"Census Tract 1198, Kings County, New York",236,135,0,74,27,36,047,3119800
+"Census Tract 1200, Kings County, New York",176,101,0,75,0,36,047,3120000
+"Census Tract 1202, Kings County, New York",130,73,0,57,0,36,047,3120200
+"Census Tract 1208, Kings County, New York",416,274,0,121,21,36,047,3120800
+"Census Tract 1210, Kings County, New York",428,211,0,190,27,36,047,3121000
+"Census Tract 1214, Kings County, New York",347,206,0,141,0,36,047,3121400
+"Census Tract 1220, Kings County, New York",139,81,16,42,0,36,047,3122000
+"Census Tract 1237, Kings County, New York",400,52,229,9,110,36,047,3123700
+"Census Tract 1502, Kings County, New York",98,19,53,26,0,36,047,3150200
+"Census Tract 1522, Kings County, New York",163,64,0,99,0,36,047,3152200
+"Census Tract 9901, Kings County, New York",0,0,0,0,0,36,047,3990100
+"Census Tract 520, Queens County, New York",94,79,0,15,0,36,081,4052000
+"Census Tract 521, Queens County, New York",120,26,25,33,36,36,081,4052100
+"Census Tract 522, Queens County, New York",60,20,5,25,10,36,081,4052200
+"Census Tract 524, Queens County, New York",53,28,11,10,4,36,081,4052400
+"Census Tract 525, Queens County, New York",120,61,8,45,6,36,081,4052500
+"Census Tract 526, Queens County, New York",66,36,9,21,0,36,081,4052600
+"Census Tract 528, Queens County, New York",34,16,0,18,0,36,081,4052800
+"Census Tract 530, Queens County, New York",178,86,7,76,9,36,081,4053000
+"Census Tract 531, Queens County, New York",115,67,0,31,17,36,081,4053100
+"Census Tract 532, Queens County, New York",68,48,0,6,14,36,081,4053200
+"Census Tract 534.01, Queens County, New York",122,26,15,64,17,36,081,4053401
+"Census Tract 535, Queens County, New York",109,37,0,59,13,36,081,4053500
+"Census Tract 536.01, Queens County, New York",132,77,0,55,0,36,081,4053601
+"Census Tract 538, Queens County, New York",130,60,0,70,0,36,081,4053800
+"Census Tract 539, Queens County, New York",200,79,17,90,14,36,081,4053900
+"Census Tract 540, Queens County, New York",216,169,0,47,0,36,081,4054000
+"Census Tract 542, Queens County, New York",248,110,0,129,9,36,081,4054200
+"Census Tract 545, Queens County, New York",134,43,0,91,0,36,081,4054500
+"Census Tract 547, Queens County, New York",215,100,0,115,0,36,081,4054700
+"Census Tract 548, Queens County, New York",92,46,5,41,0,36,081,4054800
+"Census Tract 549, Queens County, New York",292,202,0,90,0,36,081,4054900
+"Census Tract 551, Queens County, New York",165,92,0,73,0,36,081,4055100
+"Census Tract 552, Queens County, New York",169,75,19,75,0,36,081,4055200
+"Census Tract 553, Queens County, New York",159,108,0,46,5,36,081,4055300
+"Census Tract 554, Queens County, New York",90,49,4,23,14,36,081,4055400
+"Census Tract 555, Queens County, New York",166,71,0,95,0,36,081,4055500
+"Census Tract 556, Queens County, New York",87,52,7,23,5,36,081,4055600
+"Census Tract 557, Queens County, New York",153,96,0,57,0,36,081,4055700
+"Census Tract 558, Queens County, New York",97,69,17,11,0,36,081,4055800
+"Census Tract 559, Queens County, New York",50,24,0,26,0,36,081,4055900
+"Census Tract 560, Queens County, New York",109,58,17,29,5,36,081,4056000
+"Census Tract 561, Queens County, New York",0,0,0,0,0,36,081,4056100
+"Census Tract 562, Queens County, New York",71,29,12,11,19,36,081,4056200
+"Census Tract 564, Queens County, New York",97,38,0,59,0,36,081,4056400
+"Census Tract 565, Queens County, New York",97,61,0,36,0,36,081,4056500
+"Census Tract 566, Queens County, New York",42,24,0,16,2,36,081,4056600
+"Census Tract 567, Queens County, New York",185,115,0,58,12,36,081,4056700
+"Census Tract 568, Queens County, New York",127,38,0,89,0,36,081,4056800
+"Census Tract 577, Queens County, New York",244,137,0,107,0,36,081,4057700
+"Census Tract 579, Queens County, New York",72,32,5,29,6,36,081,4057900
+"Census Tract 580, Queens County, New York",169,71,0,88,10,36,081,4058000
+"Census Tract 581, Queens County, New York",114,46,0,68,0,36,081,4058100
+"Census Tract 582, Queens County, New York",367,199,40,90,38,36,081,4058200
+"Census Tract 583, Queens County, New York",132,53,20,59,0,36,081,4058300
+"Census Tract 585, Queens County, New York",182,131,9,42,0,36,081,4058500
+"Census Tract 587, Queens County, New York",153,67,7,79,0,36,081,4058700
+"Census Tract 589, Queens County, New York",268,181,0,87,0,36,081,4058900
+"Census Tract 590, Queens County, New York",77,33,0,37,7,36,081,4059000
+"Census Tract 591, Queens County, New York",342,158,16,113,55,36,081,4059100
+"Census Tract 592, Queens County, New York",55,5,10,32,8,36,081,4059200
+"Census Tract 593, Queens County, New York",169,65,32,63,9,36,081,4059300
+"Census Tract 594, Queens County, New York",74,17,12,45,0,36,081,4059400
+"Census Tract 595, Queens County, New York",243,97,0,115,31,36,081,4059500
+"Census Tract 596, Queens County, New York",64,39,0,20,5,36,081,4059600
+"Census Tract 598, Queens County, New York",75,17,28,24,6,36,081,4059800
+"Census Tract 599, Queens County, New York",79,17,16,40,6,36,081,4059900
+"Census Tract 600, Queens County, New York",61,44,0,11,6,36,081,4060000
+"Census Tract 601, Queens County, New York",182,101,0,70,11,36,081,4060100
+"Census Tract 603, Queens County, New York",60,6,0,54,0,36,081,4060300
+"Census Tract 606, Queens County, New York",63,14,7,24,18,36,081,4060600
+"Census Tract 607.01, Queens County, New York",0,0,0,0,0,36,081,4060701
+"Census Tract 608, Queens County, New York",176,60,84,27,5,36,081,4060800
+"Census Tract 610, Queens County, New York",58,18,6,34,0,36,081,4061000
+"Census Tract 612, Queens County, New York",124,31,20,53,20,36,081,4061200
+"Census Tract 613.01, Queens County, New York",338,176,24,127,11,36,081,4061301
+"Census Tract 613.02, Queens County, New York",0,0,0,0,0,36,081,4061302
+"Census Tract 614, Queens County, New York",62,23,4,35,0,36,081,4061400
+"Census Tract 616.01, Queens County, New York",106,23,10,68,5,36,081,4061601
+"Census Tract 616.02, Queens County, New York",81,25,35,21,0,36,081,4061602
+"Census Tract 618, Queens County, New York",94,31,0,53,10,36,081,4061800
+"Census Tract 619, Queens County, New York",69,40,0,22,7,36,081,4061900
+"Census Tract 620, Queens County, New York",49,23,20,0,6,36,081,4062000
+"Census Tract 621, Queens County, New York",108,26,20,60,2,36,081,4062100
+"Census Tract 622, Queens County, New York",83,17,6,44,16,36,081,4062200
+"Census Tract 623, Queens County, New York",85,51,0,28,6,36,081,4062300
+"Census Tract 624, Queens County, New York",0,0,0,0,0,36,081,4062400
+"Census Tract 625, Queens County, New York",125,69,5,37,14,36,081,4062500
+"Census Tract 626, Queens County, New York",199,121,9,69,0,36,081,4062600
+"Census Tract 627, Queens County, New York",246,141,0,105,0,36,081,4062700
+"Census Tract 629, Queens County, New York",106,45,9,52,0,36,081,4062900
+"Census Tract 630, Queens County, New York",78,57,8,6,7,36,081,4063000
+"Census Tract 632, Queens County, New York",152,95,10,42,5,36,081,4063200
+"Census Tract 633.01, Queens County, New York",61,27,4,19,11,36,081,4063301
+"Census Tract 633.02, Queens County, New York",64,12,10,36,6,36,081,4063302
+"Census Tract 635, Queens County, New York",119,41,28,26,24,36,081,4063500
+"Census Tract 637, Queens County, New York",144,75,18,13,38,36,081,4063700
+"Census Tract 638, Queens County, New York",228,117,0,100,11,36,081,4063800
+"Census Tract 639, Queens County, New York",114,59,0,34,21,36,081,4063900
+"Census Tract 641.01, Queens County, New York",78,37,0,35,6,36,081,4064101
+"Census Tract 641.02, Queens County, New York",0,0,0,0,0,36,081,4064102
+"Census Tract 645, Queens County, New York",66,19,11,16,20,36,081,4064500
+"Census Tract 646, Queens County, New York",110,27,3,80,0,36,081,4064600
+"Census Tract 650, Queens County, New York",182,81,10,91,0,36,081,4065000
+"Census Tract 654, Queens County, New York",190,92,6,92,0,36,081,4065400
+"Census Tract 655.01, Queens County, New York",0,0,0,0,0,36,081,4065501
+"Census Tract 656, Queens County, New York",341,140,0,155,46,36,081,4065600
+"Census Tract 657.02, Queens County, New York",53,0,4,39,10,36,081,4065702
+"Census Tract 657.03, Queens County, New York",100,36,43,0,21,36,081,4065703
+"Census Tract 659, Queens County, New York",53,10,23,13,7,36,081,4065900
+"Census Tract 660, Queens County, New York",236,110,19,107,0,36,081,4066000
+"Census Tract 661, Queens County, New York",34,5,13,10,6,36,081,4066100
+"Census Tract 663, Queens County, New York",145,42,17,47,39,36,081,4066300
+"Census Tract 664, Queens County, New York",744,320,16,352,56,36,081,4066400
+"Census Tract 665.01, Queens County, New York",163,19,72,35,37,36,081,4066501
+"Census Tract 667.01, Queens County, New York",117,7,27,66,17,36,081,4066701
+"Census Tract 669, Queens County, New York",40,0,6,0,34,36,081,4066900
+"Census Tract 671, Queens County, New York",61,12,17,17,15,36,081,4067100
+"Census Tract 677, Queens County, New York",73,4,9,26,34,36,081,4067700
+"Census Tract 679, Queens County, New York",133,22,10,101,0,36,081,4067900
+"Census Tract 680, Queens County, New York",193,45,0,127,21,36,081,4068000
+"Census Tract 682, Queens County, New York",78,40,0,38,0,36,081,4068200
+"Census Tract 683, Queens County, New York",184,89,0,95,0,36,081,4068300
+"Census Tract 687, Queens County, New York",78,50,0,28,0,36,081,4068700
+"Census Tract 690, Queens County, New York",248,109,0,97,42,36,081,4069000
+"Census Tract 693, Queens County, New York",179,64,0,105,10,36,081,4069300
+"Census Tract 694, Queens County, New York",313,193,0,120,0,36,081,4069400
+"Census Tract 695, Queens County, New York",61,5,4,40,12,36,081,4069500
+"Census Tract 697.01, Queens County, New York",203,124,8,71,0,36,081,4069701
+"Census Tract 697.02, Queens County, New York",118,73,0,30,15,36,081,4069702
+"Census Tract 703, Queens County, New York",123,25,12,48,38,36,081,4070300
+"Census Tract 707, Queens County, New York",110,62,5,33,10,36,081,4070700
+"Census Tract 709, Queens County, New York",110,28,33,19,30,36,081,4070900
+"Census Tract 711, Queens County, New York",80,0,0,63,17,36,081,4071100
+"Census Tract 713.03, Queens County, New York",53,14,0,39,0,36,081,4071303
+"Census Tract 713.04, Queens County, New York",105,42,0,41,22,36,081,4071304
+"Census Tract 713.05, Queens County, New York",148,66,39,43,0,36,081,4071305
+"Census Tract 713.06, Queens County, New York",134,26,19,89,0,36,081,4071306
+"Census Tract 716, Queens County, New York",0,0,0,0,0,36,081,4071600
+"Census Tract 717.01, Queens County, New York",115,47,0,68,0,36,081,4071701
+"Census Tract 717.02, Queens County, New York",58,34,6,0,18,36,081,4071702
+"Census Tract 719, Queens County, New York",65,38,0,27,0,36,081,4071900
+"Census Tract 721, Queens County, New York",109,59,0,50,0,36,081,4072100
+"Census Tract 723, Queens County, New York",148,24,43,48,33,36,081,4072300
+"Census Tract 729, Queens County, New York",57,25,5,11,16,36,081,4072900
+"Census Tract 731, Queens County, New York",42,13,0,23,6,36,081,4073100
+"Census Tract 737, Queens County, New York",7,0,7,0,0,36,081,4073700
+"Census Tract 739, Queens County, New York",138,64,0,53,21,36,081,4073900
+"Census Tract 741, Queens County, New York",34,0,0,34,0,36,081,4074100
+"Census Tract 743, Queens County, New York",245,52,45,80,68,36,081,4074300
+"Census Tract 745, Queens County, New York",137,59,42,28,8,36,081,4074500
+"Census Tract 747, Queens County, New York",140,25,56,48,11,36,081,4074700
+"Census Tract 749, Queens County, New York",97,42,19,11,25,36,081,4074900
+"Census Tract 757.01, Queens County, New York",31,0,0,31,0,36,081,4075701
+"Census Tract 757.02, Queens County, New York",81,65,0,16,0,36,081,4075702
+"Census Tract 769.01, Queens County, New York",42,0,0,12,30,36,081,4076901
+"Census Tract 769.02, Queens County, New York",32,17,0,15,0,36,081,4076902
+"Census Tract 773, Queens County, New York",22,9,0,0,13,36,081,4077300
+"Census Tract 775, Queens County, New York",60,12,16,18,14,36,081,4077500
+"Census Tract 779.02, Queens County, New York",297,48,63,75,111,36,081,4077902
+"Census Tract 779.03, Queens County, New York",112,29,43,30,10,36,081,4077903
+"Census Tract 779.04, Queens County, New York",170,48,50,58,14,36,081,4077904
+"Census Tract 779.05, Queens County, New York",36,25,11,0,0,36,081,4077905
+"Census Tract 779.06, Queens County, New York",207,105,20,69,13,36,081,4077906
+"Census Tract 779.07, Queens County, New York",125,10,18,26,71,36,081,4077907
+"Census Tract 779.08, Queens County, New York",224,142,41,41,0,36,081,4077908
+"Census Tract 788, Queens County, New York",152,110,7,12,23,36,081,4078800
+"Census Tract 790, Queens County, New York",157,78,17,56,6,36,081,4079000
+"Census Tract 792, Queens County, New York",169,110,19,40,0,36,081,4079200
+"Census Tract 793, Queens County, New York",0,0,0,0,0,36,081,4079300
+"Census Tract 797.01, Queens County, New York",201,85,0,116,0,36,081,4079701
+"Census Tract 797.02, Queens County, New York",197,94,0,95,8,36,081,4079702
+"Census Tract 799, Queens County, New York",234,132,0,93,9,36,081,4079900
+"Census Tract 803.01, Queens County, New York",293,135,45,74,39,36,081,4080301
+"Census Tract 803.02, Queens County, New York",111,47,10,52,2,36,081,4080302
+"Census Tract 809, Queens County, New York",243,71,16,156,0,36,081,4080900
+"Census Tract 814, Queens County, New York",215,107,0,108,0,36,081,4081400
+"Census Tract 818, Queens County, New York",209,139,0,70,0,36,081,4081800
+"Census Tract 837, Queens County, New York",313,235,0,78,0,36,081,4083700
+"Census Tract 838, Queens County, New York",324,171,28,114,11,36,081,4083800
+"Census Tract 840, Queens County, New York",335,120,10,195,10,36,081,4084000
+"Census Tract 845, Queens County, New York",67,53,0,14,0,36,081,4084500
+"Census Tract 846.01, Queens County, New York",110,67,0,36,7,36,081,4084601
+"Census Tract 846.02, Queens County, New York",32,15,0,17,0,36,081,4084602
+"Census Tract 849, Queens County, New York",440,192,0,248,0,36,081,4084900
+"Census Tract 853, Queens County, New York",179,132,0,47,0,36,081,4085300
+"Census Tract 855, Queens County, New York",329,123,0,206,0,36,081,4085500
+"Census Tract 857, Queens County, New York",295,172,10,102,11,36,081,4085700
+"Census Tract 859, Queens County, New York",112,46,0,66,0,36,081,4085900
+"Census Tract 861, Queens County, New York",78,43,0,31,4,36,081,4086100
+"Census Tract 863, Queens County, New York",165,125,0,27,13,36,081,4086300
+"Census Tract 864, Queens County, New York",140,56,10,67,7,36,081,4086400
+"Census Tract 865, Queens County, New York",58,51,0,7,0,36,081,4086500
+"Census Tract 869, Queens County, New York",53,23,9,21,0,36,081,4086900
+"Census Tract 871, Queens County, New York",104,35,19,43,7,36,081,4087100
+"Census Tract 884, Queens County, New York",278,162,17,80,19,36,081,4088400
+"Census Tract 889.01, Queens County, New York",322,160,0,162,0,36,081,4088901
+"Census Tract 892, Queens County, New York",356,145,89,104,18,36,081,4089200
+"Census Tract 907, Queens County, New York",84,36,4,44,0,36,081,4090700
+"Census Tract 916.01, Queens County, New York",238,47,79,44,68,36,081,4091601
+"Census Tract 916.02, Queens County, New York",0,0,0,0,0,36,081,4091602
+"Census Tract 918, Queens County, New York",0,0,0,0,0,36,081,4091800
+"Census Tract 919, Queens County, New York",243,137,0,83,23,36,081,4091900
+"Census Tract 922, Queens County, New York",115,26,30,30,29,36,081,4092200
+"Census Tract 925, Queens County, New York",134,23,21,80,10,36,081,4092500
+"Census Tract 928, Queens County, New York",314,58,165,32,59,36,081,4092800
+"Census Tract 929, Queens County, New York",466,217,0,249,0,36,081,4092900
+"Census Tract 934.01, Queens County, New York",141,30,53,0,58,36,081,4093401
+"Census Tract 934.02, Queens County, New York",192,0,53,24,115,36,081,4093402
+"Census Tract 938, Queens County, New York",301,122,52,105,22,36,081,4093800
+"Census Tract 939, Queens County, New York",253,47,52,119,35,36,081,4093900
+"Census Tract 942.01, Queens County, New York",161,107,0,40,14,36,081,4094201
+"Census Tract 942.02, Queens County, New York",343,207,0,123,13,36,081,4094202
+"Census Tract 942.03, Queens County, New York",78,31,0,47,0,36,081,4094203
+"Census Tract 945, Queens County, New York",161,71,29,9,52,36,081,4094500
+"Census Tract 947, Queens County, New York",169,86,10,54,19,36,081,4094700
+"Census Tract 954, Queens County, New York",430,262,15,153,0,36,081,4095400
+"Census Tract 964, Queens County, New York",357,173,28,156,0,36,081,4096400
+"Census Tract 972.02, Queens County, New York",167,69,0,92,6,36,081,4097202
+"Census Tract 972.03, Queens County, New York",699,450,23,226,0,36,081,4097203
+"Census Tract 972.04, Queens County, New York",156,60,9,87,0,36,081,4097204
+"Census Tract 973, Queens County, New York",21,6,0,9,6,36,081,4097300
+"Census Tract 981, Queens County, New York",155,28,15,54,58,36,081,4098100
+"Census Tract 987, Queens County, New York",115,37,6,43,29,36,081,4098700
+"Census Tract 991, Queens County, New York",174,28,18,64,64,36,081,4099100
+"Census Tract 992, Queens County, New York",341,172,0,169,0,36,081,4099200
+"Census Tract 997.01, Queens County, New York",149,50,13,24,62,36,081,4099701
+"Census Tract 997.03, Queens County, New York",76,34,0,42,0,36,081,4099703
+"Census Tract 997.04, Queens County, New York",252,100,28,94,30,36,081,4099704
+"Census Tract 997.05, Queens County, New York",69,24,0,45,0,36,081,4099705
+"Census Tract 998.01, Queens County, New York",475,162,0,313,0,36,081,4099801
+"Census Tract 998.02, Queens County, New York",54,46,0,8,0,36,081,4099802
+"Census Tract 999, Queens County, New York",0,0,0,0,0,36,081,4099900
+"Census Tract 1008.01, Queens County, New York",135,41,42,35,17,36,081,4100801
+"Census Tract 1008.02, Queens County, New York",807,298,92,254,163,36,081,4100802
+"Census Tract 1010.01, Queens County, New York",478,186,27,211,54,36,081,4101001
+"Census Tract 1010.02, Queens County, New York",179,9,113,8,49,36,081,4101002
+"Census Tract 1017, Queens County, New York",277,62,120,95,0,36,081,4101700
+"Census Tract 1029, Queens County, New York",172,47,17,33,75,36,081,4102900
+"Census Tract 1032.01, Queens County, New York",470,289,55,97,29,36,081,4103201
+"Census Tract 1032.02, Queens County, New York",373,78,83,168,44,36,081,4103202
+"Census Tract 1033, Queens County, New York",112,17,28,29,38,36,081,4103300
+"Census Tract 1039, Queens County, New York",390,250,96,44,0,36,081,4103900
+"Census Tract 1047, Queens County, New York",386,179,56,151,0,36,081,4104700
+"Census Tract 1059, Queens County, New York",128,26,69,24,9,36,081,4105900
+"Census Tract 1072.01, Queens County, New York",108,45,39,14,10,36,081,4107201
+"Census Tract 1072.02, Queens County, New York",0,0,0,0,0,36,081,4107202
+"Census Tract 1085, Queens County, New York",114,47,24,6,37,36,081,4108500
+"Census Tract 1093, Queens County, New York",138,56,14,37,31,36,081,4109300
+"Census Tract 1097, Queens County, New York",152,96,8,29,19,36,081,4109700
+"Census Tract 1099, Queens County, New York",214,63,26,115,10,36,081,4109900
+"Census Tract 1113, Queens County, New York",114,63,0,51,0,36,081,4111300
+"Census Tract 1123, Queens County, New York",52,20,0,32,0,36,081,4112300
+"Census Tract 1129, Queens County, New York",58,14,13,26,5,36,081,4112900
+"Census Tract 1133, Queens County, New York",94,22,11,38,23,36,081,4113300
+"Census Tract 1139, Queens County, New York",77,56,0,12,9,36,081,4113900
+"Census Tract 1141, Queens County, New York",65,8,21,13,23,36,081,4114100
+"Census Tract 1147, Queens County, New York",75,4,17,41,13,36,081,4114700
+"Census Tract 1151, Queens County, New York",40,5,17,8,10,36,081,4115100
+"Census Tract 1155, Queens County, New York",113,52,0,61,0,36,081,4115500
+"Census Tract 1157, Queens County, New York",101,63,0,38,0,36,081,4115700
+"Census Tract 1159, Queens County, New York",144,67,0,77,0,36,081,4115900
+"Census Tract 1161, Queens County, New York",158,98,0,60,0,36,081,4116100
+"Census Tract 1163, Queens County, New York",186,79,0,107,0,36,081,4116300
+"Census Tract 1167, Queens County, New York",87,51,0,36,0,36,081,4116700
+"Census Tract 1171, Queens County, New York",74,38,0,31,5,36,081,4117100
+"Census Tract 1175, Queens County, New York",177,90,26,30,31,36,081,4117500
+"Census Tract 1181, Queens County, New York",63,17,21,25,0,36,081,4118100
+"Census Tract 1185, Queens County, New York",93,38,0,55,0,36,081,4118500
+"Census Tract 1187, Queens County, New York",58,24,6,28,0,36,081,4118700
+"Census Tract 1189, Queens County, New York",102,52,16,34,0,36,081,4118900
+"Census Tract 1191, Queens County, New York",87,31,0,56,0,36,081,4119100
+"Census Tract 1193, Queens County, New York",112,42,0,55,15,36,081,4119300
+"Census Tract 1195, Queens County, New York",45,12,4,25,4,36,081,4119500
+"Census Tract 1199, Queens County, New York",0,0,0,0,0,36,081,4119900
+"Census Tract 1201, Queens County, New York",107,40,0,67,0,36,081,4120100
+"Census Tract 1203, Queens County, New York",75,33,0,37,5,36,081,4120300
+"Census Tract 1205, Queens County, New York",64,26,0,38,0,36,081,4120500
+"Census Tract 1207, Queens County, New York",165,128,0,27,10,36,081,4120700
+"Census Tract 1211, Queens County, New York",0,0,0,0,0,36,081,4121100
+"Census Tract 1215, Queens County, New York",153,78,0,75,0,36,081,4121500
+"Census Tract 1223, Queens County, New York",190,67,27,96,0,36,081,4122300
+"Census Tract 1227.01, Queens County, New York",224,61,27,96,40,36,081,4122701
+"Census Tract 1227.02, Queens County, New York",427,146,12,255,14,36,081,4122702
+"Census Tract 1241, Queens County, New York",119,68,15,27,9,36,081,4124100
+"Census Tract 1247, Queens County, New York",230,86,49,64,31,36,081,4124700
+"Census Tract 1257, Queens County, New York",139,68,0,53,18,36,081,4125700
+"Census Tract 1265, Queens County, New York",61,12,12,37,0,36,081,4126500
+"Census Tract 1267, Queens County, New York",156,95,24,37,0,36,081,4126700
+"Census Tract 1277, Queens County, New York",275,75,145,25,30,36,081,4127700
+"Census Tract 1283, Queens County, New York",0,0,0,0,0,36,081,4128300
+"Census Tract 1291.02, Queens County, New York",123,35,29,49,10,36,081,4129102
+"Census Tract 1291.03, Queens County, New York",133,30,11,67,25,36,081,4129103
+"Census Tract 1291.04, Queens County, New York",91,27,17,37,10,36,081,4129104
+"Census Tract 1301, Queens County, New York",181,93,8,80,0,36,081,4130100
+"Census Tract 1333, Queens County, New York",156,95,10,51,0,36,081,4133300
+"Census Tract 1339, Queens County, New York",29,0,0,5,24,36,081,4133900
+"Census Tract 1341, Queens County, New York",185,81,0,84,20,36,081,4134100
+"Census Tract 1347, Queens County, New York",364,225,15,89,35,36,081,4134700
+"Census Tract 1367, Queens County, New York",271,79,0,96,96,36,081,4136700
+"Census Tract 1377, Queens County, New York",254,149,0,105,0,36,081,4137700
+"Census Tract 1385.01, Queens County, New York",376,182,0,194,0,36,081,4138501
+"Census Tract 1385.02, Queens County, New York",0,0,0,0,0,36,081,4138502
+"Census Tract 1399, Queens County, New York",146,62,18,62,4,36,081,4139900
+"Census Tract 1403, Queens County, New York",108,57,0,51,0,36,081,4140300
+"Census Tract 1409.01, Queens County, New York",32,8,0,10,14,36,081,4140901
+"Census Tract 1409.02, Queens County, New York",132,65,0,67,0,36,081,4140902
+"Census Tract 1417, Queens County, New York",147,78,16,26,27,36,081,4141700
+"Census Tract 1429, Queens County, New York",107,57,23,27,0,36,081,4142900
+"Census Tract 1435, Queens County, New York",95,43,14,32,6,36,081,4143500
+"Census Tract 1441, Queens County, New York",122,60,12,35,15,36,081,4144100
+"Census Tract 1447, Queens County, New York",97,51,0,46,0,36,081,4144700
+"Census Tract 1451.01, Queens County, New York",51,0,17,27,7,36,081,4145101
+"Census Tract 1451.02, Queens County, New York",119,31,12,74,2,36,081,4145102
+"Census Tract 1459, Queens County, New York",177,51,20,58,48,36,081,4145900
+"Census Tract 1463, Queens County, New York",150,93,0,57,0,36,081,4146300
+"Census Tract 1467, Queens County, New York",182,88,2,66,26,36,081,4146700
+"Census Tract 1471, Queens County, New York",175,106,0,69,0,36,081,4147100
+"Census Tract 1479, Queens County, New York",207,140,7,52,8,36,081,4147900
+"Census Tract 1483, Queens County, New York",205,51,27,99,28,36,081,4148300
+"Census Tract 1507.01, Queens County, New York",127,36,16,66,9,36,081,4150701
+"Census Tract 1507.02, Queens County, New York",177,45,15,66,51,36,081,4150702
+"Census Tract 1529.01, Queens County, New York",247,144,0,76,27,36,081,4152901
+"Census Tract 1529.02, Queens County, New York",177,75,0,102,0,36,081,4152902
+"Census Tract 1551.01, Queens County, New York",53,0,0,0,53,36,081,4155101
+"Census Tract 1551.02, Queens County, New York",155,143,0,12,0,36,081,4155102
+"Census Tract 1567, Queens County, New York",75,41,10,24,0,36,081,4156700
+"Census Tract 1571.01, Queens County, New York",359,133,14,197,15,36,081,4157101
+"Census Tract 1571.02, Queens County, New York",120,53,0,62,5,36,081,4157102
+"Census Tract 1579.01, Queens County, New York",160,45,21,82,12,36,081,4157901
+"Census Tract 1579.02, Queens County, New York",158,19,29,99,11,36,081,4157902
+"Census Tract 1579.03, Queens County, New York",171,45,32,62,32,36,081,4157903
+"Census Tract 1617, Queens County, New York",131,39,20,47,25,36,081,4161700
+"Census Tract 1621, Queens County, New York",372,275,8,89,0,36,081,4162100
+"Census Tract 9901, Queens County, New York",0,0,0,0,0,36,081,4990100
+"Census Tract 1, Queens County, New York",12,0,0,12,0,36,081,4000100
+"Census Tract 2, Queens County, New York",192,117,0,64,11,36,081,4000200
+"Census Tract 4, Queens County, New York",196,135,0,61,0,36,081,4000400
+"Census Tract 6, Queens County, New York",209,73,3,124,9,36,081,4000600
+"Census Tract 7, Queens County, New York",73,21,0,52,0,36,081,4000700
+"Census Tract 8, Queens County, New York",137,61,12,64,0,36,081,4000800
+"Census Tract 10, Queens County, New York",231,154,5,58,14,36,081,4001000
+"Census Tract 12, Queens County, New York",217,103,10,84,20,36,081,4001200
+"Census Tract 14, Queens County, New York",114,61,5,34,14,36,081,4001400
+"Census Tract 16, Queens County, New York",113,68,3,42,0,36,081,4001600
+"Census Tract 18, Queens County, New York",253,139,0,114,0,36,081,4001800
+"Census Tract 19, Queens County, New York",3,3,0,0,0,36,081,4001900
+"Census Tract 20, Queens County, New York",115,39,0,76,0,36,081,4002000
+"Census Tract 22, Queens County, New York",169,61,18,87,3,36,081,4002200
+"Census Tract 24, Queens County, New York",108,58,0,50,0,36,081,4002400
+"Census Tract 25, Queens County, New York",342,206,0,136,0,36,081,4002500
+"Census Tract 26, Queens County, New York",238,82,0,156,0,36,081,4002600
+"Census Tract 28, Queens County, New York",231,65,0,152,14,36,081,4002800
+"Census Tract 30, Queens County, New York",74,42,13,19,0,36,081,4003000
+"Census Tract 31, Queens County, New York",61,35,0,26,0,36,081,4003100
+"Census Tract 32, Queens County, New York",98,42,7,49,0,36,081,4003200
+"Census Tract 33, Queens County, New York",64,31,0,33,0,36,081,4003300
+"Census Tract 34, Queens County, New York",240,123,14,103,0,36,081,4003400
+"Census Tract 36, Queens County, New York",200,96,0,104,0,36,081,4003600
+"Census Tract 37, Queens County, New York",0,0,0,0,0,36,081,4003700
+"Census Tract 38, Queens County, New York",162,75,3,76,8,36,081,4003800
+"Census Tract 39, Queens County, New York",124,55,16,53,0,36,081,4003900
+"Census Tract 40.01, Queens County, New York",143,79,0,58,6,36,081,4004001
+"Census Tract 40.02, Queens County, New York",106,26,0,80,0,36,081,4004002
+"Census Tract 42, Queens County, New York",405,174,0,231,0,36,081,4004200
+"Census Tract 43, Queens County, New York",129,84,0,45,0,36,081,4004300
+"Census Tract 44.01, Queens County, New York",224,114,5,105,0,36,081,4004401
+"Census Tract 45, Queens County, New York",116,45,0,71,0,36,081,4004500
+"Census Tract 47, Queens County, New York",107,81,14,5,7,36,081,4004700
+"Census Tract 50, Queens County, New York",0,0,0,0,0,36,081,4005000
+"Census Tract 51, Queens County, New York",83,34,0,49,0,36,081,4005100
+"Census Tract 52, Queens County, New York",116,64,0,52,0,36,081,4005200
+"Census Tract 53, Queens County, New York",28,13,0,15,0,36,081,4005300
+"Census Tract 54, Queens County, New York",379,111,0,255,13,36,081,4005400
+"Census Tract 55, Queens County, New York",25,17,0,8,0,36,081,4005500
+"Census Tract 57, Queens County, New York",70,56,0,0,14,36,081,4005700
+"Census Tract 58, Queens County, New York",276,138,0,122,16,36,081,4005800
+"Census Tract 59, Queens County, New York",136,79,0,50,7,36,081,4005900
+"Census Tract 61, Queens County, New York",28,13,0,15,0,36,081,4006100
+"Census Tract 62.01, Queens County, New York",127,84,25,18,0,36,081,4006201
+"Census Tract 62.02, Queens County, New York",402,155,0,231,16,36,081,4006202
+"Census Tract 63, Queens County, New York",104,68,0,36,0,36,081,4006300
+"Census Tract 65.01, Queens County, New York",85,38,0,39,8,36,081,4006501
+"Census Tract 65.02, Queens County, New York",237,88,0,139,10,36,081,4006502
+"Census Tract 69, Queens County, New York",56,16,8,32,0,36,081,4006900
+"Census Tract 71, Queens County, New York",49,23,4,22,0,36,081,4007100
+"Census Tract 73, Queens County, New York",56,42,0,0,14,36,081,4007300
+"Census Tract 75, Queens County, New York",199,12,124,47,16,36,081,4007500
+"Census Tract 77, Queens County, New York",64,34,0,25,5,36,081,4007700
+"Census Tract 79, Queens County, New York",221,87,0,110,24,36,081,4007900
+"Census Tract 81, Queens County, New York",60,11,1,48,0,36,081,4008100
+"Census Tract 83, Queens County, New York",119,52,0,67,0,36,081,4008300
+"Census Tract 85, Queens County, New York",89,44,0,39,6,36,081,4008500
+"Census Tract 86, Queens County, New York",202,98,13,80,11,36,081,4008600
+"Census Tract 87, Queens County, New York",483,195,30,244,14,36,081,4008700
+"Census Tract 88, Queens County, New York",114,75,0,39,0,36,081,4008800
+"Census Tract 91, Queens County, New York",112,53,21,38,0,36,081,4009100
+"Census Tract 94, Queens County, New York",198,96,0,83,19,36,081,4009400
+"Census Tract 95, Queens County, New York",84,10,12,30,32,36,081,4009500
+"Census Tract 96, Queens County, New York",353,128,8,217,0,36,081,4009600
+"Census Tract 97, Queens County, New York",52,43,0,9,0,36,081,4009700
+"Census Tract 98, Queens County, New York",170,71,0,99,0,36,081,4009800
+"Census Tract 99, Queens County, New York",0,0,0,0,0,36,081,4009900
+"Census Tract 100, Queens County, New York",272,122,28,122,0,36,081,4010000
+"Census Tract 101, Queens County, New York",140,81,22,16,21,36,081,4010100
+"Census Tract 102, Queens County, New York",199,93,10,89,7,36,081,4010200
+"Census Tract 103, Queens County, New York",150,32,8,98,12,36,081,4010300
+"Census Tract 104, Queens County, New York",138,65,17,56,0,36,081,4010400
+"Census Tract 105, Queens County, New York",166,50,30,86,0,36,081,4010500
+"Census Tract 106, Queens County, New York",183,49,14,103,17,36,081,4010600
+"Census Tract 107.01, Queens County, New York",0,0,0,0,0,36,081,4010701
+"Census Tract 108, Queens County, New York",219,89,21,109,0,36,081,4010800
+"Census Tract 110, Queens County, New York",316,161,0,155,0,36,081,4011000
+"Census Tract 111, Queens County, New York",122,40,0,46,36,36,081,4011100
+"Census Tract 112, Queens County, New York",103,46,10,35,12,36,081,4011200
+"Census Tract 113, Queens County, New York",167,55,40,50,22,36,081,4011300
+"Census Tract 114, Queens County, New York",99,10,0,89,0,36,081,4011400
+"Census Tract 115, Queens County, New York",25,10,0,7,8,36,081,4011500
+"Census Tract 116, Queens County, New York",100,39,0,61,0,36,081,4011600
+"Census Tract 117, Queens County, New York",87,44,16,27,0,36,081,4011700
+"Census Tract 118, Queens County, New York",143,95,0,48,0,36,081,4011800
+"Census Tract 119, Queens County, New York",18,10,0,8,0,36,081,4011900
+"Census Tract 120, Queens County, New York",141,60,12,69,0,36,081,4012000
+"Census Tract 121, Queens County, New York",17,12,0,5,0,36,081,4012100
+"Census Tract 122, Queens County, New York",218,84,20,94,20,36,081,4012200
+"Census Tract 123.01, Queens County, New York",119,74,7,24,14,36,081,4012301
+"Census Tract 124, Queens County, New York",218,94,0,107,17,36,081,4012400
+"Census Tract 125, Queens County, New York",37,18,0,19,0,36,081,4012500
+"Census Tract 126.01, Queens County, New York",244,123,6,107,8,36,081,4012601
+"Census Tract 126.02, Queens County, New York",191,125,0,56,10,36,081,4012602
+"Census Tract 128, Queens County, New York",72,23,0,44,5,36,081,4012800
+"Census Tract 130, Queens County, New York",77,22,4,4,47,36,081,4013000
+"Census Tract 132, Queens County, New York",158,79,15,64,0,36,081,4013200
+"Census Tract 134, Queens County, New York",310,234,17,16,43,36,081,4013400
+"Census Tract 135, Queens County, New York",55,4,10,27,14,36,081,4013500
+"Census Tract 136, Queens County, New York",50,25,0,10,15,36,081,4013600
+"Census Tract 137, Queens County, New York",116,50,13,26,27,36,081,4013700
+"Census Tract 138, Queens County, New York",166,135,0,31,0,36,081,4013800
+"Census Tract 140, Queens County, New York",319,133,67,34,85,36,081,4014000
+"Census Tract 141, Queens County, New York",54,42,0,12,0,36,081,4014100
+"Census Tract 142.01, Queens County, New York",207,86,0,121,0,36,081,4014201
+"Census Tract 142.02, Queens County, New York",124,61,10,43,10,36,081,4014202
+"Census Tract 143, Queens County, New York",133,56,0,69,8,36,081,4014300
+"Census Tract 144, Queens County, New York",86,49,0,37,0,36,081,4014400
+"Census Tract 145, Queens County, New York",85,19,4,43,19,36,081,4014500
+"Census Tract 147, Queens County, New York",135,24,27,65,19,36,081,4014700
+"Census Tract 148, Queens County, New York",233,128,5,95,5,36,081,4014800
+"Census Tract 149, Queens County, New York",20,15,0,5,0,36,081,4014900
+"Census Tract 150, Queens County, New York",237,114,15,69,39,36,081,4015000
+"Census Tract 151, Queens County, New York",34,0,0,34,0,36,081,4015100
+"Census Tract 152, Queens County, New York",109,57,6,42,4,36,081,4015200
+"Census Tract 153, Queens County, New York",58,25,0,33,0,36,081,4015300
+"Census Tract 154, Queens County, New York",136,65,0,51,20,36,081,4015400
+"Census Tract 155, Queens County, New York",56,21,13,22,0,36,081,4015500
+"Census Tract 156, Queens County, New York",154,90,6,58,0,36,081,4015600
+"Census Tract 157, Queens County, New York",80,66,0,14,0,36,081,4015700
+"Census Tract 158.01, Queens County, New York",362,272,9,63,18,36,081,4015801
+"Census Tract 158.02, Queens County, New York",196,95,0,69,32,36,081,4015802
+"Census Tract 159, Queens County, New York",85,13,0,72,0,36,081,4015900
+"Census Tract 161, Queens County, New York",93,32,0,49,12,36,081,4016100
+"Census Tract 163, Queens County, New York",58,37,0,21,0,36,081,4016300
+"Census Tract 164, Queens County, New York",190,101,17,60,12,36,081,4016400
+"Census Tract 166, Queens County, New York",312,125,54,122,11,36,081,4016600
+"Census Tract 168, Queens County, New York",209,80,10,113,6,36,081,4016800
+"Census Tract 169, Queens County, New York",194,118,16,60,0,36,081,4016900
+"Census Tract 170, Queens County, New York",150,95,0,55,0,36,081,4017000
+"Census Tract 171, Queens County, New York",0,0,0,0,0,36,081,4017100
+"Census Tract 172, Queens County, New York",118,37,0,81,0,36,081,4017200
+"Census Tract 174, Queens County, New York",179,127,0,47,5,36,081,4017400
+"Census Tract 176, Queens County, New York",174,66,0,97,11,36,081,4017600
+"Census Tract 178, Queens County, New York",149,77,11,61,0,36,081,4017800
+"Census Tract 179, Queens County, New York",51,25,15,11,0,36,081,4017900
+"Census Tract 180, Queens County, New York",88,10,18,55,5,36,081,4018000
+"Census Tract 181.01, Queens County, New York",153,37,0,116,0,36,081,4018101
+"Census Tract 181.02, Queens County, New York",79,52,4,23,0,36,081,4018102
+"Census Tract 182, Queens County, New York",152,23,6,117,6,36,081,4018200
+"Census Tract 183, Queens County, New York",179,145,0,34,0,36,081,4018300
+"Census Tract 184.01, Queens County, New York",101,59,0,28,14,36,081,4018401
+"Census Tract 184.02, Queens County, New York",176,109,3,64,0,36,081,4018402
+"Census Tract 185.01, Queens County, New York",159,72,9,78,0,36,081,4018501
+"Census Tract 185.02, Queens County, New York",110,26,9,66,9,36,081,4018502
+"Census Tract 186, Queens County, New York",90,14,0,76,0,36,081,4018600
+"Census Tract 187, Queens County, New York",84,24,0,60,0,36,081,4018700
+"Census Tract 188, Queens County, New York",60,33,0,27,0,36,081,4018800
+"Census Tract 189, Queens County, New York",200,66,0,134,0,36,081,4018900
+"Census Tract 190, Queens County, New York",90,42,5,30,13,36,081,4019000
+"Census Tract 192, Queens County, New York",79,19,7,40,13,36,081,4019200
+"Census Tract 194, Queens County, New York",142,70,10,41,21,36,081,4019400
+"Census Tract 196, Queens County, New York",154,74,0,80,0,36,081,4019600
+"Census Tract 198, Queens County, New York",184,97,4,83,0,36,081,4019800
+"Census Tract 199, Queens County, New York",33,11,0,22,0,36,081,4019900
+"Census Tract 202, Queens County, New York",105,55,0,50,0,36,081,4020200
+"Census Tract 204, Queens County, New York",113,66,0,47,0,36,081,4020400
+"Census Tract 205, Queens County, New York",15,3,0,12,0,36,081,4020500
+"Census Tract 206, Queens County, New York",93,48,0,45,0,36,081,4020600
+"Census Tract 208, Queens County, New York",192,174,0,18,0,36,081,4020800
+"Census Tract 212, Queens County, New York",34,15,5,4,10,36,081,4021200
+"Census Tract 214, Queens County, New York",357,238,0,119,0,36,081,4021400
+"Census Tract 216, Queens County, New York",152,60,0,92,0,36,081,4021600
+"Census Tract 219, Queens County, New York",0,0,0,0,0,36,081,4021900
+"Census Tract 220.01, Queens County, New York",218,91,47,80,0,36,081,4022001
+"Census Tract 220.02, Queens County, New York",217,122,0,80,15,36,081,4022002
+"Census Tract 229, Queens County, New York",0,0,0,0,0,36,081,4022900
+"Census Tract 230, Queens County, New York",188,81,33,74,0,36,081,4023000
+"Census Tract 232, Queens County, New York",258,46,47,131,34,36,081,4023200
+"Census Tract 235, Queens County, New York",409,197,11,186,15,36,081,4023500
+"Census Tract 236, Queens County, New York",130,47,10,59,14,36,081,4023600
+"Census Tract 238, Queens County, New York",128,71,0,50,7,36,081,4023800
+"Census Tract 240, Queens County, New York",267,77,0,178,12,36,081,4024000
+"Census Tract 243, Queens County, New York",312,153,0,159,0,36,081,4024300
+"Census Tract 245, Queens County, New York",84,28,0,27,29,36,081,4024500
+"Census Tract 246, Queens County, New York",0,0,0,0,0,36,081,4024600
+"Census Tract 247, Queens County, New York",94,49,0,30,15,36,081,4024700
+"Census Tract 249, Queens County, New York",230,57,29,128,16,36,081,4024900
+"Census Tract 251, Queens County, New York",343,122,0,147,74,36,081,4025100
+"Census Tract 253.01, Queens County, New York",79,9,0,59,11,36,081,4025301
+"Census Tract 253.02, Queens County, New York",90,44,8,31,7,36,081,4025302
+"Census Tract 254, Queens County, New York",668,319,0,333,16,36,081,4025400
+"Census Tract 255, Queens County, New York",53,10,0,37,6,36,081,4025500
+"Census Tract 257, Queens County, New York",58,21,0,37,0,36,081,4025700
+"Census Tract 258, Queens County, New York",169,70,0,99,0,36,081,4025800
+"Census Tract 259, Queens County, New York",67,40,0,27,0,36,081,4025900
+"Census Tract 260, Queens County, New York",227,106,0,121,0,36,081,4026000
+"Census Tract 261, Queens County, New York",457,194,0,263,0,36,081,4026100
+"Census Tract 262, Queens County, New York",91,28,9,54,0,36,081,4026200
+"Census Tract 263, Queens County, New York",283,60,41,182,0,36,081,4026300
+"Census Tract 264, Queens County, New York",161,35,0,126,0,36,081,4026400
+"Census Tract 265, Queens County, New York",246,158,0,88,0,36,081,4026500
+"Census Tract 266, Queens County, New York",96,42,0,54,0,36,081,4026600
+"Census Tract 267, Queens County, New York",199,128,7,64,0,36,081,4026700
+"Census Tract 269.01, Queens County, New York",86,38,4,44,0,36,081,4026901
+"Census Tract 269.02, Queens County, New York",214,145,0,69,0,36,081,4026902
+"Census Tract 270, Queens County, New York",158,89,12,51,6,36,081,4027000
+"Census Tract 271, Queens County, New York",332,137,49,146,0,36,081,4027100
+"Census Tract 272, Queens County, New York",139,35,6,98,0,36,081,4027200
+"Census Tract 273, Queens County, New York",541,253,15,273,0,36,081,4027300
+"Census Tract 274, Queens County, New York",85,30,0,49,6,36,081,4027400
+"Census Tract 275, Queens County, New York",295,213,0,82,0,36,081,4027500
+"Census Tract 276, Queens County, New York",68,34,0,34,0,36,081,4027600
+"Census Tract 277, Queens County, New York",388,214,0,174,0,36,081,4027700
+"Census Tract 278, Queens County, New York",124,63,0,61,0,36,081,4027800
+"Census Tract 279, Queens County, New York",265,70,34,111,50,36,081,4027900
+"Census Tract 280, Queens County, New York",165,98,0,48,19,36,081,4028000
+"Census Tract 281, Queens County, New York",40,0,0,40,0,36,081,4028100
+"Census Tract 282, Queens County, New York",127,63,0,64,0,36,081,4028200
+"Census Tract 283, Queens County, New York",62,0,0,62,0,36,081,4028300
+"Census Tract 284, Queens County, New York",367,239,8,106,14,36,081,4028400
+"Census Tract 285, Queens County, New York",249,135,6,108,0,36,081,4028500
+"Census Tract 287, Queens County, New York",144,109,0,17,18,36,081,4028700
+"Census Tract 288, Queens County, New York",258,132,0,110,16,36,081,4028800
+"Census Tract 289, Queens County, New York",139,80,0,59,0,36,081,4028900
+"Census Tract 291, Queens County, New York",242,158,0,84,0,36,081,4029100
+"Census Tract 293, Queens County, New York",23,2,0,16,5,36,081,4029300
+"Census Tract 294, Queens County, New York",288,31,0,257,0,36,081,4029400
+"Census Tract 295, Queens County, New York",131,14,7,110,0,36,081,4029500
+"Census Tract 297, Queens County, New York",102,50,5,39,8,36,081,4029700
+"Census Tract 299, Queens County, New York",0,0,0,0,0,36,081,4029900
+"Census Tract 306, Queens County, New York",250,68,2,162,18,36,081,4030600
+"Census Tract 309.02, Queens County, New York",519,266,0,228,25,36,081,4030902
+"Census Tract 309.03, Queens County, New York",550,182,0,368,0,36,081,4030903
+"Census Tract 309.04, Queens County, New York",168,127,0,30,11,36,081,4030904
+"Census Tract 317, Queens County, New York",103,31,11,46,15,36,081,4031700
+"Census Tract 320, Queens County, New York",293,117,0,128,48,36,081,4032000
+"Census Tract 327, Queens County, New York",78,33,15,30,0,36,081,4032700
+"Census Tract 328, Queens County, New York",232,133,7,87,5,36,081,4032800
+"Census Tract 329, Queens County, New York",253,25,0,228,0,36,081,4032900
+"Census Tract 330, Queens County, New York",547,324,26,170,27,36,081,4033000
+"Census Tract 331, Queens County, New York",0,0,0,0,0,36,081,4033100
+"Census Tract 334.01, Queens County, New York",134,68,17,40,9,36,081,4033401
+"Census Tract 334.02, Queens County, New York",602,158,71,348,25,36,081,4033402
+"Census Tract 337, Queens County, New York",92,50,0,34,8,36,081,4033700
+"Census Tract 339, Queens County, New York",205,27,26,82,70,36,081,4033900
+"Census Tract 347, Queens County, New York",221,140,9,72,0,36,081,4034700
+"Census Tract 351, Queens County, New York",244,121,9,106,8,36,081,4035100
+"Census Tract 352, Queens County, New York",189,92,27,64,6,36,081,4035200
+"Census Tract 353, Queens County, New York",148,57,0,91,0,36,081,4035300
+"Census Tract 357, Queens County, New York",129,101,0,28,0,36,081,4035700
+"Census Tract 358, Queens County, New York",324,155,54,52,63,36,081,4035800
+"Census Tract 361, Queens County, New York",147,92,22,33,0,36,081,4036100
+"Census Tract 363, Queens County, New York",123,61,0,62,0,36,081,4036300
+"Census Tract 365, Queens County, New York",153,99,0,48,6,36,081,4036500
+"Census Tract 366, Queens County, New York",187,94,5,88,0,36,081,4036600
+"Census Tract 367, Queens County, New York",127,104,0,23,0,36,081,4036700
+"Census Tract 368, Queens County, New York",160,88,22,50,0,36,081,4036800
+"Census Tract 371, Queens County, New York",133,65,4,59,5,36,081,4037100
+"Census Tract 373, Queens County, New York",111,37,0,74,0,36,081,4037300
+"Census Tract 375, Queens County, New York",250,136,7,100,7,36,081,4037500
+"Census Tract 376, Queens County, New York",560,258,7,288,7,36,081,4037600
+"Census Tract 377, Queens County, New York",141,79,0,62,0,36,081,4037700
+"Census Tract 379, Queens County, New York",117,50,0,67,0,36,081,4037900
+"Census Tract 381, Queens County, New York",351,142,0,209,0,36,081,4038100
+"Census Tract 383.01, Queens County, New York",0,0,0,0,0,36,081,4038301
+"Census Tract 383.02, Queens County, New York",0,0,0,0,0,36,081,4038302
+"Census Tract 384, Queens County, New York",140,40,11,77,12,36,081,4038400
+"Census Tract 394, Queens County, New York",141,59,13,62,7,36,081,4039400
+"Census Tract 398, Queens County, New York",122,61,0,42,19,36,081,4039800
+"Census Tract 399, Queens County, New York",171,39,30,102,0,36,081,4039900
+"Census Tract 400, Queens County, New York",82,35,12,31,4,36,081,4040000
+"Census Tract 401, Queens County, New York",192,70,9,106,7,36,081,4040100
+"Census Tract 402, Queens County, New York",78,33,0,28,17,36,081,4040200
+"Census Tract 403, Queens County, New York",449,278,0,171,0,36,081,4040300
+"Census Tract 404, Queens County, New York",245,31,0,196,18,36,081,4040400
+"Census Tract 405, Queens County, New York",178,102,4,56,16,36,081,4040500
+"Census Tract 407, Queens County, New York",326,116,0,210,0,36,081,4040700
+"Census Tract 409, Queens County, New York",309,163,7,120,19,36,081,4040900
+"Census Tract 411, Queens County, New York",297,153,0,128,16,36,081,4041100
+"Census Tract 413, Queens County, New York",209,62,0,97,50,36,081,4041300
+"Census Tract 414, Queens County, New York",208,113,8,87,0,36,081,4041400
+"Census Tract 415, Queens County, New York",200,87,0,89,24,36,081,4041500
+"Census Tract 424, Queens County, New York",107,71,0,36,0,36,081,4042400
+"Census Tract 426, Queens County, New York",0,0,0,0,0,36,081,4042600
+"Census Tract 427, Queens County, New York",230,181,0,49,0,36,081,4042700
+"Census Tract 432, Queens County, New York",136,61,9,53,13,36,081,4043200
+"Census Tract 434, Queens County, New York",77,21,10,46,0,36,081,4043400
+"Census Tract 437.01, Queens County, New York",177,105,0,72,0,36,081,4043701
+"Census Tract 437.02, Queens County, New York",306,141,0,165,0,36,081,4043702
+"Census Tract 439, Queens County, New York",191,133,7,51,0,36,081,4043900
+"Census Tract 440, Queens County, New York",207,133,0,74,0,36,081,4044000
+"Census Tract 443.01, Queens County, New York",177,117,17,33,10,36,081,4044301
+"Census Tract 443.02, Queens County, New York",155,98,0,57,0,36,081,4044302
+"Census Tract 444, Queens County, New York",122,65,0,57,0,36,081,4044400
+"Census Tract 446.01, Queens County, New York",112,27,0,85,0,36,081,4044601
+"Census Tract 446.02, Queens County, New York",290,135,0,136,19,36,081,4044602
+"Census Tract 448, Queens County, New York",160,58,6,91,5,36,081,4044800
+"Census Tract 450, Queens County, New York",98,31,8,59,0,36,081,4045000
+"Census Tract 452, Queens County, New York",91,33,0,58,0,36,081,4045200
+"Census Tract 454, Queens County, New York",239,134,14,60,31,36,081,4045400
+"Census Tract 455, Queens County, New York",920,327,17,576,0,36,081,4045500
+"Census Tract 456, Queens County, New York",60,15,5,40,0,36,081,4045600
+"Census Tract 457, Queens County, New York",29,29,0,0,0,36,081,4045700
+"Census Tract 458, Queens County, New York",139,65,0,74,0,36,081,4045800
+"Census Tract 459, Queens County, New York",231,91,11,129,0,36,081,4045900
+"Census Tract 460, Queens County, New York",219,110,0,109,0,36,081,4046000
+"Census Tract 461, Queens County, New York",144,89,0,55,0,36,081,4046100
+"Census Tract 462, Queens County, New York",432,117,0,315,0,36,081,4046200
+"Census Tract 463, Queens County, New York",183,72,0,111,0,36,081,4046300
+"Census Tract 464, Queens County, New York",48,16,0,27,5,36,081,4046400
+"Census Tract 465, Queens County, New York",96,70,0,26,0,36,081,4046500
+"Census Tract 466, Queens County, New York",163,124,17,15,7,36,081,4046600
+"Census Tract 467, Queens County, New York",267,160,0,107,0,36,081,4046700
+"Census Tract 468, Queens County, New York",66,6,0,53,7,36,081,4046800
+"Census Tract 469, Queens County, New York",465,186,99,140,40,36,081,4046900
+"Census Tract 470, Queens County, New York",169,61,8,89,11,36,081,4047000
+"Census Tract 471, Queens County, New York",73,56,0,17,0,36,081,4047100
+"Census Tract 472, Queens County, New York",153,59,11,83,0,36,081,4047200
+"Census Tract 473, Queens County, New York",112,26,0,86,0,36,081,4047300
+"Census Tract 475, Queens County, New York",133,68,0,65,0,36,081,4047500
+"Census Tract 476, Queens County, New York",139,60,27,44,8,36,081,4047600
+"Census Tract 478, Queens County, New York",169,16,18,135,0,36,081,4047800
+"Census Tract 479, Queens County, New York",482,253,0,221,8,36,081,4047900
+"Census Tract 480, Queens County, New York",216,110,0,99,7,36,081,4048000
+"Census Tract 481, Queens County, New York",155,113,0,26,16,36,081,4048100
+"Census Tract 482, Queens County, New York",99,48,3,30,18,36,081,4048200
+"Census Tract 483, Queens County, New York",97,69,0,28,0,36,081,4048300
+"Census Tract 484, Queens County, New York",318,170,0,97,51,36,081,4048400
+"Census Tract 485, Queens County, New York",114,53,0,61,0,36,081,4048500
+"Census Tract 489, Queens County, New York",65,10,6,49,0,36,081,4048900
+"Census Tract 492, Queens County, New York",201,107,0,58,36,36,081,4049200
+"Census Tract 493.01, Queens County, New York",133,72,5,56,0,36,081,4049301
+"Census Tract 493.02, Queens County, New York",117,53,7,29,28,36,081,4049302
+"Census Tract 495, Queens County, New York",102,42,0,55,5,36,081,4049500
+"Census Tract 496, Queens County, New York",149,83,0,55,11,36,081,4049600
+"Census Tract 497, Queens County, New York",205,78,0,91,36,36,081,4049700
+"Census Tract 499, Queens County, New York",248,101,9,130,8,36,081,4049900
+"Census Tract 500, Queens County, New York",110,93,0,17,0,36,081,4050000
+"Census Tract 502.01, Queens County, New York",53,22,0,26,5,36,081,4050201
+"Census Tract 502.02, Queens County, New York",47,5,0,38,4,36,081,4050202
+"Census Tract 504, Queens County, New York",36,20,0,16,0,36,081,4050400
+"Census Tract 505, Queens County, New York",45,12,0,18,15,36,081,4050500
+"Census Tract 506, Queens County, New York",95,38,0,57,0,36,081,4050600
+"Census Tract 507, Queens County, New York",206,84,10,94,18,36,081,4050700
+"Census Tract 508, Queens County, New York",121,72,7,27,15,36,081,4050800
+"Census Tract 510, Queens County, New York",104,5,1,87,11,36,081,4051000
+"Census Tract 511, Queens County, New York",37,0,17,14,6,36,081,4051100
+"Census Tract 512, Queens County, New York",216,66,33,117,0,36,081,4051200
+"Census Tract 513, Queens County, New York",152,76,0,71,5,36,081,4051300
+"Census Tract 515, Queens County, New York",117,35,1,71,10,36,081,4051500
+"Census Tract 516, Queens County, New York",26,9,0,17,0,36,081,4051600
+"Census Tract 517, Queens County, New York",51,12,0,16,23,36,081,4051700
+"Census Tract 518, Queens County, New York",184,46,19,114,5,36,081,4051800
+"Census Tract 3, Richmond County, New York",27,11,0,16,0,36,085,5000300
+"Census Tract 6, Richmond County, New York",42,32,0,3,7,36,085,5000600
+"Census Tract 7, Richmond County, New York",377,193,16,168,0,36,085,5000700
+"Census Tract 8, Richmond County, New York",344,221,27,89,7,36,085,5000800
+"Census Tract 9, Richmond County, New York",113,57,0,56,0,36,085,5000900
+"Census Tract 11, Richmond County, New York",124,116,0,8,0,36,085,5001100
+"Census Tract 17, Richmond County, New York",73,48,0,25,0,36,085,5001700
+"Census Tract 18, Richmond County, New York",41,31,0,10,0,36,085,5001800
+"Census Tract 20.01, Richmond County, New York",95,54,9,32,0,36,085,5002001
+"Census Tract 20.02, Richmond County, New York",139,36,25,67,11,36,085,5002002
+"Census Tract 21, Richmond County, New York",133,67,14,49,3,36,085,5002100
+"Census Tract 27, Richmond County, New York",54,32,4,18,0,36,085,5002700
+"Census Tract 29, Richmond County, New York",298,230,0,68,0,36,085,5002900
+"Census Tract 33, Richmond County, New York",186,52,32,85,17,36,085,5003300
+"Census Tract 36, Richmond County, New York",109,84,7,18,0,36,085,5003600
+"Census Tract 39, Richmond County, New York",85,14,22,44,5,36,085,5003900
+"Census Tract 40, Richmond County, New York",822,316,20,486,0,36,085,5004000
+"Census Tract 47, Richmond County, New York",84,51,7,26,0,36,085,5004700
+"Census Tract 50, Richmond County, New York",413,87,64,213,49,36,085,5005000
+"Census Tract 59, Richmond County, New York",141,34,45,17,45,36,085,5005900
+"Census Tract 64, Richmond County, New York",190,103,15,58,14,36,085,5006400
+"Census Tract 67, Richmond County, New York",154,95,15,9,35,36,085,5006700
+"Census Tract 70, Richmond County, New York",486,138,15,296,37,36,085,5007000
+"Census Tract 74, Richmond County, New York",189,128,6,47,8,36,085,5007400
+"Census Tract 75, Richmond County, New York",138,76,0,62,0,36,085,5007500
+"Census Tract 77, Richmond County, New York",153,78,0,75,0,36,085,5007700
+"Census Tract 81, Richmond County, New York",246,88,3,146,9,36,085,5008100
+"Census Tract 96.01, Richmond County, New York",156,39,35,74,8,36,085,5009601
+"Census Tract 96.02, Richmond County, New York",177,101,11,55,10,36,085,5009602
+"Census Tract 97, Richmond County, New York",234,79,8,147,0,36,085,5009700
+"Census Tract 105, Richmond County, New York",271,119,37,115,0,36,085,5010500
+"Census Tract 112.01, Richmond County, New York",296,121,0,144,31,36,085,5011201
+"Census Tract 112.02, Richmond County, New York",299,228,11,52,8,36,085,5011202
+"Census Tract 114.01, Richmond County, New York",110,54,0,56,0,36,085,5011401
+"Census Tract 114.02, Richmond County, New York",200,29,8,124,39,36,085,5011402
+"Census Tract 121, Richmond County, New York",171,106,17,48,0,36,085,5012100
+"Census Tract 122, Richmond County, New York",202,68,34,55,45,36,085,5012200
+"Census Tract 125, Richmond County, New York",176,90,3,76,7,36,085,5012500
+"Census Tract 128.04, Richmond County, New York",246,123,11,112,0,36,085,5012804
+"Census Tract 128.05, Richmond County, New York",199,82,49,68,0,36,085,5012805
+"Census Tract 128.06, Richmond County, New York",192,93,0,99,0,36,085,5012806
+"Census Tract 132.01, Richmond County, New York",67,0,12,23,32,36,085,5013201
+"Census Tract 132.03, Richmond County, New York",328,84,124,40,80,36,085,5013203
+"Census Tract 132.04, Richmond County, New York",250,65,25,77,83,36,085,5013204
+"Census Tract 133.01, Richmond County, New York",124,42,0,77,5,36,085,5013301
+"Census Tract 133.02, Richmond County, New York",277,189,0,88,0,36,085,5013302
+"Census Tract 134, Richmond County, New York",152,29,12,22,89,36,085,5013400
+"Census Tract 138, Richmond County, New York",285,78,34,72,101,36,085,5013800
+"Census Tract 141, Richmond County, New York",104,60,6,38,0,36,085,5014100
+"Census Tract 146.04, Richmond County, New York",432,166,34,164,68,36,085,5014604
+"Census Tract 146.05, Richmond County, New York",201,64,11,48,78,36,085,5014605
+"Census Tract 146.06, Richmond County, New York",392,68,130,160,34,36,085,5014606
+"Census Tract 146.07, Richmond County, New York",246,105,49,90,2,36,085,5014607
+"Census Tract 146.08, Richmond County, New York",189,126,0,58,5,36,085,5014608
+"Census Tract 147, Richmond County, New York",160,71,0,35,54,36,085,5014700
+"Census Tract 151, Richmond County, New York",211,58,0,130,23,36,085,5015100
+"Census Tract 154, Richmond County, New York",0,0,0,0,0,36,085,5015400
+"Census Tract 156.01, Richmond County, New York",399,103,42,172,82,36,085,5015601
+"Census Tract 156.02, Richmond County, New York",134,30,9,55,40,36,085,5015602
+"Census Tract 156.03, Richmond County, New York",145,56,0,81,8,36,085,5015603
+"Census Tract 169.01, Richmond County, New York",318,122,29,167,0,36,085,5016901
+"Census Tract 170.05, Richmond County, New York",329,123,38,121,47,36,085,5017005
+"Census Tract 170.07, Richmond County, New York",239,115,6,109,9,36,085,5017007
+"Census Tract 170.08, Richmond County, New York",203,69,58,65,11,36,085,5017008
+"Census Tract 170.09, Richmond County, New York",394,114,117,86,77,36,085,5017009
+"Census Tract 170.10, Richmond County, New York",489,154,34,249,52,36,085,5017010
+"Census Tract 170.11, Richmond County, New York",178,81,18,45,34,36,085,5017011
+"Census Tract 170.12, Richmond County, New York",219,114,30,53,22,36,085,5017012
+"Census Tract 173, Richmond County, New York",164,46,5,102,11,36,085,5017300
+"Census Tract 176, Richmond County, New York",283,98,60,55,70,36,085,5017600
+"Census Tract 177, Richmond County, New York",464,133,241,12,78,36,085,5017700
+"Census Tract 181, Richmond County, New York",188,18,63,80,27,36,085,5018100
+"Census Tract 187.01, Richmond County, New York",71,24,10,21,16,36,085,5018701
+"Census Tract 187.02, Richmond County, New York",298,111,15,140,32,36,085,5018702
+"Census Tract 189.01, Richmond County, New York",279,98,2,101,78,36,085,5018901
+"Census Tract 189.02, Richmond County, New York",356,102,43,73,138,36,085,5018902
+"Census Tract 197, Richmond County, New York",108,43,27,30,8,36,085,5019700
+"Census Tract 198, Richmond County, New York",491,191,62,164,74,36,085,5019800
+"Census Tract 201, Richmond County, New York",136,55,44,37,0,36,085,5020100
+"Census Tract 207, Richmond County, New York",472,205,51,213,3,36,085,5020700
+"Census Tract 208.01, Richmond County, New York",487,159,141,114,73,36,085,5020801
+"Census Tract 208.03, Richmond County, New York",329,143,56,71,59,36,085,5020803
+"Census Tract 208.04, Richmond County, New York",184,39,30,96,19,36,085,5020804
+"Census Tract 213, Richmond County, New York",239,117,13,97,12,36,085,5021300
+"Census Tract 223, Richmond County, New York",117,62,0,51,4,36,085,5022300
+"Census Tract 226, Richmond County, New York",762,254,55,407,46,36,085,5022600
+"Census Tract 228, Richmond County, New York",0,0,0,0,0,36,085,5022800
+"Census Tract 231, Richmond County, New York",308,151,13,144,0,36,085,5023100
+"Census Tract 239, Richmond County, New York",363,154,0,180,29,36,085,5023900
+"Census Tract 244.01, Richmond County, New York",229,42,45,104,38,36,085,5024401
+"Census Tract 244.02, Richmond County, New York",285,83,78,65,59,36,085,5024402
+"Census Tract 247, Richmond County, New York",72,22,13,30,7,36,085,5024700
+"Census Tract 248, Richmond County, New York",518,270,13,175,60,36,085,5024800
+"Census Tract 251, Richmond County, New York",221,79,18,101,23,36,085,5025100
+"Census Tract 273.01, Richmond County, New York",161,75,26,60,0,36,085,5027301
+"Census Tract 273.02, Richmond County, New York",127,40,47,20,20,36,085,5027302
+"Census Tract 277.02, Richmond County, New York",310,233,0,56,21,36,085,5027702
+"Census Tract 277.04, Richmond County, New York",173,65,17,65,26,36,085,5027704
+"Census Tract 277.05, Richmond County, New York",181,83,40,49,9,36,085,5027705
+"Census Tract 277.06, Richmond County, New York",133,56,31,18,28,36,085,5027706
+"Census Tract 279, Richmond County, New York",117,17,15,30,55,36,085,5027900
+"Census Tract 291.02, Richmond County, New York",154,81,5,68,0,36,085,5029102
+"Census Tract 291.03, Richmond County, New York",338,152,0,145,41,36,085,5029103
+"Census Tract 291.04, Richmond County, New York",421,119,125,129,48,36,085,5029104
+"Census Tract 303.01, Richmond County, New York",286,121,11,154,0,36,085,5030301
+"Census Tract 303.02, Richmond County, New York",336,129,58,81,68,36,085,5030302
+"Census Tract 319.01, Richmond County, New York",197,86,0,111,0,36,085,5031901
+"Census Tract 319.02, Richmond County, New York",397,206,31,160,0,36,085,5031902
+"Census Tract 323, Richmond County, New York",84,32,7,45,0,36,085,5032300
+"Census Tract 9901, Richmond County, New York",0,0,0,0,0,36,085,5990100

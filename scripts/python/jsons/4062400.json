@@ -1,0 +1,3420 @@
+{
+    "results": [
+        {
+            "locations": [
+                {
+                    "id": "21K559",
+                    "properties": [
+                        {
+                            "travel_time": 7367
+                        }
+                    ]
+                },
+                {
+                    "id": "01M448",
+                    "properties": [
+                        {
+                            "travel_time": 6621
+                        }
+                    ]
+                },
+                {
+                    "id": "15K656",
+                    "properties": [
+                        {
+                            "travel_time": 4776
+                        }
+                    ]
+                },
+                {
+                    "id": "15K462",
+                    "properties": [
+                        {
+                            "travel_time": 5518
+                        }
+                    ]
+                },
+                {
+                    "id": "15K667",
+                    "properties": [
+                        {
+                            "travel_time": 5686
+                        }
+                    ]
+                },
+                {
+                    "id": "25Q281",
+                    "properties": [
+                        {
+                            "travel_time": 4713
+                        }
+                    ]
+                },
+                {
+                    "id": "31R064",
+                    "properties": [
+                        {
+                            "travel_time": 8636
+                        }
+                    ]
+                },
+                {
+                    "id": "20K505",
+                    "properties": [
+                        {
+                            "travel_time": 6672
+                        }
+                    ]
+                },
+                {
+                    "id": "31R028",
+                    "properties": [
+                        {
+                            "travel_time": 7831
+                        }
+                    ]
+                },
+                {
+                    "id": "14K610",
+                    "properties": [
+                        {
+                            "travel_time": 5512
+                        }
+                    ]
+                },
+                {
+                    "id": "03M860",
+                    "properties": [
+                        {
+                            "travel_time": 5817
+                        }
+                    ]
+                },
+                {
+                    "id": "02M296",
+                    "properties": [
+                        {
+                            "travel_time": 6143
+                        }
+                    ]
+                },
+                {
+                    "id": "08X348",
+                    "properties": [
+                        {
+                            "travel_time": 7464
+                        }
+                    ]
+                },
+                {
+                    "id": "24Q610",
+                    "properties": [
+                        {
+                            "travel_time": 4552
+                        }
+                    ]
+                },
+                {
+                    "id": "08X269",
+                    "properties": [
+                        {
+                            "travel_time": 6367
+                        }
+                    ]
+                },
+                {
+                    "id": "10X264",
+                    "properties": [
+                        {
+                            "travel_time": 7325
+                        }
+                    ]
+                },
+                {
+                    "id": "02M393",
+                    "properties": [
+                        {
+                            "travel_time": 5777
+                        }
+                    ]
+                },
+                {
+                    "id": "07X473",
+                    "properties": [
+                        {
+                            "travel_time": 6113
+                        }
+                    ]
+                },
+                {
+                    "id": "02M630",
+                    "properties": [
+                        {
+                            "travel_time": 5082
+                        }
+                    ]
+                },
+                {
+                    "id": "19K507",
+                    "properties": [
+                        {
+                            "travel_time": 4264
+                        }
+                    ]
+                },
+                {
+                    "id": "03M417",
+                    "properties": [
+                        {
+                            "travel_time": 5291
+                        }
+                    ]
+                },
+                {
+                    "id": "07X522",
+                    "properties": [
+                        {
+                            "travel_time": 6024
+                        }
+                    ]
+                },
+                {
+                    "id": "09X250",
+                    "properties": [
+                        {
+                            "travel_time": 6723
+                        }
+                    ]
+                },
+                {
+                    "id": "13K419",
+                    "properties": [
+                        {
+                            "travel_time": 6766
+                        }
+                    ]
+                },
+                {
+                    "id": "10X549",
+                    "properties": [
+                        {
+                            "travel_time": 6922
+                        }
+                    ]
+                },
+                {
+                    "id": "17K122",
+                    "properties": [
+                        {
+                            "travel_time": 4970
+                        }
+                    ]
+                },
+                {
+                    "id": "14K071",
+                    "properties": [
+                        {
+                            "travel_time": 5090
+                        }
+                    ]
+                },
+                {
+                    "id": "02M500",
+                    "properties": [
+                        {
+                            "travel_time": 4928
+                        }
+                    ]
+                },
+                {
+                    "id": "10X141",
+                    "properties": [
+                        {
+                            "travel_time": 8011
+                        }
+                    ]
+                },
+                {
+                    "id": "02M580",
+                    "properties": [
+                        {
+                            "travel_time": 5077
+                        }
+                    ]
+                },
+                {
+                    "id": "23K647",
+                    "properties": [
+                        {
+                            "travel_time": 4731
+                        }
+                    ]
+                },
+                {
+                    "id": "09X403",
+                    "properties": [
+                        {
+                            "travel_time": 6634
+                        }
+                    ]
+                },
+                {
+                    "id": "02M288",
+                    "properties": [
+                        {
+                            "travel_time": 6143
+                        }
+                    ]
+                },
+                {
+                    "id": "02M420",
+                    "properties": [
+                        {
+                            "travel_time": 5885
+                        }
+                    ]
+                },
+                {
+                    "id": "32K168",
+                    "properties": [
+                        {
+                            "travel_time": 5485
+                        }
+                    ]
+                },
+                {
+                    "id": "19K764",
+                    "properties": [
+                        {
+                            "travel_time": 4435
+                        }
+                    ]
+                },
+                {
+                    "id": "14K477",
+                    "properties": [
+                        {
+                            "travel_time": 4596
+                        }
+                    ]
+                },
+                {
+                    "id": "27Q262",
+                    "properties": [
+                        {
+                            "travel_time": 6194
+                        }
+                    ]
+                },
+                {
+                    "id": "07X495",
+                    "properties": [
+                        {
+                            "travel_time": 6113
+                        }
+                    ]
+                },
+                {
+                    "id": "28Q680",
+                    "properties": [
+                        {
+                            "travel_time": 3937
+                        }
+                    ]
+                },
+                {
+                    "id": "02M425",
+                    "properties": [
+                        {
+                            "travel_time": 5319
+                        }
+                    ]
+                },
+                {
+                    "id": "08X452",
+                    "properties": [
+                        {
+                            "travel_time": 6972
+                        }
+                    ]
+                },
+                {
+                    "id": "02M544",
+                    "properties": [
+                        {
+                            "travel_time": 5693
+                        }
+                    ]
+                },
+                {
+                    "id": "13K527",
+                    "properties": [
+                        {
+                            "travel_time": 4996
+                        }
+                    ]
+                },
+                {
+                    "id": "20K445",
+                    "properties": [
+                        {
+                            "travel_time": 6262
+                        }
+                    ]
+                },
+                {
+                    "id": "21K690",
+                    "properties": [
+                        {
+                            "travel_time": 6793
+                        }
+                    ]
+                },
+                {
+                    "id": "31R450",
+                    "properties": [
+                        {
+                            "travel_time": 7672
+                        }
+                    ]
+                },
+                {
+                    "id": "19K422",
+                    "properties": [
+                        {
+                            "travel_time": 6101
+                        }
+                    ]
+                },
+                {
+                    "id": "11X275",
+                    "properties": [
+                        {
+                            "travel_time": 7395
+                        }
+                    ]
+                },
+                {
+                    "id": "20K485",
+                    "properties": [
+                        {
+                            "travel_time": 5954
+                        }
+                    ]
+                },
+                {
+                    "id": "21K620",
+                    "properties": [
+                        {
+                            "travel_time": 6768
+                        }
+                    ]
+                },
+                {
+                    "id": "11X249",
+                    "properties": [
+                        {
+                            "travel_time": 8042
+                        }
+                    ]
+                },
+                {
+                    "id": "32K554",
+                    "properties": [
+                        {
+                            "travel_time": 4626
+                        }
+                    ]
+                },
+                {
+                    "id": "08X312",
+                    "properties": [
+                        {
+                            "travel_time": 6972
+                        }
+                    ]
+                },
+                {
+                    "id": "15K592",
+                    "properties": [
+                        {
+                            "travel_time": 4881
+                        }
+                    ]
+                },
+                {
+                    "id": "28Q686",
+                    "properties": [
+                        {
+                            "travel_time": 4517
+                        }
+                    ]
+                },
+                {
+                    "id": "28Q505",
+                    "properties": [
+                        {
+                            "travel_time": 3193
+                        }
+                    ]
+                },
+                {
+                    "id": "09X543",
+                    "properties": [
+                        {
+                            "travel_time": 6634
+                        }
+                    ]
+                },
+                {
+                    "id": "12X251",
+                    "properties": [
+                        {
+                            "travel_time": 6919
+                        }
+                    ]
+                },
+                {
+                    "id": "11X542",
+                    "properties": [
+                        {
+                            "travel_time": 7452
+                        }
+                    ]
+                },
+                {
+                    "id": "22K535",
+                    "properties": [
+                        {
+                            "travel_time": 7081
+                        }
+                    ]
+                },
+                {
+                    "id": "02M047",
+                    "properties": [
+                        {
+                            "travel_time": 5377
+                        }
+                    ]
+                },
+                {
+                    "id": "08X282",
+                    "properties": [
+                        {
+                            "travel_time": 7523
+                        }
+                    ]
+                },
+                {
+                    "id": "02M400",
+                    "properties": [
+                        {
+                            "travel_time": 5980
+                        }
+                    ]
+                },
+                {
+                    "id": "24Q560",
+                    "properties": [
+                        {
+                            "travel_time": 4714
+                        }
+                    ]
+                },
+                {
+                    "id": "13K350",
+                    "properties": [
+                        {
+                            "travel_time": 6766
+                        }
+                    ]
+                },
+                {
+                    "id": "19K404",
+                    "properties": [
+                        {
+                            "travel_time": 6101
+                        }
+                    ]
+                },
+                {
+                    "id": "07X334",
+                    "properties": [
+                        {
+                            "travel_time": 6955
+                        }
+                    ]
+                },
+                {
+                    "id": "29Q313",
+                    "properties": [
+                        {
+                            "travel_time": 1536
+                        }
+                    ]
+                },
+                {
+                    "id": "12X267",
+                    "properties": [
+                        {
+                            "travel_time": 6765
+                        }
+                    ]
+                },
+                {
+                    "id": "32K549",
+                    "properties": [
+                        {
+                            "travel_time": 5485
+                        }
+                    ]
+                },
+                {
+                    "id": "09X525",
+                    "properties": [
+                        {
+                            "travel_time": 7051
+                        }
+                    ]
+                },
+                {
+                    "id": "30Q301",
+                    "properties": [
+                        {
+                            "travel_time": 7133
+                        }
+                    ]
+                },
+                {
+                    "id": "24Q299",
+                    "properties": [
+                        {
+                            "travel_time": 4521
+                        }
+                    ]
+                },
+                {
+                    "id": "30Q580",
+                    "properties": [
+                        {
+                            "travel_time": 5021
+                        }
+                    ]
+                },
+                {
+                    "id": "07X548",
+                    "properties": [
+                        {
+                            "travel_time": 6117
+                        }
+                    ]
+                },
+                {
+                    "id": "02M411",
+                    "properties": [
+                        {
+                            "travel_time": 5260
+                        }
+                    ]
+                },
+                {
+                    "id": "08X558",
+                    "properties": [
+                        {
+                            "travel_time": 7464
+                        }
+                    ]
+                },
+                {
+                    "id": "05M304",
+                    "properties": [
+                        {
+                            "travel_time": 5633
+                        }
+                    ]
+                },
+                {
+                    "id": "06M468",
+                    "properties": [
+                        {
+                            "travel_time": 6498
+                        }
+                    ]
+                },
+                {
+                    "id": "19K504",
+                    "properties": [
+                        {
+                            "travel_time": 4264
+                        }
+                    ]
+                },
+                {
+                    "id": "11X455",
+                    "properties": [
+                        {
+                            "travel_time": 8042
+                        }
+                    ]
+                },
+                {
+                    "id": "30Q501",
+                    "properties": [
+                        {
+                            "travel_time": 4876
+                        }
+                    ]
+                },
+                {
+                    "id": "29Q327",
+                    "properties": [
+                        {
+                            "travel_time": 2294
+                        }
+                    ]
+                },
+                {
+                    "id": "17K528",
+                    "properties": [
+                        {
+                            "travel_time": 5280
+                        }
+                    ]
+                },
+                {
+                    "id": "11X253",
+                    "properties": [
+                        {
+                            "travel_time": 7395
+                        }
+                    ]
+                },
+                {
+                    "id": "17K590",
+                    "properties": [
+                        {
+                            "travel_time": 4436
+                        }
+                    ]
+                },
+                {
+                    "id": "09X413",
+                    "properties": [
+                        {
+                            "travel_time": 6919
+                        }
+                    ]
+                },
+                {
+                    "id": "11X513",
+                    "properties": [
+                        {
+                            "travel_time": 7897
+                        }
+                    ]
+                },
+                {
+                    "id": "30Q450",
+                    "properties": [
+                        {
+                            "travel_time": 5444
+                        }
+                    ]
+                },
+                {
+                    "id": "02M551",
+                    "properties": [
+                        {
+                            "travel_time": 5518
+                        }
+                    ]
+                },
+                {
+                    "id": "03M402",
+                    "properties": [
+                        {
+                            "travel_time": 5291
+                        }
+                    ]
+                },
+                {
+                    "id": "05M157",
+                    "properties": [
+                        {
+                            "travel_time": 6078
+                        }
+                    ]
+                },
+                {
+                    "id": "02M534",
+                    "properties": [
+                        {
+                            "travel_time": 5509
+                        }
+                    ]
+                },
+                {
+                    "id": "10X353",
+                    "properties": [
+                        {
+                            "travel_time": 7227
+                        }
+                    ]
+                },
+                {
+                    "id": "02M600",
+                    "properties": [
+                        {
+                            "travel_time": 5042
+                        }
+                    ]
+                },
+                {
+                    "id": "10X546",
+                    "properties": [
+                        {
+                            "travel_time": 6503
+                        }
+                    ]
+                },
+                {
+                    "id": "03M494",
+                    "properties": [
+                        {
+                            "travel_time": 5891
+                        }
+                    ]
+                },
+                {
+                    "id": "05M692",
+                    "properties": [
+                        {
+                            "travel_time": 6306
+                        }
+                    ]
+                },
+                {
+                    "id": "27Q314",
+                    "properties": [
+                        {
+                            "travel_time": 4116
+                        }
+                    ]
+                },
+                {
+                    "id": "02M655",
+                    "properties": [
+                        {
+                            "travel_time": 5315
+                        }
+                    ]
+                },
+                {
+                    "id": "12X242",
+                    "properties": [
+                        {
+                            "travel_time": 6548
+                        }
+                    ]
+                },
+                {
+                    "id": "09X517",
+                    "properties": [
+                        {
+                            "travel_time": 6366
+                        }
+                    ]
+                },
+                {
+                    "id": "09X260",
+                    "properties": [
+                        {
+                            "travel_time": 6723
+                        }
+                    ]
+                },
+                {
+                    "id": "20K490",
+                    "properties": [
+                        {
+                            "travel_time": 6186
+                        }
+                    ]
+                },
+                {
+                    "id": "23K514",
+                    "properties": [
+                        {
+                            "travel_time": 5383
+                        }
+                    ]
+                },
+                {
+                    "id": "01M292",
+                    "properties": [
+                        {
+                            "travel_time": 5804
+                        }
+                    ]
+                },
+                {
+                    "id": "02M392",
+                    "properties": [
+                        {
+                            "travel_time": 5531
+                        }
+                    ]
+                },
+                {
+                    "id": "11X509",
+                    "properties": [
+                        {
+                            "travel_time": 7452
+                        }
+                    ]
+                },
+                {
+                    "id": "10X434",
+                    "properties": [
+                        {
+                            "travel_time": 7346
+                        }
+                    ]
+                },
+                {
+                    "id": "11X290",
+                    "properties": [
+                        {
+                            "travel_time": 7395
+                        }
+                    ]
+                },
+                {
+                    "id": "15K463",
+                    "properties": [
+                        {
+                            "travel_time": 5518
+                        }
+                    ]
+                },
+                {
+                    "id": "17K543",
+                    "properties": [
+                        {
+                            "travel_time": 5391
+                        }
+                    ]
+                },
+                {
+                    "id": "17K539",
+                    "properties": [
+                        {
+                            "travel_time": 5391
+                        }
+                    ]
+                },
+                {
+                    "id": "28Q350",
+                    "properties": [
+                        {
+                            "travel_time": 3770
+                        }
+                    ]
+                },
+                {
+                    "id": "19K683",
+                    "properties": [
+                        {
+                            "travel_time": 5094
+                        }
+                    ]
+                },
+                {
+                    "id": "24Q267",
+                    "properties": [
+                        {
+                            "travel_time": 4521
+                        }
+                    ]
+                },
+                {
+                    "id": "09X365",
+                    "properties": [
+                        {
+                            "travel_time": 6979
+                        }
+                    ]
+                },
+                {
+                    "id": "08X349",
+                    "properties": [
+                        {
+                            "travel_time": 7464
+                        }
+                    ]
+                },
+                {
+                    "id": "21K728",
+                    "properties": [
+                        {
+                            "travel_time": 7498
+                        }
+                    ]
+                },
+                {
+                    "id": "27Q260",
+                    "properties": [
+                        {
+                            "travel_time": 6500
+                        }
+                    ]
+                },
+                {
+                    "id": "30Q445",
+                    "properties": [
+                        {
+                            "travel_time": 4731
+                        }
+                    ]
+                },
+                {
+                    "id": "19K639",
+                    "properties": [
+                        {
+                            "travel_time": 4435
+                        }
+                    ]
+                },
+                {
+                    "id": "24Q485",
+                    "properties": [
+                        {
+                            "travel_time": 5367
+                        }
+                    ]
+                },
+                {
+                    "id": "28Q690",
+                    "properties": [
+                        {
+                            "travel_time": 3157
+                        }
+                    ]
+                },
+                {
+                    "id": "10X225",
+                    "properties": [
+                        {
+                            "travel_time": 7434
+                        }
+                    ]
+                },
+                {
+                    "id": "31R445",
+                    "properties": [
+                        {
+                            "travel_time": 8749
+                        }
+                    ]
+                },
+                {
+                    "id": "02M399",
+                    "properties": [
+                        {
+                            "travel_time": 5413
+                        }
+                    ]
+                },
+                {
+                    "id": "09X297",
+                    "properties": [
+                        {
+                            "travel_time": 6634
+                        }
+                    ]
+                },
+                {
+                    "id": "12X521",
+                    "properties": [
+                        {
+                            "travel_time": 7261
+                        }
+                    ]
+                },
+                {
+                    "id": "13K499",
+                    "properties": [
+                        {
+                            "travel_time": 4854
+                        }
+                    ]
+                },
+                {
+                    "id": "21K525",
+                    "properties": [
+                        {
+                            "travel_time": 6253
+                        }
+                    ]
+                },
+                {
+                    "id": "18K629",
+                    "properties": [
+                        {
+                            "travel_time": 5916
+                        }
+                    ]
+                },
+                {
+                    "id": "12X550",
+                    "properties": [
+                        {
+                            "travel_time": 7261
+                        }
+                    ]
+                },
+                {
+                    "id": "09X327",
+                    "properties": [
+                        {
+                            "travel_time": 6101
+                        }
+                    ]
+                },
+                {
+                    "id": "08X367",
+                    "properties": [
+                        {
+                            "travel_time": 7523
+                        }
+                    ]
+                },
+                {
+                    "id": "25Q460",
+                    "properties": [
+                        {
+                            "travel_time": 4786
+                        }
+                    ]
+                },
+                {
+                    "id": "16K455",
+                    "properties": [
+                        {
+                            "travel_time": 4366
+                        }
+                    ]
+                },
+                {
+                    "id": "28Q440",
+                    "properties": [
+                        {
+                            "travel_time": 4949
+                        }
+                    ]
+                },
+                {
+                    "id": "02M316",
+                    "properties": [
+                        {
+                            "travel_time": 5029
+                        }
+                    ]
+                },
+                {
+                    "id": "09X568",
+                    "properties": [
+                        {
+                            "travel_time": 6647
+                        }
+                    ]
+                },
+                {
+                    "id": "07X259",
+                    "properties": [
+                        {
+                            "travel_time": 6586
+                        }
+                    ]
+                },
+                {
+                    "id": "01M509",
+                    "properties": [
+                        {
+                            "travel_time": 6330
+                        }
+                    ]
+                },
+                {
+                    "id": "02M298",
+                    "properties": [
+                        {
+                            "travel_time": 5276
+                        }
+                    ]
+                },
+                {
+                    "id": "07X600",
+                    "properties": [
+                        {
+                            "travel_time": 6024
+                        }
+                    ]
+                },
+                {
+                    "id": "02M519",
+                    "properties": [
+                        {
+                            "travel_time": 5197
+                        }
+                    ]
+                },
+                {
+                    "id": "17K524",
+                    "properties": [
+                        {
+                            "travel_time": 5280
+                        }
+                    ]
+                },
+                {
+                    "id": "20K609",
+                    "properties": [
+                        {
+                            "travel_time": 5773
+                        }
+                    ]
+                },
+                {
+                    "id": "18K637",
+                    "properties": [
+                        {
+                            "travel_time": 5009
+                        }
+                    ]
+                },
+                {
+                    "id": "31R460",
+                    "properties": [
+                        {
+                            "travel_time": 8270
+                        }
+                    ]
+                },
+                {
+                    "id": "16K765",
+                    "properties": [
+                        {
+                            "travel_time": 4366
+                        }
+                    ]
+                },
+                {
+                    "id": "26Q495",
+                    "properties": [
+                        {
+                            "travel_time": 5228
+                        }
+                    ]
+                },
+                {
+                    "id": "29Q498",
+                    "properties": [
+                        {
+                            "travel_time": 1536
+                        }
+                    ]
+                },
+                {
+                    "id": "22K405",
+                    "properties": [
+                        {
+                            "travel_time": 5768
+                        }
+                    ]
+                },
+                {
+                    "id": "02M432",
+                    "properties": [
+                        {
+                            "travel_time": 4928
+                        }
+                    ]
+                },
+                {
+                    "id": "02M533",
+                    "properties": [
+                        {
+                            "travel_time": 5413
+                        }
+                    ]
+                },
+                {
+                    "id": "25Q240",
+                    "properties": [
+                        {
+                            "travel_time": 4786
+                        }
+                    ]
+                },
+                {
+                    "id": "18K576",
+                    "properties": [
+                        {
+                            "travel_time": 5009
+                        }
+                    ]
+                },
+                {
+                    "id": "10X477",
+                    "properties": [
+                        {
+                            "travel_time": 6503
+                        }
+                    ]
+                },
+                {
+                    "id": "24Q550",
+                    "properties": [
+                        {
+                            "travel_time": 4995
+                        }
+                    ]
+                },
+                {
+                    "id": "02M305",
+                    "properties": [
+                        {
+                            "travel_time": 5486
+                        }
+                    ]
+                },
+                {
+                    "id": "04M555",
+                    "properties": [
+                        {
+                            "travel_time": 6065
+                        }
+                    ]
+                },
+                {
+                    "id": "06M346",
+                    "properties": [
+                        {
+                            "travel_time": 6172
+                        }
+                    ]
+                },
+                {
+                    "id": "25Q241",
+                    "properties": [
+                        {
+                            "travel_time": 4786
+                        }
+                    ]
+                },
+                {
+                    "id": "28Q896",
+                    "properties": [
+                        {
+                            "travel_time": 3267
+                        }
+                    ]
+                },
+                {
+                    "id": "21K468",
+                    "properties": [
+                        {
+                            "travel_time": 7367
+                        }
+                    ]
+                },
+                {
+                    "id": "09X564",
+                    "properties": [
+                        {
+                            "travel_time": 6919
+                        }
+                    ]
+                },
+                {
+                    "id": "10X442",
+                    "properties": [
+                        {
+                            "travel_time": 6922
+                        }
+                    ]
+                },
+                {
+                    "id": "02M414",
+                    "properties": [
+                        {
+                            "travel_time": 4932
+                        }
+                    ]
+                },
+                {
+                    "id": "28Q687",
+                    "properties": [
+                        {
+                            "travel_time": 3257
+                        }
+                    ]
+                },
+                {
+                    "id": "02M543",
+                    "properties": [
+                        {
+                            "travel_time": 5486
+                        }
+                    ]
+                },
+                {
+                    "id": "14K454",
+                    "properties": [
+                        {
+                            "travel_time": 5293
+                        }
+                    ]
+                },
+                {
+                    "id": "06M540",
+                    "properties": [
+                        {
+                            "travel_time": 6359
+                        }
+                    ]
+                },
+                {
+                    "id": "13K483",
+                    "properties": [
+                        {
+                            "travel_time": 4996
+                        }
+                    ]
+                },
+                {
+                    "id": "09X412",
+                    "properties": [
+                        {
+                            "travel_time": 6919
+                        }
+                    ]
+                },
+                {
+                    "id": "16K498",
+                    "properties": [
+                        {
+                            "travel_time": 5268
+                        }
+                    ]
+                },
+                {
+                    "id": "05M670",
+                    "properties": [
+                        {
+                            "travel_time": 6247
+                        }
+                    ]
+                },
+                {
+                    "id": "05M362",
+                    "properties": [
+                        {
+                            "travel_time": 6250
+                        }
+                    ]
+                },
+                {
+                    "id": "02M507",
+                    "properties": [
+                        {
+                            "travel_time": 5777
+                        }
+                    ]
+                },
+                {
+                    "id": "27Q351",
+                    "properties": [
+                        {
+                            "travel_time": 6194
+                        }
+                    ]
+                },
+                {
+                    "id": "17K546",
+                    "properties": [
+                        {
+                            "travel_time": 5799
+                        }
+                    ]
+                },
+                {
+                    "id": "03M479",
+                    "properties": [
+                        {
+                            "travel_time": 6230
+                        }
+                    ]
+                },
+                {
+                    "id": "23K493",
+                    "properties": [
+                        {
+                            "travel_time": 4912
+                        }
+                    ]
+                },
+                {
+                    "id": "24Q293",
+                    "properties": [
+                        {
+                            "travel_time": 4668
+                        }
+                    ]
+                },
+                {
+                    "id": "25Q670",
+                    "properties": [
+                        {
+                            "travel_time": 4368
+                        }
+                    ]
+                },
+                {
+                    "id": "26Q415",
+                    "properties": [
+                        {
+                            "travel_time": 3769
+                        }
+                    ]
+                },
+                {
+                    "id": "02M439",
+                    "properties": [
+                        {
+                            "travel_time": 5265
+                        }
+                    ]
+                },
+                {
+                    "id": "10X268",
+                    "properties": [
+                        {
+                            "travel_time": 6922
+                        }
+                    ]
+                },
+                {
+                    "id": "25Q252",
+                    "properties": [
+                        {
+                            "travel_time": 4016
+                        }
+                    ]
+                },
+                {
+                    "id": "17K600",
+                    "properties": [
+                        {
+                            "travel_time": 5344
+                        }
+                    ]
+                },
+                {
+                    "id": "18K567",
+                    "properties": [
+                        {
+                            "travel_time": 5009
+                        }
+                    ]
+                },
+                {
+                    "id": "13K594",
+                    "properties": [
+                        {
+                            "travel_time": 4854
+                        }
+                    ]
+                },
+                {
+                    "id": "10X565",
+                    "properties": [
+                        {
+                            "travel_time": 7325
+                        }
+                    ]
+                },
+                {
+                    "id": "12X684",
+                    "properties": [
+                        {
+                            "travel_time": 6725
+                        }
+                    ]
+                },
+                {
+                    "id": "02M529",
+                    "properties": [
+                        {
+                            "travel_time": 5352
+                        }
+                    ]
+                },
+                {
+                    "id": "19K583",
+                    "properties": [
+                        {
+                            "travel_time": 4435
+                        }
+                    ]
+                },
+                {
+                    "id": "19K615",
+                    "properties": [
+                        {
+                            "travel_time": 5054
+                        }
+                    ]
+                },
+                {
+                    "id": "25Q285",
+                    "properties": [
+                        {
+                            "travel_time": 5452
+                        }
+                    ]
+                },
+                {
+                    "id": "11X514",
+                    "properties": [
+                        {
+                            "travel_time": 7897
+                        }
+                    ]
+                },
+                {
+                    "id": "02M546",
+                    "properties": [
+                        {
+                            "travel_time": 5413
+                        }
+                    ]
+                },
+                {
+                    "id": "06M348",
+                    "properties": [
+                        {
+                            "travel_time": 6420
+                        }
+                    ]
+                },
+                {
+                    "id": "11X265",
+                    "properties": [
+                        {
+                            "travel_time": 7395
+                        }
+                    ]
+                },
+                {
+                    "id": "02M408",
+                    "properties": [
+                        {
+                            "travel_time": 4876
+                        }
+                    ]
+                },
+                {
+                    "id": "26Q430",
+                    "properties": [
+                        {
+                            "travel_time": 3656
+                        }
+                    ]
+                },
+                {
+                    "id": "13K265",
+                    "properties": [
+                        {
+                            "travel_time": 5596
+                        }
+                    ]
+                },
+                {
+                    "id": "08X530",
+                    "properties": [
+                        {
+                            "travel_time": 6089
+                        }
+                    ]
+                },
+                {
+                    "id": "02M615",
+                    "properties": [
+                        {
+                            "travel_time": 5606
+                        }
+                    ]
+                },
+                {
+                    "id": "19K660",
+                    "properties": [
+                        {
+                            "travel_time": 5071
+                        }
+                    ]
+                },
+                {
+                    "id": "25Q263",
+                    "properties": [
+                        {
+                            "travel_time": 5238
+                        }
+                    ]
+                },
+                {
+                    "id": "02M135",
+                    "properties": [
+                        {
+                            "travel_time": 6236
+                        }
+                    ]
+                },
+                {
+                    "id": "02M475",
+                    "properties": [
+                        {
+                            "travel_time": 5632
+                        }
+                    ]
+                },
+                {
+                    "id": "07X221",
+                    "properties": [
+                        {
+                            "travel_time": 5832
+                        }
+                    ]
+                },
+                {
+                    "id": "03M291",
+                    "properties": [
+                        {
+                            "travel_time": 5365
+                        }
+                    ]
+                },
+                {
+                    "id": "32K552",
+                    "properties": [
+                        {
+                            "travel_time": 5485
+                        }
+                    ]
+                },
+                {
+                    "id": "27Q323",
+                    "properties": [
+                        {
+                            "travel_time": 5886
+                        }
+                    ]
+                },
+                {
+                    "id": "02M374",
+                    "properties": [
+                        {
+                            "travel_time": 5413
+                        }
+                    ]
+                },
+                {
+                    "id": "10X433",
+                    "properties": [
+                        {
+                            "travel_time": 6922
+                        }
+                    ]
+                },
+                {
+                    "id": "10X439",
+                    "properties": [
+                        {
+                            "travel_time": 7346
+                        }
+                    ]
+                },
+                {
+                    "id": "19K659",
+                    "properties": [
+                        {
+                            "travel_time": 4435
+                        }
+                    ]
+                },
+                {
+                    "id": "31R080",
+                    "properties": [
+                        {
+                            "travel_time": 8191
+                        }
+                    ]
+                },
+                {
+                    "id": "12X388",
+                    "properties": [
+                        {
+                            "travel_time": 7261
+                        }
+                    ]
+                },
+                {
+                    "id": "02M139",
+                    "properties": [
+                        {
+                            "travel_time": 5777
+                        }
+                    ]
+                },
+                {
+                    "id": "14K558",
+                    "properties": [
+                        {
+                            "travel_time": 6079
+                        }
+                    ]
+                },
+                {
+                    "id": "19K502",
+                    "properties": [
+                        {
+                            "travel_time": 4264
+                        }
+                    ]
+                },
+                {
+                    "id": "17K751",
+                    "properties": [
+                        {
+                            "travel_time": 4970
+                        }
+                    ]
+                },
+                {
+                    "id": "10X213",
+                    "properties": [
+                        {
+                            "travel_time": 6503
+                        }
+                    ]
+                },
+                {
+                    "id": "14K561",
+                    "properties": [
+                        {
+                            "travel_time": 6079
+                        }
+                    ]
+                },
+                {
+                    "id": "02M419",
+                    "properties": [
+                        {
+                            "travel_time": 5531
+                        }
+                    ]
+                },
+                {
+                    "id": "29Q265",
+                    "properties": [
+                        {
+                            "travel_time": 1667
+                        }
+                    ]
+                },
+                {
+                    "id": "23K697",
+                    "properties": [
+                        {
+                            "travel_time": 5383
+                        }
+                    ]
+                },
+                {
+                    "id": "03M859",
+                    "properties": [
+                        {
+                            "travel_time": 5891
+                        }
+                    ]
+                },
+                {
+                    "id": "12X511",
+                    "properties": [
+                        {
+                            "travel_time": 6919
+                        }
+                    ]
+                },
+                {
+                    "id": "30Q286",
+                    "properties": [
+                        {
+                            "travel_time": 5515
+                        }
+                    ]
+                },
+                {
+                    "id": "11X508",
+                    "properties": [
+                        {
+                            "travel_time": 7452
+                        }
+                    ]
+                },
+                {
+                    "id": "06M462",
+                    "properties": [
+                        {
+                            "travel_time": 6498
+                        }
+                    ]
+                },
+                {
+                    "id": "02M412",
+                    "properties": [
+                        {
+                            "travel_time": 4932
+                        }
+                    ]
+                },
+                {
+                    "id": "23K644",
+                    "properties": [
+                        {
+                            "travel_time": 4888
+                        }
+                    ]
+                },
+                {
+                    "id": "10X438",
+                    "properties": [
+                        {
+                            "travel_time": 7346
+                        }
+                    ]
+                },
+                {
+                    "id": "30Q258",
+                    "properties": [
+                        {
+                            "travel_time": 4802
+                        }
+                    ]
+                },
+                {
+                    "id": "27Q650",
+                    "properties": [
+                        {
+                            "travel_time": 4472
+                        }
+                    ]
+                },
+                {
+                    "id": "19K409",
+                    "properties": [
+                        {
+                            "travel_time": 5936
+                        }
+                    ]
+                },
+                {
+                    "id": "32K403",
+                    "properties": [
+                        {
+                            "travel_time": 5485
+                        }
+                    ]
+                },
+                {
+                    "id": "24Q264",
+                    "properties": [
+                        {
+                            "travel_time": 4521
+                        }
+                    ]
+                },
+                {
+                    "id": "18K642",
+                    "properties": [
+                        {
+                            "travel_time": 4769
+                        }
+                    ]
+                },
+                {
+                    "id": "11X418",
+                    "properties": [
+                        {
+                            "travel_time": 6987
+                        }
+                    ]
+                },
+                {
+                    "id": "24Q585",
+                    "properties": [
+                        {
+                            "travel_time": 4652
+                        }
+                    ]
+                },
+                {
+                    "id": "29Q248",
+                    "properties": [
+                        {
+                            "travel_time": 1667
+                        }
+                    ]
+                },
+                {
+                    "id": "29Q326",
+                    "properties": [
+                        {
+                            "travel_time": 2777
+                        }
+                    ]
+                },
+                {
+                    "id": "03M541",
+                    "properties": [
+                        {
+                            "travel_time": 5891
+                        }
+                    ]
+                },
+                {
+                    "id": "01M696",
+                    "properties": [
+                        {
+                            "travel_time": 6405
+                        }
+                    ]
+                },
+                {
+                    "id": "27Q308",
+                    "properties": [
+                        {
+                            "travel_time": 4289
+                        }
+                    ]
+                },
+                {
+                    "id": "27Q334",
+                    "properties": [
+                        {
+                            "travel_time": 4154
+                        }
+                    ]
+                },
+                {
+                    "id": "22K630",
+                    "properties": [
+                        {
+                            "travel_time": 6712
+                        }
+                    ]
+                },
+                {
+                    "id": "15K464",
+                    "properties": [
+                        {
+                            "travel_time": 5518
+                        }
+                    ]
+                },
+                {
+                    "id": "21K337",
+                    "properties": [
+                        {
+                            "travel_time": 7367
+                        }
+                    ]
+                },
+                {
+                    "id": "11X544",
+                    "properties": [
+                        {
+                            "travel_time": 7395
+                        }
+                    ]
+                },
+                {
+                    "id": "17K745",
+                    "properties": [
+                        {
+                            "travel_time": 5799
+                        }
+                    ]
+                },
+                {
+                    "id": "15K684",
+                    "properties": [
+                        {
+                            "travel_time": 5518
+                        }
+                    ]
+                },
+                {
+                    "id": "24Q296",
+                    "properties": [
+                        {
+                            "travel_time": 4668
+                        }
+                    ]
+                },
+                {
+                    "id": "11X270",
+                    "properties": [
+                        {
+                            "travel_time": 7897
+                        }
+                    ]
+                },
+                {
+                    "id": "10X342",
+                    "properties": [
+                        {
+                            "travel_time": 6922
+                        }
+                    ]
+                },
+                {
+                    "id": "02M427",
+                    "properties": [
+                        {
+                            "travel_time": 4928
+                        }
+                    ]
+                },
+                {
+                    "id": "09X404",
+                    "properties": [
+                        {
+                            "travel_time": 6634
+                        }
+                    ]
+                },
+                {
+                    "id": "14K685",
+                    "properties": [
+                        {
+                            "travel_time": 5227
+                        }
+                    ]
+                },
+                {
+                    "id": "30Q575",
+                    "properties": [
+                        {
+                            "travel_time": 4742
+                        }
+                    ]
+                },
+                {
+                    "id": "10X284",
+                    "properties": [
+                        {
+                            "travel_time": 6503
+                        }
+                    ]
+                },
+                {
+                    "id": "11X288",
+                    "properties": [
+                        {
+                            "travel_time": 7452
+                        }
+                    ]
+                },
+                {
+                    "id": "21K348",
+                    "properties": [
+                        {
+                            "travel_time": 7367
+                        }
+                    ]
+                },
+                {
+                    "id": "09X231",
+                    "properties": [
+                        {
+                            "travel_time": 6824
+                        }
+                    ]
+                },
+                {
+                    "id": "10X237",
+                    "properties": [
+                        {
+                            "travel_time": 7113
+                        }
+                    ]
+                },
+                {
+                    "id": "29Q259",
+                    "properties": [
+                        {
+                            "travel_time": 2995
+                        }
+                    ]
+                },
+                {
+                    "id": "12X479",
+                    "properties": [
+                        {
+                            "travel_time": 6765
+                        }
+                    ]
+                },
+                {
+                    "id": "17K531",
+                    "properties": [
+                        {
+                            "travel_time": 5799
+                        }
+                    ]
+                },
+                {
+                    "id": "08X320",
+                    "properties": [
+                        {
+                            "travel_time": 7464
+                        }
+                    ]
+                },
+                {
+                    "id": "09X350",
+                    "properties": [
+                        {
+                            "travel_time": 6919
+                        }
+                    ]
+                },
+                {
+                    "id": "02M531",
+                    "properties": [
+                        {
+                            "travel_time": 5298
+                        }
+                    ]
+                },
+                {
+                    "id": "02M438",
+                    "properties": [
+                        {
+                            "travel_time": 5413
+                        }
+                    ]
+                },
+                {
+                    "id": "04M610",
+                    "properties": [
+                        {
+                            "travel_time": 5489
+                        }
+                    ]
+                },
+                {
+                    "id": "08X561",
+                    "properties": [
+                        {
+                            "travel_time": 6972
+                        }
+                    ]
+                },
+                {
+                    "id": "29Q243",
+                    "properties": [
+                        {
+                            "travel_time": 1536
+                        }
+                    ]
+                },
+                {
+                    "id": "21K410",
+                    "properties": [
+                        {
+                            "travel_time": 6346
+                        }
+                    ]
+                },
+                {
+                    "id": "27Q324",
+                    "properties": [
+                        {
+                            "travel_time": 6194
+                        }
+                    ]
+                },
+                {
+                    "id": "31R047",
+                    "properties": [
+                        {
+                            "travel_time": 8636
+                        }
+                    ]
+                },
+                {
+                    "id": "18K566",
+                    "properties": [
+                        {
+                            "travel_time": 5009
+                        }
+                    ]
+                },
+                {
+                    "id": "02M294",
+                    "properties": [
+                        {
+                            "travel_time": 5486
+                        }
+                    ]
+                },
+                {
+                    "id": "30Q555",
+                    "properties": [
+                        {
+                            "travel_time": 4741
+                        }
+                    ]
+                },
+                {
+                    "id": "11X299",
+                    "properties": [
+                        {
+                            "travel_time": 7452
+                        }
+                    ]
+                },
+                {
+                    "id": "24Q530",
+                    "properties": [
+                        {
+                            "travel_time": 4639
+                        }
+                    ]
+                },
+                {
+                    "id": "12X271",
+                    "properties": [
+                        {
+                            "travel_time": 6092
+                        }
+                    ]
+                },
+                {
+                    "id": "10X524",
+                    "properties": [
+                        {
+                            "travel_time": 7325
+                        }
+                    ]
+                },
+                {
+                    "id": "28Q167",
+                    "properties": [
+                        {
+                            "travel_time": 4517
+                        }
+                    ]
+                },
+                {
+                    "id": "26Q315",
+                    "properties": [
+                        {
+                            "travel_time": 3378
+                        }
+                    ]
+                },
+                {
+                    "id": "02M605",
+                    "properties": [
+                        {
+                            "travel_time": 5531
+                        }
+                    ]
+                },
+                {
+                    "id": "01M450",
+                    "properties": [
+                        {
+                            "travel_time": 6058
+                        }
+                    ]
+                },
+                {
+                    "id": "18K633",
+                    "properties": [
+                        {
+                            "travel_time": 4769
+                        }
+                    ]
+                },
+                {
+                    "id": "03M415",
+                    "properties": [
+                        {
+                            "travel_time": 5817
+                        }
+                    ]
+                },
+                {
+                    "id": "31R605",
+                    "properties": [
+                        {
+                            "travel_time": 7748
+                        }
+                    ]
+                },
+                {
+                    "id": "13K412",
+                    "properties": [
+                        {
+                            "travel_time": 5412
+                        }
+                    ]
+                },
+                {
+                    "id": "15K429",
+                    "properties": [
+                        {
+                            "travel_time": 6058
+                        }
+                    ]
+                },
+                {
+                    "id": "21K572",
+                    "properties": [
+                        {
+                            "travel_time": 7367
+                        }
+                    ]
+                },
+                {
+                    "id": "07X670",
+                    "properties": [
+                        {
+                            "travel_time": 6537
+                        }
+                    ]
+                },
+                {
+                    "id": "04M680",
+                    "properties": [
+                        {
+                            "travel_time": 5383
+                        }
+                    ]
+                },
+                {
+                    "id": "13K595",
+                    "properties": [
+                        {
+                            "travel_time": 4529
+                        }
+                    ]
+                },
+                {
+                    "id": "10X445",
+                    "properties": [
+                        {
+                            "travel_time": 6879
+                        }
+                    ]
+                },
+                {
+                    "id": "07X427",
+                    "properties": [
+                        {
+                            "travel_time": 6537
+                        }
+                    ]
+                },
+                {
+                    "id": "02M413",
+                    "properties": [
+                        {
+                            "travel_time": 5120
+                        }
+                    ]
+                },
+                {
+                    "id": "02M280",
+                    "properties": [
+                        {
+                            "travel_time": 6236
+                        }
+                    ]
+                },
+                {
+                    "id": "27Q302",
+                    "properties": [
+                        {
+                            "travel_time": 6500
+                        }
+                    ]
+                },
+                {
+                    "id": "17K547",
+                    "properties": [
+                        {
+                            "travel_time": 5280
+                        }
+                    ]
+                },
+                {
+                    "id": "24Q455",
+                    "properties": [
+                        {
+                            "travel_time": 4428
+                        }
+                    ]
+                },
+                {
+                    "id": "13K430",
+                    "properties": [
+                        {
+                            "travel_time": 5231
+                        }
+                    ]
+                },
+                {
+                    "id": "28Q325",
+                    "properties": [
+                        {
+                            "travel_time": 3770
+                        }
+                    ]
+                },
+                {
+                    "id": "02M418",
+                    "properties": [
+                        {
+                            "travel_time": 5441
+                        }
+                    ]
+                },
+                {
+                    "id": "17K382",
+                    "properties": [
+                        {
+                            "travel_time": 5391
+                        }
+                    ]
+                },
+                {
+                    "id": "02M520",
+                    "properties": [
+                        {
+                            "travel_time": 6236
+                        }
+                    ]
+                },
+                {
+                    "id": "06M552",
+                    "properties": [
+                        {
+                            "travel_time": 6171
+                        }
+                    ]
+                },
+                {
+                    "id": "28Q328",
+                    "properties": [
+                        {
+                            "travel_time": 3770
+                        }
+                    ]
+                },
+                {
+                    "id": "02M449",
+                    "properties": [
+                        {
+                            "travel_time": 5197
+                        }
+                    ]
+                },
+                {
+                    "id": "19K510",
+                    "properties": [
+                        {
+                            "travel_time": 4264
+                        }
+                    ]
+                },
+                {
+                    "id": "29Q272",
+                    "properties": [
+                        {
+                            "travel_time": 1667
+                        }
+                    ]
+                },
+                {
+                    "id": "02M407",
+                    "properties": [
+                        {
+                            "travel_time": 5885
+                        }
+                    ]
+                },
+                {
+                    "id": "10X374",
+                    "properties": [
+                        {
+                            "travel_time": 7346
+                        }
+                    ]
+                },
+                {
+                    "id": "22K611",
+                    "properties": [
+                        {
+                            "travel_time": 6712
+                        }
+                    ]
+                },
+                {
+                    "id": "28Q284",
+                    "properties": [
+                        {
+                            "travel_time": 2641
+                        }
+                    ]
+                },
+                {
+                    "id": "22K555",
+                    "properties": [
+                        {
+                            "travel_time": 5426
+                        }
+                    ]
+                },
+                {
+                    "id": "02M416",
+                    "properties": [
+                        {
+                            "travel_time": 5989
+                        }
+                    ]
+                },
+                {
+                    "id": "09X263",
+                    "properties": [
+                        {
+                            "travel_time": 6672
+                        }
+                    ]
+                },
+                {
+                    "id": "03M485",
+                    "properties": [
+                        {
+                            "travel_time": 5945
+                        }
+                    ]
+                },
+                {
+                    "id": "03M403",
+                    "properties": [
+                        {
+                            "travel_time": 5291
+                        }
+                    ]
+                },
+                {
+                    "id": "02M489",
+                    "properties": [
+                        {
+                            "travel_time": 5354
+                        }
+                    ]
+                },
+                {
+                    "id": "02M459",
+                    "properties": [
+                        {
+                            "travel_time": 5197
+                        }
+                    ]
+                },
+                {
+                    "id": "02M545",
+                    "properties": [
+                        {
+                            "travel_time": 5486
+                        }
+                    ]
+                },
+                {
+                    "id": "06M467",
+                    "properties": [
+                        {
+                            "travel_time": 6498
+                        }
+                    ]
+                },
+                {
+                    "id": "14K586",
+                    "properties": [
+                        {
+                            "travel_time": 5293
+                        }
+                    ]
+                },
+                {
+                    "id": "14K449",
+                    "properties": [
+                        {
+                            "travel_time": 5293
+                        }
+                    ]
+                },
+                {
+                    "id": "07X500",
+                    "properties": [
+                        {
+                            "travel_time": 5875
+                        }
+                    ]
+                },
+                {
+                    "id": "19K618",
+                    "properties": [
+                        {
+                            "travel_time": 4435
+                        }
+                    ]
+                },
+                {
+                    "id": "02M308",
+                    "properties": [
+                        {
+                            "travel_time": 5486
+                        }
+                    ]
+                },
+                {
+                    "id": "09X324",
+                    "properties": [
+                        {
+                            "travel_time": 6474
+                        }
+                    ]
+                },
+                {
+                    "id": "09X505",
+                    "properties": [
+                        {
+                            "travel_time": 6598
+                        }
+                    ]
+                },
+                {
+                    "id": "10X351",
+                    "properties": [
+                        {
+                            "travel_time": 7227
+                        }
+                    ]
+                },
+                {
+                    "id": "03M492",
+                    "properties": [
+                        {
+                            "travel_time": 5891
+                        }
+                    ]
+                },
+                {
+                    "id": "08X432",
+                    "properties": [
+                        {
+                            "travel_time": 6972
+                        }
+                    ]
+                },
+                {
+                    "id": "31R440",
+                    "properties": [
+                        {
+                            "travel_time": 8053
+                        }
+                    ]
+                },
+                {
+                    "id": "02M422",
+                    "properties": [
+                        {
+                            "travel_time": 5531
+                        }
+                    ]
+                },
+                {
+                    "id": "16K688",
+                    "properties": [
+                        {
+                            "travel_time": 6056
+                        }
+                    ]
+                },
+                {
+                    "id": "18K563",
+                    "properties": [
+                        {
+                            "travel_time": 5916
+                        }
+                    ]
+                },
+                {
+                    "id": "14K488",
+                    "properties": [
+                        {
+                            "travel_time": 6079
+                        }
+                    ]
+                },
+                {
+                    "id": "11X545",
+                    "properties": [
+                        {
+                            "travel_time": 7395
+                        }
+                    ]
+                },
+                {
+                    "id": "27Q480",
+                    "properties": [
+                        {
+                            "travel_time": 3750
+                        }
+                    ]
+                },
+                {
+                    "id": "13K674",
+                    "properties": [
+                        {
+                            "travel_time": 5074
+                        }
+                    ]
+                },
+                {
+                    "id": "02M542",
+                    "properties": [
+                        {
+                            "travel_time": 6143
+                        }
+                    ]
+                },
+                {
+                    "id": "29Q283",
+                    "properties": [
+                        {
+                            "travel_time": 1667
+                        }
+                    ]
+                },
+                {
+                    "id": "15K497",
+                    "properties": [
+                        {
+                            "travel_time": 6058
+                        }
+                    ]
+                },
+                {
+                    "id": "06M423",
+                    "properties": [
+                        {
+                            "travel_time": 6746
+                        }
+                    ]
+                },
+                {
+                    "id": "05M369",
+                    "properties": [
+                        {
+                            "travel_time": 6091
+                        }
+                    ]
+                },
+                {
+                    "id": "09X252",
+                    "properties": [
+                        {
+                            "travel_time": 6672
+                        }
+                    ]
+                },
+                {
+                    "id": "26Q566",
+                    "properties": [
+                        {
+                            "travel_time": 4338
+                        }
+                    ]
+                },
+                {
+                    "id": "32K556",
+                    "properties": [
+                        {
+                            "travel_time": 4842
+                        }
+                    ]
+                },
+                {
+                    "id": "06M463",
+                    "properties": [
+                        {
+                            "travel_time": 6498
+                        }
+                    ]
+                },
+                {
+                    "id": "25Q525",
+                    "properties": [
+                        {
+                            "travel_time": 4446
+                        }
+                    ]
+                },
+                {
+                    "id": "15K519",
+                    "properties": [
+                        {
+                            "travel_time": 5137
+                        }
+                    ]
+                },
+                {
+                    "id": "22K425",
+                    "properties": [
+                        {
+                            "travel_time": 6513
+                        }
+                    ]
+                },
+                {
+                    "id": "21K344",
+                    "properties": [
+                        {
+                            "travel_time": 6791
+                        }
+                    ]
+                },
+                {
+                    "id": "08X293",
+                    "properties": [
+                        {
+                            "travel_time": 7464
+                        }
+                    ]
+                },
+                {
+                    "id": "31R600",
+                    "properties": [
+                        {
+                            "travel_time": 7627
+                        }
+                    ]
+                },
+                {
+                    "id": "10X696",
+                    "properties": [
+                        {
+                            "travel_time": 7692
+                        }
+                    ]
+                },
+                {
+                    "id": "13K439",
+                    "properties": [
+                        {
+                            "travel_time": 6766
+                        }
+                    ]
+                },
+                {
+                    "id": "13K670",
+                    "properties": [
+                        {
+                            "travel_time": 7756
+                        }
+                    ]
+                },
+                {
+                    "id": "10X437",
+                    "properties": [
+                        {
+                            "travel_time": 7346
+                        }
+                    ]
+                },
+                {
+                    "id": "09X241",
+                    "properties": [
+                        {
+                            "travel_time": 6672
+                        }
+                    ]
+                },
+                {
+                    "id": "06M293",
+                    "properties": [
+                        {
+                            "travel_time": 7011
+                        }
+                    ]
+                },
+                {
+                    "id": "29Q492",
+                    "properties": [
+                        {
+                            "travel_time": 1536
+                        }
+                    ]
+                },
+                {
+                    "id": "13K605",
+                    "properties": [
+                        {
+                            "travel_time": 5074
+                        }
+                    ]
+                },
+                {
+                    "id": "32K545",
+                    "properties": [
+                        {
+                            "travel_time": 4668
+                        }
+                    ]
+                },
+                {
+                    "id": "03M307",
+                    "properties": [
+                        {
+                            "travel_time": 5891
+                        }
+                    ]
+                },
+                {
+                    "id": "15K423",
+                    "properties": [
+                        {
+                            "travel_time": 4751
+                        }
+                    ]
+                },
+                {
+                    "id": "09X329",
+                    "properties": [
+                        {
+                            "travel_time": 6919
+                        }
+                    ]
+                },
+                {
+                    "id": "10X368",
+                    "properties": [
+                        {
+                            "travel_time": 7493
+                        }
+                    ]
+                },
+                {
+                    "id": "14K474",
+                    "properties": [
+                        {
+                            "travel_time": 4596
+                        }
+                    ]
+                },
+                {
+                    "id": "12X682",
+                    "properties": [
+                        {
+                            "travel_time": 6945
+                        }
+                    ]
+                },
+                {
+                    "id": "10X243",
+                    "properties": [
+                        {
+                            "travel_time": 7346
+                        }
+                    ]
+                },
+                {
+                    "id": "28Q620",
+                    "properties": [
+                        {
+                            "travel_time": 3820
+                        }
+                    ]
+                },
+                {
+                    "id": "05M148",
+                    "properties": [
+                        {
+                            "travel_time": 5633
+                        }
+                    ]
+                },
+                {
+                    "id": "18K569",
+                    "properties": [
+                        {
+                            "travel_time": 5916
+                        }
+                    ]
+                },
+                {
+                    "id": "17K408",
+                    "properties": [
+                        {
+                            "travel_time": 5391
+                        }
+                    ]
+                },
+                {
+                    "id": "28Q310",
+                    "properties": [
+                        {
+                            "travel_time": 3770
+                        }
+                    ]
+                },
+                {
+                    "id": "07X223",
+                    "properties": [
+                        {
+                            "travel_time": 5832
+                        }
+                    ]
+                },
+                {
+                    "id": "18K617",
+                    "properties": [
+                        {
+                            "travel_time": 4769
+                        }
+                    ]
+                },
+                {
+                    "id": "21K540",
+                    "properties": [
+                        {
+                            "travel_time": 6578
+                        }
+                    ]
+                },
+                {
+                    "id": "27Q400",
+                    "properties": [
+                        {
+                            "travel_time": 3345
+                        }
+                    ]
+                },
+                {
+                    "id": "04M372",
+                    "properties": [
+                        {
+                            "travel_time": 6250
+                        }
+                    ]
+                },
+                {
+                    "id": "14K478",
+                    "properties": [
+                        {
+                            "travel_time": 4596
+                        }
+                    ]
+                },
+                {
+                    "id": "08X376",
+                    "properties": [
+                        {
+                            "travel_time": 6972
+                        }
+                    ]
+                },
+                {
+                    "id": "12X248",
+                    "properties": [
+                        {
+                            "travel_time": 6417
+                        }
+                    ]
+                },
+                {
+                    "id": "02M282",
+                    "properties": [
+                        {
+                            "travel_time": 6236
+                        }
+                    ]
+                },
+                {
+                    "id": "02M303",
+                    "properties": [
+                        {
+                            "travel_time": 6143
+                        }
+                    ]
+                },
+                {
+                    "id": "10X440",
+                    "properties": [
+                        {
+                            "travel_time": 7227
+                        }
+                    ]
+                },
+                {
+                    "id": "02M300",
+                    "properties": [
+                        {
+                            "travel_time": 6143
+                        }
+                    ]
+                },
+                {
+                    "id": "27Q309",
+                    "properties": [
+                        {
+                            "travel_time": 6500
+                        }
+                    ]
+                },
+                {
+                    "id": "02M437",
+                    "properties": [
+                        {
+                            "travel_time": 5531
+                        }
+                    ]
+                },
+                {
+                    "id": "30Q502",
+                    "properties": [
+                        {
+                            "travel_time": 4801
+                        }
+                    ]
+                },
+                {
+                    "id": "15K448",
+                    "properties": [
+                        {
+                            "travel_time": 6473
+                        }
+                    ]
+                },
+                {
+                    "id": "08X559",
+                    "properties": [
+                        {
+                            "travel_time": 6512
+                        }
+                    ]
+                },
+                {
+                    "id": "02M376",
+                    "properties": [
+                        {
+                            "travel_time": 5606
+                        }
+                    ]
+                },
+                {
+                    "id": "17K537",
+                    "properties": [
+                        {
+                            "travel_time": 5391
+                        }
+                    ]
+                },
+                {
+                    "id": "05M499",
+                    "properties": [
+                        {
+                            "travel_time": 6077
+                        }
+                    ]
+                },
+                {
+                    "id": "07X551",
+                    "properties": [
+                        {
+                            "travel_time": 5933
+                        }
+                    ]
+                },
+                {
+                    "id": "12X478",
+                    "properties": [
+                        {
+                            "travel_time": 6548
+                        }
+                    ]
+                },
+                {
+                    "id": "06M211",
+                    "properties": [
+                        {
+                            "travel_time": 6746
+                        }
+                    ]
+                },
+                {
+                    "id": "26Q435",
+                    "properties": [
+                        {
+                            "travel_time": 3378
+                        }
+                    ]
+                },
+                {
+                    "id": "09X227",
+                    "properties": [
+                        {
+                            "travel_time": 6919
+                        }
+                    ]
+                },
+                {
+                    "id": "03M299",
+                    "properties": [
+                        {
+                            "travel_time": 5891
+                        }
+                    ]
+                },
+                {
+                    "id": "24Q600",
+                    "properties": [
+                        {
+                            "travel_time": 4969
+                        }
+                    ]
+                },
+                {
+                    "id": "14K614",
+                    "properties": [
+                        {
+                            "travel_time": 5340
+                        }
+                    ]
+                },
+                {
+                    "id": "02M260",
+                    "properties": [
+                        {
+                            "travel_time": 5413
+                        }
+                    ]
+                },
+                {
+                    "id": "04M495",
+                    "properties": [
+                        {
+                            "travel_time": 5622
+                        }
+                    ]
+                },
+                {
+                    "id": "01M539",
+                    "properties": [
+                        {
+                            "travel_time": 6256
+                        }
+                    ]
+                },
+                {
+                    "id": "27Q475",
+                    "properties": [
+                        {
+                            "travel_time": 3775
+                        }
+                    ]
+                },
+                {
+                    "id": "07X527",
+                    "properties": [
+                        {
+                            "travel_time": 6117
+                        }
+                    ]
+                },
+                {
+                    "id": "08X405",
+                    "properties": [
+                        {
+                            "travel_time": 7464
+                        }
+                    ]
+                },
+                {
+                    "id": "31R455",
+                    "properties": [
+                        {
+                            "travel_time": 8875
+                        }
+                    ]
+                },
+                {
+                    "id": "24Q236",
+                    "properties": [
+                        {
+                            "travel_time": 4428
+                        }
+                    ]
+                },
+                {
+                    "id": "17K548",
+                    "properties": [
+                        {
+                            "travel_time": 5280
+                        }
+                    ]
+                },
+                {
+                    "id": "04M435",
+                    "properties": [
+                        {
+                            "travel_time": 6322
+                        }
+                    ]
+                },
+                {
+                    "id": "24Q520",
+                    "properties": [
+                        {
+                            "travel_time": 4639
+                        }
+                    ]
+                }
+            ],
+            "search_id": "forward search",
+            "unreachable": [
+                "25Q425"
+            ]
+        }
+    ]
+}
