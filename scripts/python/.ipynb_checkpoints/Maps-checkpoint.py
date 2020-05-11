@@ -23,37 +23,52 @@ geo_url = '../../data/geo/ctracts-minus-staten.geojson'
 csv_url = '../../data/info/ctracts.csv'
 
 ctracts = pd.read_csv(csv_url)
+# -
+
+cmp(30)
+
+cmp = branca.colormap.LinearColormap(
+    colors = [
+        (0.102,0.588,0.255,1.0),
+        (0.651,0.851,0.416,1.0),
+        (0.992,0.682,0.380,1.0),
+        (0.843,0.098,0.110,1.0)
+    ],
+    index = [10,50,90,130],
+    vmin = 10, vmax = 130    
+)
+cmp.caption = 'Average Commute (minutes)'
 
 # +
-m = folium.Map(location = loc)
+m = folium.Map(location = loc,tiles='cartodbpositron')
 
-commute = folium.Choropleth(
-    geo_data = geo_url,
-    data     = ctracts,
-    columns  = ['tract','travel_time'],
-    key_on   = 'feature.properties.tract',
-    fill_color = 'Purples',
-    fill_opacity = 0.7,
-    line_color = '#5b94eb',
-    line_weight = 0.7,
-    legend_name = 'Average Commute (minutes)',
-    highlight = True,
-    name = 'Average commute',
-).add_to(m)
+cmp.add_to(m)
+
+def style(feature):
+    ttime = feature['properties']['travel_time']
+    return {
+        'weight' : 0.3,
+        'color' : 'black',
+        'opacity' : 0.5,
+        'fillOpacity': 0.8,
+        'fillColor' : '#ffffff00' if ttime is None else cmp(ttime)
+    }
 
 folium.GeoJson(
     geo_url,
     name = 'Average Commute',
-    style_function = lambda x : {'opacity' : 0.0, 'fillOpacity' : 0.0},
+    style_function = style,
     tooltip = folium.GeoJsonTooltip(
-        fields = ['name','travel_time','public','beeswarm'],
-        aliases = ['Neighborhood:','Average Commute:','Public school enrollment:',''],
+        fields = ['name','travel_time','median_income','beeswarm'],
+        aliases = ['Neighborhood:','Average Commute:','Median Income:',''],
         style = 'width: 300px; height: 350px;',
         localize = True,
     )
-).add_to(commute)
+).add_to(m)
 
 folium.LayerControl().add_to(m)
 # -
 
 m
+
+m.save('interact.html')
