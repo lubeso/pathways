@@ -25,8 +25,6 @@ csv_url = '../../data/info/ctracts.csv'
 ctracts = pd.read_csv(csv_url)
 # -
 
-cmp(30)
-
 cmp = branca.colormap.LinearColormap(
     colors = [
         (0.102,0.588,0.255,1.0),
@@ -40,7 +38,8 @@ cmp = branca.colormap.LinearColormap(
 cmp.caption = 'Average Commute (minutes)'
 
 # +
-m = folium.Map(location = loc,tiles='cartodbpositron')
+m = folium.Map(location = loc,
+               zoom_start = 11)
 
 cmp.add_to(m)
 
@@ -48,8 +47,8 @@ def style(feature):
     ttime = feature['properties']['travel_time']
     return {
         'weight' : 0.3,
-        'color' : 'black',
-        'opacity' : 0.5,
+        'color' : 'white',
+        'opacity' : 0.6,
         'fillOpacity': 0.8,
         'fillColor' : '#ffffff00' if ttime is None else cmp(ttime)
     }
@@ -71,4 +70,4 @@ folium.LayerControl().add_to(m)
 
 m
 
-m.save('interact.html')
+m.save('../html/src/traveltime.html')
